@@ -10064,7 +10064,7 @@ encoder:
 筛	tjgh	22097
 梨	tjsu	22096
 稞	tjsy	22095
-犁	tjt	22094 #-
+犁	tjt	22094	#-
 篮	tjtl	22093
 馥	tjtt	22092
 复	tjtu	22091
@@ -11377,7 +11377,7 @@ encoder:
 茞	aahh	20784
 藍	aahl	20783
 藖	aahm	20782
-虦	aah	20781 #-
+虦	aah	20781	#-
 蕥	aahy	20780
 剗	aajh	20779
 蓳	aakg	20778
@@ -15186,8 +15186,8 @@ encoder:
 圵	fhg	16975
 㚀	fhga	16974
 壉	fhge	16973
-垰	fhg	16972 #-
-䞙	fhg	16971 #-
+垰	fhg	16972	#-
+䞙	fhg	16971	#-
 䟄	fhgm	16970
 䟎	fhgm	16969
 䞛	fhgn	16968
@@ -16100,7 +16100,7 @@ encoder:
 㰳	gfgw	16061
 琧	gfgy	16060
 玕	gfh	16059
-瑱	gfh	16058 #-w
+瑱	gfh	16058	#-w
 琎	gfjp	16057
 瓄	gflm	16056
 璹	gfnf	16055
@@ -18234,7 +18234,7 @@ encoder:
 漷	iybb	13927
 涥	iybh	13926
 潡	iybt	13925
-㳰	iyc	13924 #-
+㳰	iyc	13924	#-
 淯	iyce	13923
 㳘	iycq	13922
 㳿	iycs	13921
@@ -18430,8 +18430,8 @@ encoder:
 虷	jfh	13731
 㪋	jfhc	13730
 蛣	jfkg	13729
-暿	jfk	13728 #-
-蟢	jfk	13727 #-
+暿	jfk	13728	#-
+蟢	jfk	13727	#-
 暔	jfmf	13726
 㬨	jfoo	13725
 黒	jfou	13724
@@ -19210,8 +19210,8 @@ encoder:
 䠐	khhd	12951
 躆	khhe	12950
 䠡	khhg	12949
-踄(同“步”)	khh	12948 #-
-䠩	khh	12947 #-
+踄(同“步”)	khh	12948	#-
+䠩	khh	12947	#-
 跕	khhk	12946
 嚬	khhm	12945
 䠕	khhs	12944
@@ -19609,7 +19609,7 @@ encoder:
 唒	ksgg	12552
 㖦	ksjg	12551
 嘾	ksjh	12550
-槑	ksk	12549 #-(ksks)
+槑	ksk	12549	#-(ksks)
 㘄	ksly	12548
 唽	ksrh	12547
 㗚	kssy	12546
@@ -20171,7 +20171,7 @@ encoder:
 䌎	ltki	11990
 㨼	ltkr	11989
 䡯	ltln	11988
-䢀	ltn	11987 #-
+䢀	ltn	11987	#-
 轓	ltol	11986
 軤	ltuf	11985
 輈	ltuy	11984
@@ -21459,7 +21459,7 @@ encoder:
 惢	nnnu	10702
 㦏	nnnw	10701
 鵋	nnqo	10700
-慴	nnr	10699 #-
+慴	nnr	10699	#-
 怭	nntt	10698
 憀	nnwe	10697
 㥡	nnxs	10696
@@ -24955,7 +24955,7 @@ encoder:
 䣗	rdfb	7206
 搙	rdff	7205
 㨒	rdff	7204
-拝	rdf	7203 #-(rdfh)
+拝	rdf	7203	#-(rdfh)
 撦	rdfj	7202
 䫧	rdfm	7201
 鷎	rdfo	7200
@@ -27280,7 +27280,7 @@ encoder:
 鄎	thnb	4881
 蜑	thnj	4880
 䗺	thnj	4879
-臫(自重)	thn	4878 #-
+臫(自重)	thn	4878	#-
 簴	thow	4877
 䫵	thpm	4876
 邉	thpp	4875
@@ -27358,7 +27358,7 @@ encoder:
 䈓	tjqn	4803
 䱘	tjqo	4802
 䊬	tjso	4801
-篂	tjt	4800 #-
+篂	tjt	4800	#-
 馫	tjtj	4799
 馦	tjuw	4798
 㴝	tjwi	4797
@@ -30555,7 +30555,7 @@ encoder:
 儲	wyfj	1607
 鶽	wyfo	1606
 傠	wyfy	1605
-雋	wyh	1604 #-
+雋	wyh	1604	#-
 倞	wyiy	1603
 儕	wyjg	1602
 㑪	wyjg	1601
@@ -31526,7 +31526,7 @@ encoder:
 誚	yieg	636
 勍	yiet	635
 氷	yii	634
-誻	yij	633 #-
+誻	yij	633	#-
 剠	yijh	632
 㙶	yipf	631
 譡	yipl	630
@@ -31704,7 +31704,7 @@ encoder:
 甂	ynmy	458
 㼐	ynmy	457
 記	ynn	456
-戺	ynn	455 #-
+戺	ynn	455	#-
 焈	ynno	454
 戹	ynnv	453
 譔	ynnw	452
@@ -32005,7 +32005,7 @@ encoder:
 詥	ywgk	157
 諡	ywgl	156
 䚷	ywgn	155
-證	ywg	154 #-
+證	ywg	154	#-
 譣	ywgw	153
 㼚	ywgy	152
 㫆	ywiy	151
