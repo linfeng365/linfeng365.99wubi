@@ -18,8 +18,208 @@ encoder:
     - length_in_range: [4, 10]
       formula: "AaBaCaZa"
 ...
-文件文件夹
-#
+##多写动词,然后是名词,抽象的名词。
+
+#2017-12-28 18:46 添加了 200多个词组
+作者	wtft
+诚意	yduj
+才能	ftce
+打动	rsfc
+眼睛	hvhg
+只有	kwde
+查询	sjyq
+一下	gggh
+类型	odga
+体验	wscg
+不同	dhmg
+相同	shmg
+好的	vbrq
+真正	fhgh
+游戏	iyca
+不多	dhqq
+很多	tvqq
+好多	vbqq
+哪种	kntk
+预留	cnqy
+这种	yptk
+必需	ntfd
+答案	twpv
+参考	cdft
+学习	ipnu
+
+物品	cqkk
+牺牲	csct
+矢去	tdfc
+艰难	cvcw
+给予	xwcb
+承认	bdyw
+承诺	bdya
+承担	bdrj
+
+
+效果	urjs
+孩子	bybb
+小孩	ihby
+儿童	qtuj
+孤独	brqt
+害怕	pdnr
+危险	qdbw
+危害	qdpd
+维基	xwdw
+来源	guid
+第一	txgg
+第一次	tguq
+开始	gavc
+结束	xfsk
+继续	xoxf
+及时	byjf
+
+具体	hwws
+一休	ggws
+
+声音	fnuj
+
+现实	gmpu
+屏幕	nuaj
+
+
+
+快乐	nntn
+痛苦	ucad
+焦虑	wyhn
+沮丧	iefu
+从容	wwpw
+
+
+
+习惯	nunx
+
+暂停	lrwy
+停止	wyhh
+播放	rtyt
+
+
+编码	xydc
+日子	jjbb
+日历	jjde
+工具	aahw
+林峰	ssmt
+林和馨	stfn
+动词	fcyn
+名词	qkyn
+抽象	rmqk
+印象	qgqk
+笔记	teyn
+五笔	ggte
+拼音	ruuj
+练习	xanu
+
+图书	ltnn
+茶叶	awkf
+咖啡	kekh
+
+相关	shud
+感觉	dgip
+辛苦	uyad
+辛苦了	uabn
+休息	wsth
+睡觉	htip
+觉悟	ipng
+冥想	pjsh
+吃饭	ktqn
+运动	fcfc
+跑步	khhh
+打球	rsgg
+开车	galg
+
+# 编程
+
+编程	xytk
+首页	utdm
+互联网	gbmr
+
+浏览	iyjt
+公司	wcng
+比特币	xctm
+区块链	afql
+
+影响	jykt
+事情	gkng
+
+# 人名
+马克	cgdq
+扎克伯格	rdws
+比尔	xxqi
+盖茨(Bill Gates)	ugau
+比尔盖茨	xqua
+乔布斯	tddw
+马克斯	cddw
+埃隆	fcbt
+马斯克(Elon Musk)	cddq
+
+# 公司名
+ Apple 	appl
+微软 (Microsoft)	tmlq
+苹果	agjs
+谷歌 (Google)	wwsk
+特斯拉	cdru
+
+阿里巴巴	bjcc
+淘宝	iqpg
+京东	yiai
+腾迅	eunf
+小米	ihoy
+百度	djoa
+
+天猫	gdqt
+
+知乎	tdtu
+豆瓣	gkur
+亚马逊 (Amazon)	gcbi
+
+
+确定	dqpg
+确认	dqyw
+
+
+进化论	fwyw
+演化	ipwx
+进化	fjwx
+模因	sald
+基因	dwld
+达尔文	dqyy
+
+妈妈	vcvc
+爸爸	wrwr
+奶奶	vbvb
+
+不行	dhtg
+写作	pgwt
+回事	lkgk
+回合	lkwg
+哲学	rrip
+人生	wwtg
+没有	iwde
+
+ iPhone 	ipho
+ iPad 	ipad
+ Git 	gitt
+
+成功	dnae
+设置	ywlf
+编辑	xylk
+目录	hhvi
+快捷	nnrg
+快捷键	nrqv
+配置	sglf
+陶瓷	bquq
+聊天	bqgd
+聊聊	bqbq
+微信	tmwy
+卡片	hhth
+草垛寻针	afvq 
+
+# 计算机相关 
 命令	wgwy
 文件	yywt
 文件夹	ywgu
@@ -27,6 +227,12 @@ encoder:
 电脑	jney
 键盘	qvtu
 鼠标	ensf
+手机	rtsw
+显示	jofi
+显示器	jfkk
+
+
+
 链接	qlru
 加油	ekim
 复制	tjtg	40009
@@ -5010,7 +5216,7 @@ encoder:
 杳	sjf	26920
 覃	sjj	26919
 可	skd	26918
-束	skd	26917
+束	ski	26917
 杏	skf	26916
 柬	sld	26915
 柙	slh	26914
@@ -6012,7 +6218,7 @@ encoder:
 恧	dmjn	25918
 耍	dmjv	25917
 砚	dmqn	25916
-碾	dnae	25915
+#~碾	dnae	25915
 嘏	dnhc	25914
 尴	dnjl	25913
 盛	dnlf	25912
@@ -7057,7 +7263,7 @@ encoder:
 棠	ipks	24873
 浑	iplh	24872
 觉	ipmq	24871
-涫	ipng	24870
+#~涫	ipng	24870
 鲎	ipqg	24869
 沈	ipqn	24868
 滨	iprw	24867
@@ -8974,7 +9180,7 @@ encoder:
 猁	qttj	22956
 獯	qtto	22955
 犭	qttt	22954
-獐	qtuj	22953
+獐	qtu	22953 # 
 獍	qtuq	22952
 狡	qtur	22951
 卿	qtvb	22950
@@ -10047,7 +10253,7 @@ encoder:
 癃	ubtg	21883
 逆	ubtp	21882
 槊	ubts	21881
-痉	ucad	21880
+#~痉	ucad	21880
 羟	ucag	21879
 痛	ucek	21878
 衮	uceu	21877
@@ -10206,7 +10412,7 @@ encoder:
 粢	uqwo	21724
 姿	uqwv	21723
 瓷	uqwy	21722
-次	uqwy	21721
+#~次	uqwy	21721
 疚	uqyi	21720
 瘤	uqyl	21719
 郊	urbh	21718
@@ -11146,7 +11352,7 @@ encoder:
 茞	aahh	20784
 藍	aahl	20783
 藖	aahm	20782
-虦	aahw	20781
+虦	aah	20781 #-
 蕥	aahy	20780
 剗	aajh	20779
 蓳	aakg	20778
@@ -13852,7 +14058,7 @@ encoder:
 碀	dqvh	18078
 兝	dqwv	18077
 磂	dqyl	18076
-镹	dqyy	18075
+镹	dqy	18075	#-
 㼋	drcy	18074
 碷	drfh	18073
 砶	drg	18072
@@ -14955,8 +15161,8 @@ encoder:
 圵	fhg	16975
 㚀	fhga	16974
 壉	fhge	16973
-垰	fhgh	16972
-䞙	fhgh	16971
+垰	fhg	16972 #-
+䞙	fhg	16971 #-
 䟄	fhgm	16970
 䟎	fhgm	16969
 䞛	fhgn	16968
@@ -15651,7 +15857,7 @@ encoder:
 鸖	fwyo	16279
 䴇	fwyo	16278
 㙫	fwys	16277
-㱋	fwyw	16276
+㱋(同'确')	fwy	16276	#-
 靃	fwyy	16275
 䨎	fxcu	16274
 㙣	fxde	16273
@@ -18003,7 +18209,7 @@ encoder:
 漷	iybb	13927
 涥	iybh	13926
 潡	iybt	13925
-㳰	iyca	13924
+㳰	iyc	13924 #-
 淯	iyce	13923
 㳘	iycq	13922
 㳿	iycs	13921
@@ -18199,8 +18405,8 @@ encoder:
 虷	jfh	13731
 㪋	jfhc	13730
 蛣	jfkg	13729
-暿	jfkk	13728
-蟢	jfkk	13727
+暿	jfk	13728 #-
+蟢	jfk	13727 #-
 暔	jfmf	13726
 㬨	jfoo	13725
 黒	jfou	13724
@@ -18979,8 +19185,8 @@ encoder:
 䠐	khhd	12951
 躆	khhe	12950
 䠡	khhg	12949
-踄	khhh	12948
-䠩	khhh	12947
+踄(同“步”)	khh	12948 #-
+䠩	khh	12947 #-
 跕	khhk	12946
 嚬	khhm	12945
 䠕	khhs	12944
@@ -19940,7 +20146,7 @@ encoder:
 䌎	ltki	11990
 㨼	ltkr	11989
 䡯	ltln	11988
-䢀	ltnn	11987
+䢀	ltn	11987 #-
 轓	ltol	11986
 軤	ltuf	11985
 輈	ltuy	11984
@@ -21228,7 +21434,7 @@ encoder:
 惢	nnnu	10702
 㦏	nnnw	10701
 鵋	nnqo	10700
-慴	nnrg	10699
+慴	nnr	10699 #-
 怭	nntt	10698
 憀	nnwe	10697
 㥡	nnxs	10696
@@ -25797,7 +26003,7 @@ encoder:
 楅	sgkl	6133
 釅	sgkt	6132
 梪	sgku	6131
-醳	sglf	6130
+醳	sgl	6130	#-
 橿	sglg	6129
 醞	sgll	6128
 醲	sgme	6127
@@ -27306,7 +27512,7 @@ encoder:
 筫	tmu	4624
 笍	tmwu	4623
 箆	tmwx	4622
-䄲	tmwy	4621
+䄲	tmw	4621	#-
 徾	tmyt	4620
 笢	tnab	4619
 䦾	tncq	4618
@@ -30323,7 +30529,7 @@ encoder:
 儲	wyfj	1607
 鶽	wyfo	1606
 傠	wyfy	1605
-雋	wyhn	1604
+雋	wyh	1604 #-
 倞	wyiy	1603
 儕	wyjg	1602
 㑪	wyjg	1601
