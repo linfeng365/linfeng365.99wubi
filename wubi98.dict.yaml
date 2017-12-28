@@ -20,6 +20,31 @@ encoder:
 ...
 ##多写动词,然后是名词,抽象的名词。
 
+
+为什么	ywtc	# 正确
+为什么	ywft	# 习惯
+行为	tgoy
+行为	tgye
+敏感	txdg
+记忆	ynnn
+
+
+志远	fnfq
+
+之前	ppue
+
+如此	vkhx
+自已	thnn
+自个	thwh
+又	ci
+又是	cijg
+神经	pyxc
+想看	shrh
+看过	rhfp
+在看	dhrh
+问题	ukjg
+赌博	mffs
+
 #2017-12-28 18:46 添加了 200多个词组
 作者	wtft
 诚意	yduj
@@ -267,7 +292,7 @@ encoder:
 什么	wftc	31869
 工	a	31868
 了	b	31867
-又	c	31866
+以	c	31866
 在	d	31865
 有	e	31864
 地	f	31863
@@ -4275,8 +4300,8 @@ encoder:
 绕	xat	27861
 绌	xbm	27860
 级	xby	27859
-弪	xca	27858
-#~经	xca	27857
+#~弪	xca	27858
+经	xca	27857
 缀	xcc	27856
 绎	xcg	27855
 绐	xck	27854
@@ -10930,7 +10955,7 @@ encoder:
 绌	xbmh	21206
 级	xbyy	21205
 弪	xcag	21204
-#~经	xcag	21203
+经	xcag	21203
 缀	xccc	21202
 绎	xcgh	21201
 绐	xckg	21200
@@ -13110,7 +13135,7 @@ encoder:
 骙	cgwd	19026
 犑	chdy	19025
 覌	chqn	19024
-厼	ciu	19023
+#~厼	ciu	19023
 犦	cjai	19022
 㹇	cjqn	19021
 㣍	cket	19020
@@ -27255,7 +27280,7 @@ encoder:
 鄎	thnb	4881
 蜑	thnj	4880
 䗺	thnj	4879
-臫	thnn	4878
+臫(自重)	thn	4878 #-
 簴	thow	4877
 䫵	thpm	4876
 邉	thpp	4875
@@ -28078,6 +28103,7 @@ encoder:
 竼	twyu	4058
 篒	twyv	4057
 龜	txd	4056
+龜	gui	#+
 㣧	txen	4055
 䶰	txen	4054
 勄	txet	4053
@@ -31500,7 +31526,7 @@ encoder:
 誚	yieg	636
 勍	yiet	635
 氷	yii	634
-誻	yijg	633
+誻	yij	633 #-
 剠	yijh	632
 㙶	yipf	631
 譡	yipl	630
@@ -31678,7 +31704,7 @@ encoder:
 甂	ynmy	458
 㼐	ynmy	457
 記	ynn	456
-戺	ynnn	455
+戺	ynn	455 #-
 焈	ynno	454
 戹	ynnv	453
 譔	ynnw	452
@@ -32110,7 +32136,7 @@ encoder:
 譶	yyy	26 #(yyyf)
 #~戈	a	25
 #~子	b	24
-#~又	c	23
+又	c	23
 #~大	d	22
 #~月	e	21
 #~土	f	20
