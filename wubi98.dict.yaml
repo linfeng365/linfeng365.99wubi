@@ -19,10 +19,36 @@ encoder:
       formula: "AaBaCaZa"
 ...
 ##多写动词,然后是名词,抽象的名词。
-
+比如	xxvk
+例如	wgvk
+比方	xxyy
+譬如	nkvk
+无限	fqbv
+资源	uqid
+控制	rptg
+有	de
+还有	dhde
+利用	tjet
+有限	debv
+不可能	dsce
+打击	rsgb
+贝	mhn	40029
+宝贝	pgmh
+浪费	iyxj
+费力	xjen
+能量	cejg
+可能	skce
+使用	wget
+值得	wftj
+重要	tgsv
+肯定	hepg
+否定	dhpg
+是否	jgdh
+否	dhik	#习惯
 电影	jnjy
 世界	anjw
-
+机遇	swjm
+风险	wrbw
 为什么	ywtc	# 正确
 为什么	ywft	# 习惯
 行为	tgoy
@@ -4716,7 +4742,7 @@ encoder:
 厌	ddi	27452
 套	ddu	27451
 历	dee	27450
-有	def	27449
+有	def	27449 
 胡	deg	27448
 夯	der	27447
 髟	det	27446
@@ -5031,7 +5057,7 @@ encoder:
 胄	mef	27137
 冉	mfd	27136
 巾	mhk	27135
-冂	mhn	27134
+冂	mhnn	27134 #+ n
 则	mjh	27133
 岬	mlh	27132
 岫	mmg	27131
@@ -5268,7 +5294,7 @@ encoder:
 枚	sty	26900
 样	suh	26899
 梓	suh	26898
-#~要	svf	26897
+要	svf	26897
 根	svy	26896
 机	swn	26895
 术	syi	26894
@@ -6993,7 +7019,7 @@ encoder:
 悲	hdhn	25175
 斐	hdhy	25174
 瞍	hehc	25173
-瞬	hepg	25172
+#~瞬	hepg	25172
 睨	heqn	25171
 睬	hesy	25170
 瞌	hfcl	25169
@@ -13849,7 +13875,7 @@ encoder:
 㪺	dhhf	18319
 覔	dhhq	18318
 夒	dhht	18317
-㗤	dhik	18316
+㗤	dhi	18316	#-
 顣	dhim	18315
 慼	dhin	18314
 㞝	dhin	18313
@@ -29742,7 +29768,7 @@ encoder:
 㐾	wfqn	2427
 㑍	wfsy	2426
 侾	wftb	2425
-偖	wftj	2424
+偖	wft	2424	#-
 侤	wftn	2423
 倖	wfuf	2422
 㒓	wfup	2421
