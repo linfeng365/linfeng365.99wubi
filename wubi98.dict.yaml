@@ -19,6 +19,63 @@ encoder:
       formula: "AaBaCaZa"
 ...
 ##多写动词,然后是名词,抽象的名词。
+
+环节	gdab
+气氛	rtrw
+时候	jfwh
+时刻	jfyn
+刻划	ynaj
+时代	jfwa
+带来	gkgu
+兴奋	igdl
+更加	gjek
+专注	fniy
+上下	hhgh
+左右	dadk
+符合	twwg
+符号	twkg
+今天	wygd
+变成	yodn
+合适	wgtd
+适合	tdwg
+懒洋洋	nsii
+监控	jtrp
+监视	jtpy
+监狱	jtqt
+监测	jtim
+监听	jtkr
+太监	dyjt	
+临时	jtjf
+降临	btjt
+来临	gujt
+不错	dhqa
+很好	tvvb
+
+历史	dekr
+今天	wygd
+广州	oyyt
+共享	awyb
+访问	yyuk
+盒子	wgbb
+表现	gegm
+算法	thif
+设计	ywyf
+
+
+会不会祸害你了。	hhnl
+平时	gujf
+搜索	refp
+怎么	thtc
+输入	lwty
+文本	yysg
+文化	yywx
+文明	yyje
+文字	yypb
+作文	wtyy
+语文	ygyy
+课文	yjyy
+交流	uriy
+自我	thtr	
 比如	xxvk
 例如	wgvk
 比方	xxyy
@@ -27282,7 +27339,7 @@ encoder:
 籰	thhc	4912
 徏	thht	4911
 忂	thhy	4910
-臯	thif	4909
+臯	thi	4909	#-
 翺	thin	4908
 鷱	thio	4907
 篎	thit	4906
@@ -32072,7 +32129,7 @@ encoder:
 詅	ywyc	123
 謢	ywyc	122
 﨎	ywyc	121
-䜃	ywyf	120
+䜃	ywy	120	#-
 誰	ywyg	119
 誝	ywyk	118
 謒	ywyk	117
