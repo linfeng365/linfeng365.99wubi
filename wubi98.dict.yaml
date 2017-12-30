@@ -18,8 +18,49 @@ encoder:
     - length_in_range: [4, 10]
       formula: "AaBaCaZa"
 ...
+
+
 ##多写动词,然后是名词,抽象的名词。
 
+这些	yphx
+理念	gjwy
+选择	tfrc
+概念	svwy
+非常	hdip
+掌握	iprn
+新版	usth
+旧版	hjth
+老版	ftth
+速度	skoa
+更多	gjqq
+词组	ynxe
+忘记	ynyn
+流氓	iyyn
+单词	ujyn
+
+
+忘	ynn	40035
+这	yp	40034
+身	tmd	40033
+炎	ooo	40032
+火	oo	40031
+
+看见	rhmq
+成长	dnta
+急猝	qvqt
+病卒	ugyw
+大人	ddww
+男人	leww
+女人	vvww
+几条	wtts
+不断	dhon
+反应	rcoi
+早饭	jhqn
+早餐	jhhq
+晚饭	jqqn
+晚餐	jqhq
+午饭	tfqn
+中午	khtf	40030
 环节	gdab
 气氛	rtrw
 时候	jfwh
@@ -364,8 +405,8 @@ encoder:
 他们	wbwu
 你们	wqwu
 她们	vbwu
+我们	trwu
 我们	qtwu	40008 #习惯
-我们	tawu	40007
 我	qtah	40006 #习惯
 我	tahg	40005
 玩具	gfhw	40004
@@ -5052,7 +5093,7 @@ encoder:
 味	kfy	27199
 呈	kgf	27198
 呋	kgy	27197
-#~中	khk	27196
+中	khk	27196
 足	khu	27195
 卟	khy	27194
 虽	kju	27193
@@ -7914,7 +7955,7 @@ encoder:
 趵	khqy	24337
 踬	khrm	24336
 跃	khtd	24335
-踵	khtf	24334
+踵	kht	24334	#-
 跌	khtg	24333
 鹭	khtg	24332
 跞	khti	24331
@@ -13699,7 +13740,7 @@ encoder:
 镽	ddui	18552
 磡	ddwe	18551
 碪	ddwn	18550
-硤	ddww	18549
+硤	ddw	18549	#-
 䃆	ddwy	18548
 厐	ddxy	18547
 夶	ddy	18546
@@ -18610,8 +18651,8 @@ encoder:
 蠦	jhll	13641
 迧	jhpk	13640
 㒻	jhqb	13639
-晛	jhqn	13638
-蜆	jhqn	13637
+晛	jhq	13638	#-
+蜆	jhq	13637	#-
 畃	jhqy	13636
 朄	jhsl	13635
 䗂	jhwn	13634
@@ -19398,9 +19439,9 @@ encoder:
 䟦	khtc	12853
 䟯	khtd	12852
 䠗	khtd	12851
-嘑	khtf	12850
-跦	khtf	12849
-䟭	khtf	12848
+嘑	kht	12850	#-
+跦	kht	12849	#-
+䟭	kht	12848	#-
 跭	khtg	12847
 躌	khtg	12846
 蹝	khth	12845
