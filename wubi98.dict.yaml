@@ -17,11 +17,61 @@ encoder:
       formula: "AaBaCaCb"
     - length_in_range: [4, 10]
       formula: "AaBaCaZa"
+##多写动词,然后是名词,抽象的名词。
 ...
 
 
-##多写动词,然后是名词,抽象的名词。
-
+添加	igek
+修改	whnt
+删除	mmbw
+保留	wkqy
+基本	dwsg
+基础	dwdb
+中山	khmm
+贪心	wyny	
+金属	qqnt
+摇滚	reiu
+音乐	ujtn
+喜欢	fkcq
+来自	guth
+代表	wage
+代表作	wgwt 
+作品	wtkk
+代表作品	wgwk
+错过	qafp
+走路	fhkh
+过去	fpfc
+走过	fhfp
+路过	khfp
+心中	nykh
+中心	khny
+三天	dggd
+两天	gmgd
+一天	gggd
+今晚	wyjq
+今明	wyje
+今夜	wyyw
+心情	nyng
+晚间	jquj
+日记	jjyn
+说到底,我们是利用有限的资源,去做无限的事。	shdd
+大腿	ddev
+解释	qeto
+情况	nguk
+工作	aawt
+各种	tktk
+提高	tjym
+整理	skgj
+晚上	jqhh
+上午	hhtf
+下午	ghtf
+双手	ccrt
+逃避	qink
+制造	tgtf
+治愈	icwg
+康复	ovtj
+很棒	tvsd
+推荐	rwad
 这些	yphx
 理念	gjwy
 选择	tfrc
@@ -37,13 +87,15 @@ encoder:
 忘记	ynyn
 流氓	iyyn
 单词	ujyn
-
-
+女	vv	40038
+嗯	kld	40037
+嗯嗯	kld	40036
 忘	ynn	40035
 这	yp	40034
 身	tmd	40033
 炎	ooo	40032
 火	oo	40031
+
 
 看见	rhmq
 成长	dnta
@@ -169,6 +221,7 @@ encoder:
 自个	thwh
 又	ci
 又是	cijg
+又	cc	40039
 神经	pyxc
 想看	shrh
 看过	rhfp
@@ -498,7 +551,7 @@ encoder:
 及	by	31794
 戏	ca	31793
 邓	cb	31792
-双	cc	31791
+#~双	cc	31791
 参	cd	31790
 能	ce	31789
 对	cf	31788
@@ -980,7 +1033,7 @@ encoder:
 杂	vs	31312
 九	vt	31311
 嫌	vu	31310
-妇	vv	31309
+妇	vvv	31309	#+
 妗	vw	31308
 姆	vx	31307
 妨	vy	31306
@@ -10513,7 +10566,7 @@ encoder:
 韵	ujqu	21779
 歆	ujqw	21778
 赣	ujtm	21777
-戆	ujtn	21776
+戆	ujt	21776	#-
 韶	ujvk	21775
 部	ukbh	21774
 瓿	ukgy	21773
@@ -15337,7 +15390,7 @@ encoder:
 䟆	fhjg	16955
 趧	fhjh	16954
 䞶	fhjr	16953
-趗	fhkh	16952
+趗	fhk	16952	#-
 趮	fhks	16951
 嗭	fhkx	16950
 㼭	fhky	16949
@@ -15669,7 +15722,7 @@ encoder:
 㙆	fpdc	16623
 蠧	fpdj	16622
 槖	fpds	16621
-豰	fpfc	16620
+豰hù	fpf	16620	#-
 塜	fpfe	16619
 霥	fpfe	16618
 壺	fpfg	16617
@@ -19308,7 +19361,7 @@ encoder:
 跿	khfh	12984
 踷	khfj	12983
 䟚	khfj	12982
-躂	khfp	12981
+躂	khf	12981	#-
 蹺	khfq	12980
 踜	khft	12979
 蹎	khfw	12978
@@ -23574,7 +23627,7 @@ encoder:
 觡	qetk	8718
 䚛	qetk	8717
 䚩	qetk	8716
-㷺	qeto	8715
+㷺	qet	8715	#-
 䚚	qetq	8714
 觴	qetr	8713
 觲	qeug	8712
@@ -28668,7 +28721,7 @@ encoder:
 韸	ujth	3625
 䀍	ujtl	3624
 贛	ujtm	3623
-戇	ujtn	3622
+戇	ujt	3622 #-
 韼	ujtp	3621
 竷	ujtt	3620
 䪭	ujuj	3619
@@ -30711,10 +30764,10 @@ encoder:
 侅	wynw	1582
 欦	wynw	1581
 㱃	wynw	1580
-僱	wyny	1579
-雂	wyny	1578
-㼨	wyny	1577
-䨄	wyny	1576
+僱	wyn	1579	#-
+雂	wyn	1578	#-
+㼨	wyn	1577	#-
+䨄	wyn	1576	#-
 㲬	wyoe	1575
 顦	wyom	1574
 鷦	wyoo	1573
