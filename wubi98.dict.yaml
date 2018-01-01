@@ -21,6 +21,129 @@ encoder:
 ...
 
 
+失望	tgyn
+希望	rdyn
+属于	ntgf
+记得	yntj
+方向	yytm
+上班	hhgy
+作业	wtoh
+ WorkFlowy 	wkfy
+ WorkFlowy 	wkfl
+好看	vbrh
+部落	ukai
+URL	url
+条目	tshh
+地址	fbfh
+目标	hhsf
+计划	yfaj
+装修	ufwh
+题目	jghh
+书单	nnuj
+跟踪	khkh
+追踪	tnkh
+名称	qktq
+统计	xyyf
+注册	iymm
+模版	sath
+分享	wvyb
+循序	troc
+循环	trgd
+做事	wdgk
+上网	hhmr
+救赎	gimf
+思维	lnxw
+购物	mqcq
+项目	adhh
+邀请	ryyg
+关于	udgf
+总结	ukxf
+阅读	uuyf
+简书	tunn
+样子	subb
+一蹴而就	gkdy
+英文	amyy
+中文	khyy
+方法	yyif
+打盹	rshg
+特别	cfke
+清澈	iyiy
+因为	ldye
+反馈	rcqn
+倾听	wxkr
+开心	gany
+进入	fjty
+达成	dpdn
+心愿	nydr
+见面	ghdl
+下雪	ghfv
+下雨	ghfg
+下载	ghfa
+写字	pgpb
+和宝	tkpg
+完美	pfug
+日	jj	40042
+万物	gqcq
+起源	fhid
+动物	fccq
+未知	fgtd
+未来	fggu
+大学	ddip
+可惜	skna
+文档	yysi
+画画	glgl
+漫画	ijgl
+凯雯	mnfy	#2017-12-31	
+同学	mgip
+小猫	ihqt
+小狗	ihqt
+无价	fqww
+财富	mfpg
+扫地	rvfb
+这个	ypwh
+那个	ngwh
+哪个?	knwh	
+隐藏	bqaa
+宝藏	pgaa
+收藏	nhaa
+搜集	rewy
+那样	ngsu
+哪样	knsu
+这样	ypsu
+就这样	yiys
+评论	ygyw
+评价	ygww
+新年	ustg
+赞成	tfdn
+反对	rccf
+全部	wguk
+版本	thsg
+生活	tgit
+矢去	tdfc
+力量	enjg
+吞噬	gdkt
+杀伤力	rwen
+杀伤	rswt
+慢慢	njnj
+快快	nnnn	40041
+快点	nnhk
+今年	wytg
+今生	wytg
+今世	wyan
+洗澡	itik
+广告	oytf
+狂人	qtww
+电视	jnpy
+大脑 ddey
+认知	ywtd
+话题	ytjg
+需要	fdsv
+需求	fdgi
+必需	ntfd
+无需	fqfd
+尚需	imfd
+时日	jfjj
+查询	sjyq
 添加	igek
 修改	whnt
 删除	mmbw
@@ -54,6 +177,7 @@ encoder:
 心情	nyng
 晚间	jquj
 日记	jjyn
+
 说到底,我们是利用有限的资源,去做无限的事。	shdd
 大腿	ddev
 解释	qeto
@@ -87,6 +211,8 @@ encoder:
 忘记	ynyn
 流氓	iyyn
 单词	ujyn
+呵	kskg
+呵	ksk	40040
 女	vv	40038
 嗯	kld	40037
 嗯嗯	kld	40036
@@ -367,6 +493,7 @@ encoder:
 马斯克(Elon Musk)	cddq
 
 # 公司名
+App	app
  Apple 	appl
 微软 (Microsoft)	tmlq
 苹果	agjs
@@ -2183,8 +2310,8 @@ encoder:
 洹	igj	30162
 滞	igk	30161
 渍	igm	30160
-洌	igq	30159
-光	igq	30158
+光	igq	30159
+洌	igq	30158
 沫	igs	30157
 浃	igu	30156
 兴	igw	30155
@@ -2652,7 +2779,7 @@ encoder:
 啦	kru	29693
 嘌	ksf	29692
 喳	ksj	29691
-#~呵	ksk	29690
+呵呵	ksk	29690
 噤	kss	29689
 噬	kta	29688
 唾	ktg	29687
@@ -4959,7 +5086,7 @@ encoder:
 卉	faj	27386
 邯	fbh	27385
 邗	fbh	27384
-#~地	fbn	27383
+地	fbn	27383
 坡	fby	27382
 去	fcu	27381
 支	fcu	27380
@@ -8043,7 +8170,7 @@ encoder:
 蹄	khyh	24302
 跻	khyj	24301
 踉	khyv	24300
-蹴	khyy	24299
+蹴	khy	24299	#-
 啵	kiby	24298
 哨	kieg	24297
 咣	kigq	24296
@@ -8597,7 +8724,7 @@ encoder:
 书	nnhy	23748
 局	nnkd	23747
 乙	nnll	23746
-已	nnnn	23745
+#~已	nnnn	23745
 快	nnwy	23744
 怩	nnxn	23743
 羽	nnyg	23742
@@ -11413,7 +11540,7 @@ encoder:
 劾	ynte	20932
 肇	yntg	20931
 綮	ynti	20930
-刻	yntj	20929
+刻	ynt	20929	#-
 谧	yntl	20928
 颏	yntm	20927
 亥	yntw	20926
@@ -16346,7 +16473,7 @@ encoder:
 鴊	ghqo	15999
 槼	ghqs	15998
 嫢	ghqv	15997
-㻯	ghtf	15996
+㻯	ght	15996	#-
 颪	ghwj	15995
 玼	ghxn	15994
 㺪	ghy	15993
@@ -18429,7 +18556,7 @@ encoder:
 㶆	iyfj	13916
 乼	iygn	13915
 㗟	iygx	13914
-涼	iyiy	13913
+涼	iyi	13913	#-
 済	iyjg	13912
 湻	iyjg	13911
 濟	iyjg	13910
@@ -19419,7 +19546,7 @@ encoder:
 噳	khkd	12926
 䠤	khkf	12925
 呫	khkg	12924
-踀	khkh	12923
+踀	khk	12923	#-
 蹪	khkm	12922
 䠝	khkm	12921
 䟧	khlg	12920
@@ -19568,8 +19695,8 @@ encoder:
 趽	khyt	12777
 蹾	khyt	12776
 䟘	khyw	12775
-㗔	khyy	12774
-䠙	khyy	12773
+㗔	khy	12774	#-
+䠙	khy	12773	#-
 嘙	kibv	12772
 唦	kiit	12771
 嗩	kimy	12770
@@ -24840,7 +24967,7 @@ encoder:
 㺋	qtwn	7505
 㺘	qtwo	7504
 㹯	qtws	7503
-獫	qtww	7502
+獫	qtw	7502	#-
 猚	qtwy	7501
 狕	qtxe	7500
 猭	qtxe	7499
@@ -31903,7 +32030,7 @@ encoder:
 㱾	yntc	443
 䏿	ynte	442
 䁈	ynth	441
-晵	yntj	440
+晵	ynt	440	#-
 啓	yntk	439
 扄	yntk	438
 衁	yntl	437
