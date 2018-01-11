@@ -21,6 +21,166 @@ encoder:
 ...
 
 
+体力	wsen
+要求	svgi
+绝版	xqth
+知识	tdyk
+小时	ihjf
+分钟	wvqk
+主动	ygfc
+被动	pufc
+路径	khtc
+位置	wulf
+灵感	vodg
+目的	hhrq
+好像	vbwq
+起来	fhgu
+没用	iwet
+扩展	rona
+仓库	wbol
+GTD	gtd
+考虑	fthn
+高效	ymur
+极简	sbtu
+主义	ygyr
+好事	vbgk
+小事	ihgk
+大事	ddgk
+开户	gayn
+开房	gayn
+鞋子	afbb
+更新	gjus
+身份	tmww
+身份证	twyg
+不对	dhcf
+交付	urwf
+故事	dtgk
+隐喻	bqkw
+保持	wkrf
+健康	wvov
+自信	thwy
+相信	shwy
+管理	tpgj
+利和	tjtk
+适应	tdoi
+还能	dhce
+不能	dhic
+不知所措	dtrr
+措手不及	rrdb
+手足无措	rkfr
+惊慌失措	nntr
+惊慌	nyna
+核心	syny
+能力	ceen
+已经	nnxc
+曾经	ulxc
+经常	xcip
+专注	fniy
+几天	wtgd
+精神	ogpy
+早上	jhhh
+虐待	hatf
+消耗	iifs
+注意力	iuen
+点数	hkov
+任务	wtte
+强度	xkoa
+心态	nydy
+克服	dqeb
+客服	pteb
+注意	iyuj
+经	xc	40106
+快递	nnux
+终端	xtum
+对比	cfxx
+昨天	jtgd
+方便	yywg
+操作	rkwt
+容易	pwjq
+思考	lnft
+成绩	dnxg
+建议	vgyy
+点评	hkyg
+日常	jjip
+沟通	iqce
+自觉	thip
+厉害	dgpd
+上面	hhdl
+下面	ghdl
+部分	ukwv
+清新	igus
+矫情	tdng
+只能	kwce
+几点	wthk
+每天	txgd
+每周	txmf
+每月	txee
+每年	txtg
+只去做那件有着最大影响的事情。by马克·扎克伯格	wobt	#语句
+Excerpt From	exfm
+Kindle	kind
+摘自	ryth
+时间	jfuj
+不要	dhsv
+记录	ynvi
+英语	amyg
+重新	tgus
+实践	pukh
+白天	rrgd
+养成	ugdn
+消化	iewx
+图样~	ltsu
+距阵	khbl
+客户	ptyn
+刺激	smir
+加入	ekty
+申请	jhge
+语言	ygyk
+医生	attg
+成果	dnjs
+过程	fptk
+明白	jerr
+放弃	ytyc
+大家	ddpg
+结果	xfjs
+舒服	wfeb
+理解	gjqe
+免费	qkxj
+发明	ntje
+不够	dhqk
+软件	lqwt
+号码	kgdc
+或许	akyt
+有用	deet
+历来	degu
+有	de
+from 	from
+by 	by  
+技能	rfce
+关系	udtx
+科学	tuip
+
+学到	ipgc
+提问	rjuk
+智慧	tddh
+想象	shqk
+系统	txxy
+大型	daga
+小型	ihga
+早安	jhpv
+晚安	jqpv
+zhihu.com	vihu
+douban.com	doub
+资料	uqou
+万科	gqtu
+雅居乐	antn
+远洋	fqiu
+中澳	khit
+滨河湾	iiiy
+广场	oyfn
+应该	oiyy
+麻烦	osod
+发烧	ntoa
 失望	tgyn
 希望	rdyn
 属于	ntgf
@@ -28,8 +188,8 @@ encoder:
 方向	yytm
 上班	hhgy
 作业	wtoh
- WorkFlowy 	wkfy
- WorkFlowy 	wkfl
+WorkFlowy 	wkfy
+WorkFlowy 	wkfl
 好看	vbrh
 部落	ukai
 URL	url
@@ -75,7 +235,7 @@ URL	url
 进入	fjty
 达成	dpdn
 心愿	nydr
-见面	ghdl
+见面	mqdl
 下雪	ghfv
 下雨	ghfg
 下载	ghfa
@@ -212,6 +372,9 @@ URL	url
 流氓	iyyn
 单词	ujyn
 呵	kskg
+号	kgn	40103
+有	de	40102
+中	kh	40101
 呵	ksk	40040
 女	vv	40038
 嗯	kld	40037
@@ -302,7 +465,6 @@ URL	url
 无限	fqbv
 资源	uqid
 控制	rptg
-有	de
 还有	dhde
 利用	tjet
 有限	debv
@@ -537,9 +699,9 @@ App	app
 人生	wwtg
 没有	iwde
 
- iPhone 	ipho
- iPad 	ipad
- Git 	gitt
+iPhone 	ipho
+iPad 	ipad
+Git 	gitt
 
 成功	dnae
 设置	ywlf
@@ -578,6 +740,7 @@ App	app
 还是	dhjg
 #不是	dhjg
 不是	dhij
+不好	dhiv
 扭曲	rnma
 扭	rnfg
 确实	dqpu
@@ -6449,7 +6612,7 @@ App	app
 靥	dddf	26023
 磊	dddf	26022
 飙	dddr	26021
-碱	ddgk	26020
+碱	ddg	26020	#–
 砺	ddgq	26019
 厦	ddht	26018
 厣	ddlk	26017
@@ -7491,7 +7654,7 @@ App	app
 耀	igqy	24981
 沫	igsy	24980
 浃	igud	24979
-涞	igus	24978
+涞	igu	24978	#-
 举	igwg	24977
 兴	igwu	24976
 誉	igwy	24975
@@ -10333,7 +10496,7 @@ App	app
 行	tgsh	22139
 秣	tgsy	22138
 秤	tguf	22137
-徕	tgus	22136
+徕	tgu	22136	#-
 算	thaj	22135
 段	thdc	22134
 篡	thdc	22133
@@ -10557,7 +10720,7 @@ App	app
 篆	txeu	21915
 第	txht	21914
 系	txiu	21913
-鳘	txtg	21912
+鳘	txt	21912	#-
 繁	txti	21911
 後	txty	21910
 敏	txty	21909
@@ -14125,7 +14288,7 @@ App	app
 瓺	dgny	18347
 砙	dgny	18346
 烕	dgoi	18345
-䢕	dgpd	18344
+䢕	dgp	18344	#-
 矹	dgqn	18343
 厫	dgqt	18342
 磝	dgqt	18341
@@ -16042,7 +16205,7 @@ App	app
 塅	fthc	16430
 垍	fthg	16429
 䀋	fthl	16428
-鼒	fthn	16427
+鼒	fth	16427	#-
 㙞	fths	16426
 殾	ftjc	16425
 䰩	ftjc	16424
@@ -17890,8 +18053,8 @@ App	app
 㴣	iigw	14582
 㵘	iii	14581 #(iiii)
 尛	iiiu	14580
-渁	iiiy	14579
-㴇	iiiy	14578
+渁	iii	14579	#-
+㴇	iii	14578	#-
 涾	iijg	14577
 溑	iimy	14576
 㶙	iiog	14575
@@ -18471,7 +18634,7 @@ App	app
 洕	iweg	14001
 鹡	iweg	14000
 鶺	iweo	13999
-沴	iwet	13998
+沴	iwe	13998	#-
 漈	iwfi	13997
 涻	iwfk	13996
 溌	iwfq	13995
@@ -19616,7 +19779,7 @@ App	app
 蹮	khsn	12856
 躚	khsp	12855
 䟣	khsy	12854
-䟦	khtc	12853
+䟦	kht	12853	#-
 䟯	khtd	12852
 䠗	khtd	12851
 嘑	kht	12850	#-
@@ -22028,7 +22191,7 @@ App	app
 憻	nylg	10444
 懍	nylt	10443
 翯	nymk	10442
-惼	nyna	10441
+惼	nyn	10441	#-
 悷	nynd	10440
 怺	nyni	10439
 㤺	nynk	10438
@@ -23029,9 +23192,9 @@ App	app
 袓	pueg	9443
 䘽	pueq	9442
 襷	puer	9441
-衼	pufc	9440
-袪	pufc	9439
-䙥	pufc	9438
+衼	puf	9440	#-
+袪	puf	9439	#-
+䙥	puf	9438	#-
 褤	pufe	9437
 袿	puff	9436
 衦	pufh	9435
@@ -23083,7 +23246,7 @@ App	app
 裩	pujx	9389
 裐	puke	9388
 襌	pukf	9387
-衶	pukh	9386
+衶	puk	9386	#-
 䙡	pukm	9385
 䙌	pukm	9384
 襙	puks	9383
@@ -26440,7 +26603,7 @@ App	app
 梘	shqn	6032
 㯉	shtf	6031
 椃	shwn	6030
-椇	shwy	6029
+椇	shw	6029	#-
 橴	shxi	6028
 榩	shyy	6027
 﨔	sigr	6026
@@ -27606,7 +27769,7 @@ App	app
 㣠	thtu	4866
 辠	thuj	4865
 箎	thwb	4864
-臮	thwy	4863
+臮	thw	4863	#-
 篊	tiaw	4862
 笵	tibb	4861
 筂	tibb	4860
@@ -27785,10 +27948,10 @@ App	app
 篅	tmdj	4687
 軄	tmdj	4686
 䠼	tmdj	4685
-躳	tmdk	4684
-躸	tmdk	4683
-軀	tmdk	4682
-䠺	tmdk	4681
+躳	tmd	4684	#-
+躸	tmd	4683	#-
+軀	tmd	4682	#-
+䠺	tmd	4681	#-
 軉	tmdm	4680
 䠳	tmdm	4679
 䠿	tmdm	4678
@@ -27798,8 +27961,8 @@ App	app
 躹	tmdo	4674
 鵢	tmdo	4673
 躭	tmdq	4672
-躱	tmds	4671
-躶	tmds	4670
+躱	tmd	4671	#-
+躶	tmd	4670	#-
 軆	tmdu	4669
 䇦	tmdu	4668
 䠴	tmdu	4667
@@ -29010,8 +29173,8 @@ App	app
 竘	uqkg	3463
 凂	uqkq	3462
 瘓	uqmd	3461
-癬	uqou	3460
-鮺	uqou	3459
+癬	uqo	3460	#-
+鮺	uqo	3459	#-
 鴗	uqoy	3458
 鴹	uqoy	3457
 痑	uqqi	3456
@@ -30320,7 +30483,7 @@ App	app
 癶	wnyy	2153
 㑞	woah	2152
 儣	woaw	2151
-儍	wobt	2150
+儍	wob	2150	#-
 㶡	woi	2149
 僗	wooe	2148
 儝	woos	2147
@@ -30453,7 +30616,7 @@ App	app
 㑅	wthg	2020
 㑑	wthg	2019
 偺	wthj	2018
-倃	wthk	2017
+倃	wth	2017	#-
 㤰	wthn	2016
 䫹	wtja	2015
 䬙	wtjb	2014
@@ -30682,8 +30845,8 @@ App	app
 飹	wvqb	1791
 餡	wvqe	1790
 餆	wvqi	1789
-䬲	wvqk	1788
-䭇	wvqk	1787
+䬲	wvq	1788	#-
+䭇	wvq	1787	#-
 餾	wvql	1786
 飽	wvqn	1785
 鳻	wvqo	1784
@@ -32437,7 +32600,7 @@ App	app
 諦	yyuh	36
 旘	yyuj	35
 識	yyuj	34
-謪	yyuk	33
+謪	yyu	33	#-
 讁	yyup	32
 謗	yyuy	31
 斏	yyvy	30
