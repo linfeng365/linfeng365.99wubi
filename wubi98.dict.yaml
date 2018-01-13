@@ -21,6 +21,24 @@ encoder:
 ...
 
 
+热量	rvjg
+可乐	sktn
+放假	ytwn
+回顾	lkdb
+智能	tdce
+自动	thfc
+Rime	rime
+常识	ipyk
+除夕	bwqt
+要	sv	40113
+标签	sftw
+身体	tmws
+北京	uxyi
+上海	hhit
+告诉	tfyr
+YES	yes	
+OK	ok	40112
+NO	no	40111
 体力	wsen
 要求	svgi
 绝版	xqth
@@ -294,7 +312,7 @@ URL	url
 广告	oytf
 狂人	qtww
 电视	jnpy
-大脑 ddey
+大脑	ddey
 认知	ywtd
 话题	ytjg
 需要	fdsv
@@ -1249,7 +1267,7 @@ Git 	gitt
 林	ss	31386
 枚	st	31385
 样	su	31384
-根	sv	31383
+#~根	sv	31383
 机	sw	31382
 楷	sx	31381
 术	sy	31380
@@ -3278,8 +3296,8 @@ Git 	gitt
 怩	nnx	29357
 羽	nny	29356
 惦	noh	29355
-慵	nov	29354
-屡	nov	29353
+屡	nov	29354
+慵	nov	29353
 恽	npl	29352
 惋	npq	29351
 忱	npq	29350
@@ -14060,7 +14078,7 @@ Git 	gitt
 飆	dddj	18575
 㔏	dddj	18574
 猋	dddu	18573
-䂻	ddey	18572
+䂻	dde	18572	#-
 磭	ddfe	18571
 砳	ddg	18570
 䃭	ddgn	18569
@@ -32388,8 +32406,8 @@ Git 	gitt
 旍	ytwc	248
 旝	ytwj	247
 譗	ytwk	246
-斻	ytwn	245
-䛢	ytwn	244
+斻	ytw	245	#-
+䛢	ytw	244	#-
 㫍	ytwt	243
 誨	ytxy	242
 訸	yty	241
