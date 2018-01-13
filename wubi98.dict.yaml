@@ -21,6 +21,83 @@ encoder:
 ...
 
 
+
+
+
+各种	tktk
+
+各个
+各位
+各别
+各处
+各落
+各界
+咱各
+各类
+各各	
+各色
+各一
+各半
+
+不	dh
+民	na
+同	mg
+是	jg
+一	gg
+产	ut
+和	tk
+换	rqm	40120
+的	rq	40119
+我	tr	40118
+为	ye	40117
+自造	thtf
+发	nt	40116
+
+号	kgn	40103
+有	de	40102
+中	kh	40101
+呵	ksk	40040
+女	vv	40038
+嗯	kld	40037
+嗯嗯	kld	40036
+忘	ynn	40035
+这	yp	40034
+身	tmd	40033
+炎	ooo	40032
+火	oo	40031
+优化	wdwx
+发现	ntgm
+改变	ntyo
+发觉	ntip
+反正	rcgh
+组织	xexk
+刷题	nmjg
+程序员	tokm
+党	ipk
+学	ip
+上学	hhip
+上级	hhxb
+上周	hhmf
+下周	ghmf
+上海	hhit
+上	hh	40115
+关闭	uduf
+关	ud
+自学	thip
+出门	bmuy
+定位	pgwu
+随身	bdtm
+发挥	ntrp
+安全	pvwg
+作用	wtet
+不该	dhiy
+歼灭	gqgo
+消灭	iigo
+迅速	nfsk
+自由	thmh
+打造	rstf
+刻意	ynuj
+觉得	iptj
 热量	rvjg
 可乐	sktn
 放假	ytwn
@@ -121,7 +198,7 @@ GTD	gtd
 点评	hkyg
 日常	jjip
 沟通	iqce
-自觉	thip
+自觉	thiq		#避重码
 厉害	dgpd
 上面	hhdl
 下面	ghdl
@@ -171,7 +248,7 @@ Kindle	kind
 或许	akyt
 有用	deet
 历来	degu
-有	de
+
 from 	from
 by 	by  
 技能	rfce
@@ -361,7 +438,6 @@ URL	url
 解释	qeto
 情况	nguk
 工作	aawt
-各种	tktk
 提高	tjym
 整理	skgj
 晚上	jqhh
@@ -390,18 +466,7 @@ URL	url
 流氓	iyyn
 单词	ujyn
 呵	kskg
-号	kgn	40103
-有	de	40102
-中	kh	40101
-呵	ksk	40040
-女	vv	40038
-嗯	kld	40037
-嗯嗯	kld	40036
-忘	ynn	40035
-这	yp	40034
-身	tmd	40033
-炎	ooo	40032
-火	oo	40031
+
 
 
 看见	rhmq
@@ -786,24 +851,24 @@ Git 	gitt
 了	b	31867
 以	c	31866
 在	d	31865
-有	e	31864
+#~有	e	31864
 地	f	31863
 一	g	31862
 上	h	31861
-不	i	31860
+#~不	i	31860
 是	j	31859
 中	k	31858
 国	l	31857
 同	m	31856
 民	n	31855
-为	o	31854
-这	p	31853
-我	q	31852
+#~为	o	31854
+#~这	p	31853
+#~我	q	31852
 的	r	31851
 要	s	31850
 和	t	31849
 产	u	31848
-发	v	31847
+#~发	v	31847
 人	w	31846
 经	x	31845
 主	y	31844
@@ -882,7 +947,7 @@ Git 	gitt
 历	de	31771
 夺	df	31770
 三	dg	31769
-还	dh	31768
+#~还	dh	31768
 砂	di	31767
 百	dj	31766
 右	dk	31765
@@ -981,7 +1046,7 @@ Git 	gitt
 肯	he	31672
 睦	hf	31671
 睛	hg	31670
-步	hh	31669
+#~步	hh	31669
 叔	hi	31668
 旧	hj	31667
 占	hk	31666
@@ -1014,7 +1079,7 @@ Git 	gitt
 油	im	31639
 沁	in	31638
 渡	io	31637
-党	ip	31636
+#~党	ip	31636
 沟	iq	31635
 汽	ir	31634
 浦	is	31633
@@ -1141,7 +1206,7 @@ Git 	gitt
 懈	nq	31512
 怕	nr	31511
 懒	ns	31510
-改	nt	31509
+#~改	nt	31509
 习	nu	31508
 恨	nv	31507
 恰	nw	31506
@@ -1237,7 +1302,7 @@ Git 	gitt
 所	rn	31416
 扩	ro	31415
 近	rp	31414
-换	rq	31413
+#~换	rq	31413
 折	rr	31412
 打	rs	31411
 手	rt	31410
@@ -1288,7 +1353,7 @@ Git 	gitt
 秋	to	31365
 乏	tp	31364
 稳	tq	31363
-稀	tr	31362
+#~稀	tr	31362
 条	ts	31361
 秩	tt	31360
 冬	tu	31359
@@ -1299,7 +1364,7 @@ Git 	gitt
 并	ua	31354
 疗	ub	31353
 痛	uc	31352
-头	ud	31351
+#~头	ud	31351
 前	ue	31350
 斗	uf	31349
 半	ug	31348
@@ -1399,7 +1464,7 @@ Git 	gitt
 享	yb	31254
 充	yc	31253
 诚	yd	31252
-衣	ye	31251
+#~衣	ye	31251
 计	yf	31250
 证	yg	31249
 让	yh	31248
@@ -1410,7 +1475,7 @@ Git 	gitt
 市	ym	31243
 记	yn	31242
 亦	yo	31241
-亮	yp	31240
+#~亮	yp	31240
 询	yq	31239
 义	yr	31238
 订	ys	31237
@@ -1836,7 +1901,7 @@ Git 	gitt
 存	dhb	30817
 慧	dhd	30816
 甭	dhe	30815
-#~在	dhf	30814
+在	dhf	30814
 歪	dhg	30813
 蹙	dhi	30812
 还	dhp	30811
@@ -3036,7 +3101,8 @@ Git 	gitt
 辐	lgk	29617
 辆	lgm	29616
 车	lgn	29615
-#~国	lgy	29614
+国	lgy	29614
+国	lg
 罪	lhd	29613
 罩	lhj	29612
 皿	lhn	29611
@@ -3480,8 +3546,8 @@ Git 	gitt
 宗	pfi	29173
 完	pfq	29172
 室	pgc	29171
-冢	pge	29170
-家	pge	29169
+家	pge	29170
+冢	pge	29169
 宇	pgf	29168
 定	pgh	29167
 宣	pgj	29166
@@ -3909,7 +3975,7 @@ Git 	gitt
 撸	rqg	28744
 挑	rqi	28743
 拘	rqk	28742
-捣	rqm	28741
+#~捣	rqm	28741
 抱	rqn	28740
 掬	rqo	28739
 揿	rqq	28738
@@ -9805,7 +9871,7 @@ Git 	gitt
 搡	rccs	22848
 掺	rcde	22847
 捅	rceh	22846
-择	rcgh	22845
+#~择	rcgh	22845
 抬	rckg	22844
 抒	rcnh	22843
 揉	rcns	22842
@@ -11343,7 +11409,7 @@ Git 	gitt
 伥	wtay	21310
 仫	wtcy	21309
 侨	wtdj	21308
-伤	wtet	21307
+#~伤	wtet	21307
 任	wtfg	21306
 仟	wtfh	21305
 仵	wtfh	21304
@@ -14338,7 +14404,7 @@ Git 	gitt
 顣	dhim	18315
 慼	dhin	18314
 㞝	dhin	18313
-䦊	dhiy	18312
+䦊	dhi	18312	#-
 㫘	dhjf	18311
 䂽	dhjh	18310
 䫊	dhkm	18309
@@ -25888,7 +25954,7 @@ Git 	gitt
 㐝	rqkn	6765
 攙	rqky	6764
 換	rqmd	6763
-搗	rqmh	6762
+#~搗	rqm	6762	#-
 擼	rqoj	6761
 摀	rqoy	6760
 㨶	rqoy	6759
@@ -30611,7 +30677,7 @@ Git 	gitt
 倁	wtdk	2043
 僑	wtdk	2042
 仸	wtdy	2041
-俢	wtet	2040
+俢	wte	2040	#-
 偛	wtfe	2039
 偫	wtff	2038
 䣸	wtfg	2037
