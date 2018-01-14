@@ -21,22 +21,85 @@ encoder:
 ...
 
 
-
+了解	bnqe
+是的	jgrq
+中国	khlg
+蹉跎	khkx
+跟踪	khki
+和谐	tkyx
+饱和	qntk
+温和	ijtk
+平和	gutk
+暖和	jetk
+和好	tkvb
+和气	tkrt
+和平	tkgu
+生产	tgut
+首页	utdm
+通道	ceut
+信息	wyth
+骑车	cglg
+金钟	qqqk
+Error	erro
+耽搁	bpru
+玻璃	gbgy
+按时	rpjf
+安装	pvuf
+小学	ihip
+中学	khip
+gene	gene
+Machine	mach
+Learn	lear
+Machine Learning	male
+常用	ipet
+重码	tgdc
+book	book
+底层	oqnf
+词典	ynmw
+上屏	hhnu
+唯一	kwgg
+四码	lhdc
+拥有	rede
+数学	ovip
+减弱	udxu
+增强	fuxk
+退货	vpwx
+不好	dhvb
+市场	ymfn
+高端	ymum
+后悔	rgnt
+冲突	ukpw
+简码	tudc
+无码	fqdc
+有码	dedc
+修建	whvg
+神器	pykk
+一级	ggxb
+二级	fgxb
+三级	dgxb
+每个	txwh
+如果	vkjs
+笔划	teaj
+顺序	kdoc
+简单	tuuj
+规则	gmmj
+不用	dhet
+安排	pvrh
 
 
 各种	tktk
 
+
 各个
 各位
 各别
-各处
+各自
 各落
 各界
 咱各
 各类
 各各	
 各色
-各一
 各半
 
 不	dh
@@ -842,37 +905,39 @@ Git 	gitt
 可以	skcw
 所以	rncw
 以	cwi
+以	cw
+工	aa
 我们	trwq	40003
 拜拜	rdrd	40002
 你好	wqvb	40001
 谢谢	ytyt	40000
 什么	wftc	31869
-工	a	31868
+#~工	a	31868
 了	b	31867
-以	c	31866
-在	d	31865
+#~以	c	31866
+#~在	d	31865
 #~有	e	31864
-地	f	31863
-一	g	31862
-上	h	31861
+#~地	f	31863
+#~一	g	31862
+#~上	h	31861
 #~不	i	31860
-是	j	31859
-中	k	31858
-国	l	31857
-同	m	31856
-民	n	31855
+#~是	j	31859
+#~中	k	31858
+#~国	l	31857
+#~同	m	31856
+#~民	n	31855
 #~为	o	31854
 #~这	p	31853
 #~我	q	31852
-的	r	31851
-要	s	31850
-和	t	31849
-产	u	31848
+#~的	r	31851
+#~要	s	31850
+#~和	t	31849
+#~产	u	31848
 #~发	v	31847
 人	w	31846
 经	x	31845
 主	y	31844
-式	aa	31843
+#~式	aa	31843
 节	ab	31842
 芭	ac	31841
 苦	ad	31840
@@ -937,7 +1002,7 @@ Git 	gitt
 牺	cs	31781
 矣	ct	31780
 艰	cv	31779
-难	cw	31778
+#~难	cw	31778
 牝	cx	31777
 叉	cy	31776
 左	da	31775
@@ -1021,7 +1086,7 @@ Git 	gitt
 天	gd	31697
 表	ge	31696
 于	gf	31695
-五	gg	31694
+#~五	gg	31694
 下	gh	31693
 求	gi	31692
 理	gj	31691
@@ -1095,7 +1160,7 @@ Git 	gitt
 晨	jd	31623
 明	je	31622
 时	jf	31621
-量	jg	31620
+#~量	jg	31620
 早	jh	31619
 晃	ji	31618
 昌	jj	31617
@@ -1121,7 +1186,7 @@ Git 	gitt
 另	ke	31597
 叶	kf	31596
 号	kg	31595
-足	kh	31594
+#~足	kh	31594
 吵	ki	31593
 虽	kj	31592
 吕	kk	31591
@@ -1145,7 +1210,7 @@ Git 	gitt
 因	ld	31573
 男	le	31572
 团	lf	31571
-车	lg	31570
+#~车	lg	31570
 四	lh	31569
 辊	lj	31568
 回	lk	31567
@@ -1169,7 +1234,7 @@ Git 	gitt
 央	md	31549
 骨	me	31548
 财	mf	31547
-赋	mg	31546
+#~赋	mg	31546
 由	mh	31545
 峭	mi	31544
 则	mj	31543
@@ -1187,7 +1252,7 @@ Git 	gitt
 内	mw	31531
 幽	mx	31530
 丹	my	31529
-异	na	31528
+#~异	na	31528
 敢	nb	31527
 怪	nc	31526
 居	nd	31525
@@ -1346,7 +1411,7 @@ Git 	gitt
 处	th	31372
 秒	ti	31371
 得	tj	31370
-各	tk	31369
+#~各	tk	31369
 备	tl	31368
 身	tm	31367
 乐	tn	31366
@@ -1379,7 +1444,7 @@ Git 	gitt
 次	uq	31339
 交	ur	31338
 亲	us	31337
-道	ut	31336
+#~道	ut	31336
 立	uu	31335
 妆	uv	31334
 闪	uw	31333
@@ -2769,8 +2834,8 @@ Git 	gitt
 昊	jgd	29949
 晴	jge	29948
 题	jgh	29947
-蟪	jgj	29946
-量	jgj	29945
+量	jgj	29946
+蟪	jgj	29945
 晤	jgk	29944
 师	jgm	29943
 蛱	jgu	29942
@@ -2954,7 +3019,7 @@ Git 	gitt
 跑	khq	29764
 踬	khr	29763
 路	kht	29762
-蹉	khu	29761
+#~蹉	khu	29761
 跟	khv	29760
 趴	khw	29759
 嘴	khx	29758
@@ -6067,7 +6132,7 @@ Git 	gitt
 亠	yyg	26652
 讠	yyn	26651
 访	yyt	26650
-#~工	aaaa	26649
+工	aaaa	26649
 匿	aadk	26648
 慝	aadn	26647
 芽	aaht	26646
@@ -6613,7 +6678,7 @@ Git 	gitt
 牾	cgkg	26106
 驯	cgkh	26105
 驶	cgkr	26104
-驷	cglg	26103
+驷	cgl	26103	#-
 骡	cgli	26102
 骋	cgmn	26101
 骣	cgnb	26100
@@ -6763,7 +6828,7 @@ Git 	gitt
 慧	dhdn	25956
 彗	dhdv	25955
 甭	dhej	25954
-#~在	dhfd	25953
+在	dhfd	25953
 邳	dhgb	25952
 丕	dhgd	25951
 歪	dhgh	25950
@@ -6774,7 +6839,7 @@ Git 	gitt
 还	dhpi	25945
 艳	dhqc	25944
 夏	dhtu	25943
-孬	dhvb	25942
+孬	dhv	25942	#-
 契	dhvd	25941
 恝	dhvn	25940
 挈	dhvr	25939
@@ -8742,7 +8807,7 @@ Git 	gitt
 赌	mftj	23977
 财	mftt	23976
 岍	mgah	23975
-贱	mgay	23974
+#~贱	mgay	23974
 赋	mgay	23973
 豳	mgee	23972
 赇	mgiy	23971
@@ -11921,7 +11986,7 @@ Git 	gitt
 谤	yyuy	20798
 谇	yywf	20797
 言	yyyy	20796
-㠭	aaaa	20795
+㠭	aaa	20795	#-
 㐂	aaab	20794
 菚	aaau	20793
 匞	aad	20792
@@ -13682,7 +13747,7 @@ Git 	gitt
 驲	cgjg	19037
 䯄	cgkw	19036
 骃	cgld	19035
-㹔	cglg	19034
+㹔	cgl	19034	#-
 㸬	cgmh	19033
 骔	cgpi	19032
 䯃	cgpv	19031
@@ -14190,7 +14255,7 @@ Git 	gitt
 䰆	decs	18529
 髳	dect	18528
 䯭	decu	18527
-髪	dedc	18526
+髪	ded	18526	#-
 鬌	dede	18525
 鬍	dede	18524
 髬	dedg	18523
@@ -14417,7 +14482,7 @@ Git 	gitt
 硯	dhqn	18302
 鴀	dhqo	18301
 兏	dhqv	18300
-嫑	dhsv	18299
+嫑	dhs	18299	#-
 齧	dhvb	18298
 䂮	dhvd	18297
 觢	dhve	18296
@@ -15291,7 +15356,7 @@ Git 	gitt
 嚳	errk	17428
 嶨	errm	17427
 䑇	errm	17426
-燢	erro	17425
+#燢	erro	17425#-
 鱟	erro	17424
 鷽	erro	17423
 䮸	erro	17422
@@ -21080,7 +21145,7 @@ Git 	gitt
 崚	mfwt	11639
 崋	mgag	11638
 㟖	mgaj	11637
-賦	mgay	11636
+賦	mga	11636
 峌	mgcf	11635
 䞃	mgct	11634
 嶳	mgef	11633
