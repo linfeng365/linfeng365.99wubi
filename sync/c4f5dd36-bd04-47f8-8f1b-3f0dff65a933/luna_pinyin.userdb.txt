@@ -2,5 +2,11 @@
 #@/db_name	luna_pinyin.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	0
+#@/tick	10
 #@/user_id	c4f5dd36-bd04-47f8-8f1b-3f0dff65a933
+jie 	截	c=1 d=1 t=10
+jie jue 	解決	c=1 d=1 t=3
+jiu 	就	c=2 d=1.99501 t=2
+ke 	刻	c=1 d=1 t=7
+song 	送	c=3 d=2.98506 t=6
+wei 	味	c=2 d=1.99501 t=9

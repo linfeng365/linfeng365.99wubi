@@ -21,151 +21,7 @@ encoder:
 ...
 
 
-律师
-努力
-节目
-迷信
-开关
-空气
-激素
-产生
-连续
-持续
-回到
-垂垂老已
-社会
-观察
-教学
-模式
-分手
-经历
-一本
-准备
-下去
-本性
-接受
-人类
-坚持
-实在
-离开
-房子
-对话
-关键
-社交
-无效
-只是
-主页
-而已
-商业
-所有
-著作
-如是
-如何
-花费
-精力
-可行
-原因
-大量
-烦燥
-头痛
-感情
-的了
-最好
-空间
-伙伴
-孩童
-规律
-白箱
-黑箱
-对象
-意思
-朋友
-男女	levv
-想要
-人家
-一点
-正常
-决定
-生化
-字频
-测试
-类似	odwn
-激动人心	ifwn
-认真	ywfh
-但是
-下厨
-调换
-文库
-同样
-一样
-恋爱
-高人
-挤进
-进出
-进口
-先进
-进度
-进去
-前进
-进取
-进展
-进入
-跃进
 
-进来	fjgu
-进行	fjtg
-进攻	fjat
-进步	fjhh
-日志	jjfn
-
-云浮	fcie
-#电话
-13826819986	jjdh
-13826819986	ssdh
-18028305568	lfdh
-18988585563	lmdh
-
-# 英文
-App	appp
-Apple	appl
-Apple	appe
-Apple Watch	apwc
-iPhone	ipho
-iPhone	iphe
-iPad	ipad
-Git	gitt
-MVP	mvpp
-Github	gith
-Github	gitb
-Issue  issu
-大妈	ddvc
-江门	iauy
-佛山	wxmm
-珠海	gtit
-深圳	ipfk
-晴天	jggd
-一年	ggtj
-一生	ggtg
-重量	tgjg
-生命	tgwg
-发生	nttg
-超级	fhxb
-无敌	fqtd
-订货	yswx
-订单	ysuj
-材料	sfou
-践行	khtg
-内容	mwpw
-一个	ggwh
-一位	ggwu
-那是	ngjg
-这是	ypjg
-这时	ypjf
-这里	ypjd	#重码
-里面	jfdl
-黑夜	lfyw
-天气	gdrt
-备份	tlww
 性格	ntst
 组成	xedn
 思想	lnsh
@@ -192,17 +48,12 @@ Issue  issu
 是不是	jdjg
 几十	wtfg
 自然	thqd
-历	dee	40126
 哪	kng	40125
 几个	wtwh	40124
 戈	agn	40123
 作为	wtye
 做作	wdwt
 #字频优化
-词	yng	40127
-地	fb
-度	oa
-生	tg
 去	fc	40126
 二	fg
 人	w
@@ -785,7 +636,6 @@ URL	url
 符合	twwg
 符号	twkg
 今天	wygd
-明天	jegd
 变成	yodn
 合适	wgtd
 适合	tdwg
@@ -1024,6 +874,8 @@ URL	url
 马斯克(Elon Musk)	cddq
 
 # 公司名
+App	app
+ Apple 	appl
 微软 (Microsoft)	tmlq
 苹果	agjs
 谷歌 (Google)	wwsk
@@ -1065,6 +917,10 @@ URL	url
 哲学	rrip
 人生	wwtg
 没有	iwde
+
+iPhone 	ipho
+iPad 	ipad
+Git 	gitt
 
 成功	dnae
 设置	ywlf
@@ -1278,7 +1134,7 @@ URL	url
 脂	ex	31727
 肪	ey	31726
 域	fa	31725
-#~坡	fb	31724
+坡	fb	31724
 支	fc	31723
 城	fd	31722
 协	fe	31721
@@ -1499,7 +1355,7 @@ URL	url
 恰	nw	31506
 尼	nx	31505
 心	ny	31504
-#~席	oa	31503
+席	oa	31503
 籽	ob	31502
 序	oc	31501
 类	od	31500
@@ -1629,7 +1485,7 @@ URL	url
 知	td	31376
 务	te	31375
 等	tf	31374
-#~年	tg	31373
+年	tg	31373
 处	th	31372
 秒	ti	31371
 得	tj	31370
@@ -3319,8 +3175,8 @@ URL	url
 咱	kth	29686
 咯	ktk	29685
 响	ktm	29684
-吃	ktn	29683	#顺手,与呜调换
-呜	ktn	29682
+呜	ktn	29683
+吃	ktn	29682
 啾	kto	29681
 哦	ktr	29680
 呼	ktu	29679
@@ -4560,7 +4416,7 @@ URL	url
 箐	tge	28446
 竽	tgf	28445
 征	tgh	28444
-#~重	tgj	28443
+重	tgj	28443
 舞	tgl	28442
 制	tgm	28441
 迭	tgp	28440
@@ -6337,7 +6193,7 @@ URL	url
 亩	ylf	26669
 讪	ymh	26668
 户	yne	26667
-诩	yngg	26666	#-
+诩	yng	26666
 记	ynn	26665
 亡	ynv	26664
 亦	you	26663
@@ -7459,7 +7315,7 @@ URL	url
 埘	fjfy	25547
 坦	fjgg	25546
 堤	fjgh	25545
-#~坤	fjhh	25544
+坤	fjhh	25544
 墁	fjlc	25543
 塌	fjng	25542
 进	fjpk	25541
@@ -8669,9 +8525,9 @@ URL	url
 趵	khqy	24337
 踬	khrm	24336
 跃	khtd	24335
-鹭	kht	24334	#-
+踵	kht	24334	#-
 跌	khtg	24333
-踵	kht	24332	#-
+鹭	khtg	24332
 跞	khti	24331
 踟	khtk	24330
 路	khtk	24329
@@ -9191,7 +9047,7 @@ URL	url
 屋	ngcf	23815
 情	ngeg	23814
 怔	nghg	23813
-#~恒	ngjg	23812
+恒	ngjg	23812
 司	ngkd	23811
 悟	ngkg	23810
 怦	nguf	23809
@@ -9656,7 +9512,7 @@ URL	url
 窖	pwtk	23350
 窆	pwtp	23349
 窗	pwtq	23348
-窨	pwu	23347	#-
+窨	pwuj	23347
 邃	pwup	23346
 究	pwvb	23345
 窘	pwvk	23344
@@ -14648,7 +14504,7 @@ URL	url
 磚	dgjf	18358
 䶠	dgkb	18357
 觱	dgke	18356
-㕏	dgk	18355	#-
+㕏	dgkf	18355
 䃒	dgkh	18354
 䌠	dgki	18353
 顑	dgkm	18352
@@ -14825,7 +14681,7 @@ URL	url
 䎡	dmjo	18181
 㼲	dmjy	18180
 碢	dmnk	18179
-硙	dmn	18178	#-
+硙	dmnn	18178
 䫰	dmog	18177
 䃬	dmrc	18176
 碋	dmsk	18175
@@ -16977,7 +16833,7 @@ URL	url
 珁	ggny	16029
 瑨	ggoj	16028
 璈	ggqt	16027
-琹	ggs	16026	#~
+琹	ggsu	16026
 玶	gguf	16025
 珡	ggwu	16024
 瑇	ggxy	16023
@@ -20122,7 +19978,7 @@ URL	url
 䟗	khqa	12884
 䟸	khqa	12883
 踭	khqh	12882
-䟢	khq	12881	#-
+䟢	khqi	12881
 跔	khqk	12880
 蹓	khql	12879
 哯	khqn	12878
@@ -20151,13 +20007,13 @@ URL	url
 躚	khsp	12855
 䟣	khsy	12854
 䟦	kht	12853	#-
-䟯	kht	12852	#-
-䠗	kht	12851	#-
+䟯	khtd	12852
+䠗	khtd	12851
 嘑	kht	12850	#-
 跦	kht	12849	#-
 䟭	kht	12848	#-
-跭	kht	12847	#-
-躌	kht	12846	#-
+跭	khtg	12847
+躌	khtg	12846
 蹝	khth	12845
 蹤	khth	12844
 䠦	khtj	12843
@@ -22687,9 +22543,9 @@ URL	url
 㷧	odri	10319
 㢊	odsk	10318
 爏	odth	10317
-煁	odw	10316	#-
-糂	odw	10315	#-
-㥷	odw	10314	#-
+煁	odwn	10316
+糂	odwn	10315
+㥷	odwn	10314
 廝	odwr	10313
 燍	odwr	10312
 粸	odwy	10311
@@ -23543,7 +23399,7 @@ URL	url
 裖	pude	9463
 䙃	pude	9462
 袥	pudg	9461
-䙯	pud	9460	#-
+䙯	pudh	9460
 䙘	pudi	9459
 袹	pudj	9458
 袻	pudj	9457
@@ -23865,7 +23721,7 @@ URL	url
 鴪	pwqo	9141
 䇁	pwqu	9140
 䆢	pwrd	9139
-竅	pwr	9138	#-
+竅	pwrt	9138
 窊	pwry	9137
 䆑	pwsj	9136
 穼	pwsu	9135
@@ -23885,7 +23741,7 @@ URL	url
 㓁	pwu	9121
 竉	pwud	9120
 䆹	pwuf	9119
-䆵	pwu	9118	#-
+䆵	pwuj	9118
 窹	pwuk	9117
 窯	pwuo	9116
 窔	pwur	9115
@@ -25773,7 +25629,7 @@ URL	url
 㧠	rciy	7233
 掻	rcjy	7232
 皅	rcn	7231
-抁	rcq	7230	#-
+抁	rcqn	7230
 㿝	rcu	7229
 捘	rcwt	7228
 払	rcy	7227
@@ -26851,8 +26707,8 @@ URL	url
 䣩	sggn	6155
 釃	sggx	6154
 酜	sggy	6153
-柾	sgh	6152	#-
-覀	sgh	6151	#-
+柾	sghg	6152
+覀	sghg	6151
 酟	sghk	6150
 㯊	sgho	6149
 槻	sghq	6148
@@ -27998,7 +27854,7 @@ URL	url
 夅	tgj	5008
 䄵	tgj	5007
 動	tgje	5006
-篿	tgj	5005	#-
+篿	tgjf	5005
 濌	tgjj	5004
 憅	tgjn	5003
 勲	tgjo	5002
@@ -29666,7 +29522,7 @@ URL	url
 㾭	utoi	3341
 羳	utol	3340
 疺	utpi	3339
-産	utt	3338	#-
+産	uttg	3338
 剷	uttj	3337
 癁	uttt	3336
 癤	utvb	3335
@@ -31416,8 +31272,8 @@ URL	url
 盦	wynl	1591
 貪	wynm	1590
 頷	wynm	1589
-傓	wyn	1588	#-
-䎏	wyn	1587	#-
+傓	wynn	1588
+䎏	wynn	1587
 鳹	wyno	1586
 䳺	wyno	1585
 敜	wynt	1584
@@ -32500,7 +32356,7 @@ URL	url
 諣	ymnk	507
 誷	ymun	506
 讗	ymwk	505
-䐡	ymw	504	#~
+䐡	ymww	504
 訥	ymwy	503
 䜅	ymwy	502
 肈	ynag	501
@@ -32522,8 +32378,8 @@ URL	url
 鵳	yneo	485
 㧁	ynfc	484
 訊	ynfh	483
-詡	yngg	482	#-
-詞	yng	481	#-
+詡	yng	482
+詞	yngk	481
 諝	ynhe	480
 谞	ynhe	479
 䚼	ynhg	478

@@ -1,0 +1,10 @@
+var:
+  option:
+    ascii_punct: false
+    full_shape: false
+    simplification: true
+  previously_selected_schema: wubi98
+  schema_access_time:
+    double_pinyin_flypy: 1513928011
+    luna_pinyin: 1513252651
+    wubi98: 1513928074
