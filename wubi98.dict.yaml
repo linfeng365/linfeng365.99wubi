@@ -21,6 +21,116 @@ encoder:
 ...
 
 
+
+
+替代
+夫	fw	#替代 零 fw
+莓	atx
+清单
+革命
+西方
+东方
+北方
+南方
+Dec	dec
+帐务
+处理
+分期
+收纳
+导向
+工厂	aagt
+工厂
+这就尴尬了	yydd
+支付
+尴尬	dndn
+虫	jhn
+杀死
+欢迎
+经典	xcmw
+看了
+想读
+读过
+卫生
+打扫
+一款
+天性
+一体	ggwg
+三体
+就像
+紧密
+书会
+支持
+入门	tyuy
+短文
+长文
+质量
+应用
+开通
+高分
+高考
+世界
+相左
+这么
+扫码
+拖延症	rtug
+文集
+普通
+hack	hack
+消除
+紧张
+道理
+主要
+面对
+今后
+当前
+长期
+饥饿	qnqy
+饿	qntr
+压力
+试试
+电池
+圣经
+私人
+私用
+瑜伽
+试试
+计算
+放松	ytsc
+压力
+数量
+来说
+自身
+关注
+文章
+疲劳
+复杂
+尺寸
+有钱
+精进
+一些
+勇气
+幻想
+幻象
+幻觉
+字典	pbmw
+收集
+不就
+书单
+微词
+坏	fdh
+视图
+逻辑
+有才
+日程
+活动
+意义
+驱动
+电动
+功能
+卡顿
+打开
+commit	comt
+博客
 律师
 努力
 节目
@@ -125,6 +235,9 @@ encoder:
 18028305568	lfdh
 18988585563	lmdh
 
+linfeng82@qq.com	lfml
+广东省中山市南区悦来南路34号滨河湾花园53栋1402	lfad
+528400	lfyb
 # 英文
 App	appp
 Apple	appl
@@ -443,8 +556,8 @@ GTD	gtd
 管理	tpgj
 利和	tjtk
 适应	tdoi
-还能	dhce
-不能	dhic
+还能	dhpc
+不能	dhce
 不知所措	dtrr
 措手不及	rrdb
 手足无措	rkfr
@@ -1299,7 +1412,7 @@ URL	url
 才	ft	31706
 增	fu	31705
 雪	fv	31704
-零	fw	31703
+零	fwy	31703	#-
 坳	fx	31702
 坊	fy	31701
 开	ga	31700
@@ -1951,7 +2064,7 @@ URL	url
 藜	atq	31054
 莪	atr	31053
 萎	atv	31052
-蘩	atx	31051
+#~蘩	atx	31051
 臧	aua	31050
 蒴	aub	31049
 菩	auk	31048
@@ -2562,7 +2675,7 @@ URL	url
 堠	fwn	30443
 垛	fws	30442
 赍	fww	30441
-堆	fwy	30440
+#~堆	fwy	30440
 墩	fyb	30439
 霁	fyj	30438
 壤	fyk	30437
@@ -3062,7 +3175,7 @@ URL	url
 师	jgm	29943
 蛱	jgu	29942
 勖	jhe	29941
-畅	jhn	29940
+#~畅	jhn	29940
 蛸	jie	29939
 晃	jig	29938
 螳	jip	29937
@@ -4815,7 +4928,7 @@ URL	url
 疱	uqn	28191
 桨	uqs	28190
 净	uqv	28189
-咨	uqw	28188
+#~咨	uqw	28188
 次	uqw	28187
 疚	uqy	28186
 郊	urb	28185
@@ -6307,7 +6420,7 @@ URL	url
 弗	xjk	26699
 细	xlg	26698
 贯	xmu	26697
-纪	xnn	26696
+#~纪	xnn	26696
 幻	xnn	26695
 纩	xot	26694
 乡	xte	26693
@@ -7001,7 +7114,7 @@ URL	url
 髯	demf	26005
 鬃	depi	26004
 鬓	depw	26003
-鹕	deqg	26002
+#~鹕	deqg	26002
 鬏	deto	26001
 鬈	deub	26000
 髫	devk	25999
@@ -14705,7 +14818,7 @@ URL	url
 鴀	dhqo	18301
 兏	dhqv	18300
 嫑	dhs	18299	#-
-齧	dhvb	18298
+齧	dhv	18298	#-
 䂮	dhvd	18297
 觢	dhve	18296
 㸷	dhvg	18295
@@ -14848,7 +14961,7 @@ URL	url
 㝾	dnda	18158
 㞆	dndk	18157
 䫆	dndm	18156
-㞄	dndn	18155
+㞄	dnd	18155	#-
 㞀	dndo	18154
 㞂	dnev	18153
 尨	dney	18152
@@ -16719,9 +16832,9 @@ URL	url
 㱇	fwww	16287
 墢	fwxc	16286
 鼀	fwxf	16285
-坽	fwyc	16284
-䨥	fwyc	16283
-䧲	fwyg	16282
+坽	fwy	16284
+䨥	fwy	16283
+䧲	fwy	16282
 坅	fwyn	16281
 靍	fwyo	16280
 鸖	fwyo	16279
@@ -20083,7 +20196,7 @@ URL	url
 踀	khk	12923	#-
 蹪	khkm	12922
 䠝	khkm	12921
-䟧	khlg	12920
+䟧	khl	12920	#-
 嚧	khll	12919
 蹥	khlp	12918
 䠅	khlt	12917
@@ -24028,7 +24141,7 @@ URL	url
 㝗	pyvu	8978
 禴	pywa	8977
 祋	pywc	8976
-祔	pywf	8975
+祔	pyw	8975	#-
 䄞	pywi	8974
 祄	pywj	8973
 禬	pywj	8972
@@ -27670,7 +27783,7 @@ URL	url
 笻	tabj	5336
 㣝	tadt	5335
 䄾	tadt	5334
-篋	tadw	5333
+篋	tad	5333	#-
 䉈	taet	5332
 笁	taf	5331
 簕	tafe	5330
@@ -27712,7 +27825,7 @@ URL	url
 衖	taws	5294
 䅷	taws	5293
 䅒	tayn	5292
-䄩	tayy	5291
+䄩	tay	5291
 竾	tbb	5290
 㐌	tbb	5289
 箃	tbcu	5288
@@ -27829,7 +27942,7 @@ URL	url
 稘	tdwy	5177
 䂕	tdxe	5176
 㣕	tdy	5175
-㣖	tdyy	5174
+㣖	tdy	5174	#-
 穩	tean	5173
 箙	tebc	5172
 筟	tebf	5171
@@ -28078,8 +28191,8 @@ URL	url
 牉	thgg	4928
 牗	thgh	4927
 㸠	thgi	4926
-牏	thgj	4925
-㸟	thgj	4924
+牏	thg	4925	#-
+㸟	thg	4924	#-
 牊	thgk	4923
 牘	thgm	4922
 牎	thgn	4921
@@ -28414,8 +28527,8 @@ URL	url
 蛗	tnju	4592
 徫	tnkg	4591
 稦	tnkg	4590
-躗	tnkh	4589
-躛	tnkh	4588
+躗	tnk	4589	#-
+躛	tnk	4588	#-
 㦣	tnkn	4587
 衛	tnks	4586
 衞	tnks	4585
@@ -29024,9 +29137,9 @@ URL	url
 䄱	tyt	3983
 箷	tytb	3982
 籏	tytw	3981
-徬	tyuy	3980
-篣	tyuy	3979
-䅭	tyuy	3978
+徬	tyu	3980	#-
+篣	tyu	3979	#-
+䅭	tyu	3978	#-
 筤	tyvu	3977
 笐	tywb	3976
 稡	tywf	3975
@@ -29636,7 +29749,7 @@ URL	url
 㾌	utfq	3371
 㾩	utfx	3370
 瘇	utgf	3369
-痸	utgj	3368
+痸	utg	3368	#-
 癪	utgm	3367
 癟	utha	3366
 㿜	utha	3365
@@ -32969,8 +33082,8 @@ URL	url
 詶	yyth	38
 謫	yyud	37
 諦	yyuh	36
-旘	yyuj	35
-識	yyuj	34
+旘	yyu	35	#-
+識	yyu	34	#-
 謪	yyu	33	#-
 讁	yyup	32
 謗	yyuy	31
