@@ -21,9 +21,40 @@ encoder:
 ...
 
 
-
-
+感观
+自在
+空闲
+事物
+安静
+变得
+快速
+完成
+瞎忙
+消失
+那些
+哪些
+相当
+变慢
+变快
+变长
+变短
+干扰
+上瘾
+排除
+寄语
+感悟	dgnk
+营销
+推销
+抵制
+待定
+干	fgg	40132
+待	tff	40131
+新闻
+配件
+关爱
+汉字
 替代
+闻	ub	#替代 疗 ub
 夫	fw	#替代 零 fw
 莓	atx
 清单
@@ -315,8 +346,9 @@ Issue  issu
 词	yng	40127
 地	fb
 度	oa
-生	tg
-去	fc	40126
+#~生	tg
+自	th
+#~去	fc	40126
 二	fg
 人	w
 工	a
@@ -859,6 +891,7 @@ URL	url
 老版	ftth
 速度	skoa
 更多	gjqq
+更少	gjti
 词组	ynxe
 忘记	ynyn
 流氓	iyyn
@@ -1742,8 +1775,8 @@ URL	url
 知	td	31376
 务	te	31375
 等	tf	31374
-#~年	tg	31373
-处	th	31372
+年	tg	31373
+#~处	th	31372
 秒	ti	31371
 得	tj	31370
 #~各	tk	31369
@@ -1762,7 +1795,7 @@ URL	url
 每	tx	31356
 入	ty	31355
 并	ua	31354
-疗	ub	31353
+#~疗	ub	31353
 痛	uc	31352
 #~头	ud	31351
 前	ue	31350
@@ -5735,9 +5768,9 @@ URL	url
 邗	fbh	27384
 地	fbn	27383
 坡	fby	27382
-#~去	fcu	27381
-支	fcu	27380
-云	fcu	27379
+去	fcu	27381
+#~支	fcu	27380
+云	fcuu	27379	#-
 圭	fff	27378
 坩	ffg	27377
 寺	ffu	27376
@@ -8160,7 +8193,7 @@ URL	url
 淼	iiiu	24959
 淌	iimk	24958
 裟	iite	24957
-鲨	iitg	24956
+鲨	iit	24956	#-
 挲	iitr	24955
 沙	iitt	24954
 娑	iitv	24953
@@ -18550,7 +18583,7 @@ URL	url
 䣉	iitc	14569
 硰	iitd	14568
 㲚	iite	14567
-㸺	iitg	14566
+㸺	iit	14566	#-`
 渻	iith	14565
 乷	iitn	14564
 鯊	iito	14563
@@ -32703,7 +32736,7 @@ URL	url
 亪	yogy	417
 䛸	yohk	416
 帟	yomh	415
-䛧	yonn	414
+䛧	yon	414	#-
 䜎	yooe	413
 爕	yooo	412
 夑	yoot	411
