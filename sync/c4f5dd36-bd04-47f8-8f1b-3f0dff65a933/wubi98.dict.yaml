@@ -21,7 +21,130 @@ encoder:
 ...
 
 
-
+愿景
+结婚
+睡眠
+真实
+似乎
+期望
+原本
+觉知
+预言
+意念
+限制
+宗教
+麦片
+亲密
+振荡
+哈佛
+Wiki	wiki
+min	min
+打印
+辅助
+价值
+debuguself	dbus
+Slack	slac
+Slack	slak
+linfengyahoo@gmail.com	lfgm
+Gmail	gmal
+链接	qlru
+怼圈	cflu
+费用
+冗余
+食物
+清洁
+起床
+成本
+走神	fhpy
+入神	typy
+review	revw
+结论
+信任
+王者
+帐单	mhuj
+com	comm
+v2ex.com	vtco
+v2ex.com	vtex
+amazon.cn	amco
+douban.com	doco
+baidu.com	baco
+dangdang.com	daco
+jd.com	jdco
+jd.com	jd
+Zoom.Quiet	dama
+iCloud	icld
+iCloud	iclo
+iBooks	iboo
+iBooks	ibks
+主题
+空调
+青春
+复习
+大赛
+程序
+对待
+情绪
+com	com
+权力
+等	tff	40318
+荣耀
+宅男
+水果
+虚幻	hoxn
+纪律	xntv
+完全	pfwg
+认为	ywye
+爱人	epww
+洁湟	ifir
+而是	dmjg
+满足
+乐趣	tnfh
+信心	wyny	40317
+积极	tksb
+实现	pugm
+往往	tyty
+渴望	ijyn
+婚姻
+恰恰
+想法	shif
+其实
+尝试	ipya
+因而	lddm
+因此	ldhx
+足够	khqk
+彼此	tbhx
+只管	kwtp
+加上	ekhh
+相互	shgx
+Page	page
+环境	gdfu
+愉快	nwnn
+出品
+水彩
+一会
+血液	tliy
+达到
+星期
+要的
+打扰	rsrd
+我是
+干净	fguq
+一种
+忽视
+便利
+因素
+产物
+等待
+那先这样	ntys
+让子弹飞	ybxn
+合	wgk	40316
+该	yyn	40315
+笠	tu
+科	tuf	40314
+理论
+欺骗
+炫耀
+终于
 差不多	udqq
 技巧
 负责
@@ -84,7 +207,7 @@ encoder:
 抵制
 待定
 干	fgg	40132
-待	tff	40131
+#~待	tff	40131
 新闻
 配件
 关爱
@@ -304,6 +427,7 @@ commit	comt
 
 linfeng82@qq.com	lfml
 linfeng82@qq.com	lfdy
+linfeng82@qq.com	lfyx
 广东省中山市南区悦来南路34号滨河湾花园53栋1402房	lfdz
 528400	lfyb
 
@@ -881,7 +1005,7 @@ URL	url
 喜欢	fkcq
 来自	guth
 代表	wage
-代表作	wgwt 
+合作	wgwt 
 作品	wtkk
 代表作品	wgwk
 错过	qafp
@@ -1058,7 +1182,7 @@ URL	url
 之前	ppue
 
 如此	vkhx
-自已	thnn
+自己	thnn
 自个	thwh
 又	ci
 又是	cijg
@@ -1278,7 +1402,7 @@ URL	url
 
 
 
-链接	qlru
+
 加油	ekim
 复制	tjtg	40009
 粘贴	ohmh	40010
@@ -1308,7 +1432,7 @@ URL	url
 以	cwi
 以	cw
 工	aa
-了	bn
+了	bn	40014
 主	yg
 人	ww
 从	wwy	40013
@@ -1319,7 +1443,7 @@ URL	url
 谢谢	ytyt	40000
 什么	wftc	31869
 #~工	a	31868
-#~了	b	31867
+了	b	31867
 #~以	c	31866
 #~在	d	31865
 #~有	e	31864
@@ -1701,7 +1825,7 @@ URL	url
 迷	op	31488
 底	oq	31487
 粕	or	31486
-床	os	31485
+#~床	os	31485
 庭	ot	31484
 粒	ou	31483
 数	ov	31482
@@ -1812,7 +1936,7 @@ URL	url
 么	tc	31377
 知	td	31376
 务	te	31375
-等	tf	31374
+#~等	tf	31374
 年	tg	31373
 #~处	th	31372
 秒	ti	31371
@@ -1919,7 +2043,8 @@ URL	url
 强	xk	31270
 细	xl	31269
 贯	xm	31268
-纪	xn	31267
+#~纪	xn	31267
+幻	xn
 继	xo	31266
 综	xp	31265
 约	xq	31264
@@ -4744,7 +4869,7 @@ URL	url
 箐	tge	28446
 竽	tgf	28445
 征	tgh	28444
-#~重	tgj	28443
+重	tgj	28443
 舞	tgl	28442
 制	tgm	28441
 迭	tgp	28440
@@ -6116,6 +6241,7 @@ URL	url
 粕	org	27074
 粞	osg	27073
 灯	osh	27072
+灯	os
 床	osi	27071
 敉	oty	27070
 粒	oug	27069
@@ -6314,7 +6440,7 @@ URL	url
 朱	tfi	26876
 午	tfj	26875
 竿	tfj	26874
-千	tfk	26873
+千	tf	26873
 生	tgd	26872
 失	tgi	26871
 年	tgj	26870
@@ -6491,7 +6617,7 @@ URL	url
 弗	xjk	26699
 细	xlg	26698
 贯	xmu	26697
-#~纪	xnn	26696
+纪	xnn	26696
 幻	xnn	26695
 纩	xot	26694
 乡	xte	26693
@@ -7266,7 +7392,7 @@ URL	url
 硐	dmgk	25924
 布	dmhj	25923
 耐	dmjf	25922
-鸸	dmjg	25921
+鸸	dmj	25921
 而	dmjj	25920
 厕	dmjk	25919
 恧	dmjn	25918
@@ -7428,7 +7554,7 @@ URL	url
 腽	ejlg	25762
 腥	ejtg	25761
 驾	ekcg	25760
-肿	ekhh	25759
+#~肿	ekhh	25759
 腭	ekkn	25758
 臊	ekks	25757
 贺	ekmu	25756
@@ -8816,7 +8942,7 @@ URL	url
 跏	khek	24374
 踩	khes	24373
 跬	khff	24372
-趼	khga	24371
+趼	khg	24371	#-
 践	khga	24370
 噱	khge	24369
 贵	khgm	24368
@@ -9243,7 +9369,7 @@ URL	url
 幡	mhtl	23947
 帐	mhty	23946
 幢	mhuf	23945
-幛	mhuj	23944
+幛	mhu	23944
 帷	mhwy	23943
 帆	mhwy	23942
 峭	mieg	23941
@@ -11005,13 +11131,13 @@ URL	url
 丢	tfcu	22185
 歃	tfew	22184
 街	tffs	22183
-等	tffu	22182
+#~等	tff	22182
 待	tffy	22181
 稹	tfhw	22180
 徒	tfhy	22179
 郜	tfkb	22178
 靠	tfkd	22177
-告	tfkf	22176
+告	tfk	22176
 秸	tfkg	22175
 鹄	tfkg	22174
 造	tfkp	22173
@@ -11774,8 +11900,8 @@ URL	url
 盒	wgkl	21416
 颌	wgkm	21415
 翕	wgkn	21414
-拿	wgkr	21413
-使	wgkr	21412
+拿	wgkr	21412
+使	wgkr	21413
 登	wgku	21411
 凳	wgkw	21410
 歙	wgkw	21409
@@ -12090,7 +12216,7 @@ URL	url
 缝	xtdp	21100
 纤	xtfh	21099
 缵	xtfm	21098
-缍	xtgf	21097
+缍	xtg	21097	#-
 绛	xtgh	21096
 绗	xtgs	21095
 缎	xthc	21094
@@ -16990,7 +17116,7 @@ URL	url
 邞	gbh	16200
 邨	gbnb	16199
 旾	gbnj	16198
-頓	gbnm	16197
+頓	gbn	16197	#-
 迍	gbnp	16196
 㼊	gbny	16195
 㐪	gbwi	16194
@@ -20211,8 +20337,8 @@ URL	url
 踜	khft	12979
 蹎	khfw	12978
 跊	khfy	12977
-嚱	khga	12976
-踁	khga	12975
+嚱	khg	12976	#-
+踁	khg	12975
 䣒	khgb	12974
 囐	khgd	12973
 哶	khgf	12972
@@ -20307,7 +20433,7 @@ URL	url
 䟸	khqa	12883
 踭	khqh	12882
 䟢	khq	12881	#-
-跔	khqk	12880
+跔	khq	12880	#-
 蹓	khql	12879
 哯	khqn	12878
 踘	khqo	12877
@@ -21682,7 +21808,7 @@ URL	url
 㡙	mhtx	11508
 㒳	mhty	11507
 帡	mhua	11506
-㡐	mhuj	11505
+㡐	mhu	11505
 幱	mhul	11504
 帨	mhuq	11503
 帹	mhuv	11502
@@ -23768,7 +23894,7 @@ URL	url
 䙐	pugh	9422
 褿	pugj	9421
 褔	pugl	9420
-襀	pugm	9419
+襀	pug	9419	#-
 襧	pugr	9418
 裋	pugu	9417
 褄	pugv	9416
@@ -24739,7 +24865,7 @@ URL	url
 酁	qkxb	8451
 㚟	qkxd	8450
 䵶	qkxg	8449
-劖	qkxj	8448
+劖	qkx	8448
 㲋	qkxx	8447
 毚	qkxy	8446
 䥯	qlcx	8445
@@ -24760,7 +24886,7 @@ URL	url
 鍶	qlny	8430
 鏈	qlpy	8429
 鐲	qlqj	8428
-鏩	qlrh	8427
+#~鏩	qlrh	8427
 鏤	qlvg	8426
 鎅	qlwj	8425
 鏍	qlxi	8424
@@ -28379,7 +28505,7 @@ URL	url
 馝	tjnt	4811
 䄿	tjnt	4810
 䇩	tjnt	4809
-悡	tjnu	4808
+悡	tjn	4808
 馜	tjnx	4807
 馪	tjpm	4806
 鋫	tjqf	4805
@@ -30661,7 +30787,7 @@ URL	url
 㐷	wcgg	2530
 佁	wckg	2529
 勜	wcne	2528
-鹟	wcng	2527
+鹟	wcn	2527	#-
 伃	wcnh	2526
 僪	wcnk	2525
 鶲	wcno	2524
@@ -31542,8 +31668,8 @@ URL	url
 㐽	wwry	1649
 偑	wwt	1648	#-
 仌	wwu	1647
-侳	wwwf	1646
-傘	wwwf	1645
+侳	www	1646
+傘	www	1645
 䁞	wwwh	1644
 㫺	wwwj	1643
 㐺	wwwy	1642
@@ -31903,7 +32029,7 @@ URL	url
 彃	xjag	1288
 縪	xjag	1287
 繓	xjbc	1286
-㔗	xjet	1285
+㔗	xje	1285
 䋥	xjfg	1284
 䋎	xjgg	1283
 緹	xjgh	1282
@@ -32139,8 +32265,8 @@ URL	url
 纘	xtfm	1052
 綎	xtfp	1051
 絑	xtfy	1050
-綞	xtgf	1049
-緟	xtgf	1048
+綞	xtg	1049	#–
+緟	xtg	1048	#-
 絳	xtgh	1047
 䋅	xtgh	1046
 纁	xtgo	1045

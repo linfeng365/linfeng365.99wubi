@@ -7,11 +7,11 @@ ascii_composer:
     Eisu_toggle: clear
     Shift_L: inline_ascii
     Shift_R: commit_text
-config_version: 0.36.custom.2396895832
-customization: 2396895832
+config_version: 0.36.custom.3713248463
+customization: 3713248463
 key_binder:
   bindings:
-    - {accept: "Control+p", send: Up, when: composing}
+    - {accept: "Control+p", send: Down, when: composing}
     - {accept: "Control+n", send: Down, when: composing}
     - {accept: "Control+b", send: Left, when: composing}
     - {accept: "Control+f", send: Right, when: composing}
@@ -30,7 +30,6 @@ key_binder:
     - {accept: minus, send: Page_Up, when: has_menu}
     - {accept: equal, send: Page_Down, when: has_menu}
     - {accept: comma, send: Page_Up, when: paging}
-    - {accept: period, send: Page_Down, when: has_menu}
     - {accept: "Control+Shift+1", select: .next, when: always}
     - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}
     - {accept: "Control+Shift+3", toggle: full_shape, when: always}
@@ -46,73 +45,10 @@ key_binder:
 menu:
   page_size: 5
 punctuator:
-  full_shape:
-    " ": {commit: "　"}
-    "!": {commit: "！"}
-    "\"": {pair: ["“", "”"]}
-    "#": ["＃", "⌘"]
-    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
-    "%": ["％", "°", "℃"]
-    "&": "＆"
-    "'": {pair: ["‘", "’"]}
-    "(": "（"
-    ")": "）"
-    "*": ["＊", "·", "・", "×", "※", "❂"]
-    "+": "＋"
-    ",": {commit: "，"}
-    "-": "－"
-    .: {commit: "。"}
-    "/": ["／", "÷"]
-    ":": {commit: "："}
-    ";": {commit: "；"}
-    "<": ["《", "〈", "«", "‹"]
-    "=": "＝"
-    ">": ["》", "〉", "»", "›"]
-    "?": {commit: "？"}
-    "@": ["＠", "☯"]
-    "[": ["「", "【", "〔", "［"]
-    "\\": ["、", "＼"]
-    "]": ["」", "】", "〕", "］"]
-    "^": {commit: "……"}
-    _: "——"
-    "`": "｀"
-    "{": ["『", "〖", "｛"]
-    "|": ["·", "｜", "§", "¦"]
-    "}": ["』", "〗", "｝"]
-    "~": "～"
   half_shape:
-    "!": {commit: "！"}
-    "\"": {pair: ["“", "”"]}
-    "#": "#"
-    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
-    "%": ["%", "％", "°", "℃"]
-    "&": "&"
-    "'": {pair: ["‘", "’"]}
-    "(": "（"
-    ")": "）"
-    "*": ["*", "＊", "·", "・", "×", "※", "❂"]
-    "+": "+"
     ",": {commit: ","}
-    "-": "-"
-    .: {commit: "."}
-    "/": ["、", "/", "／", "÷"]
-    ":": {commit: "："}
+    .: {commit: .}
     ";": {commit: "。"}
-    "<": ["《", "〈", "«", "‹"]
-    "=": "="
-    ">": ["》", "〉", "»", "›"]
-    "?": {commit: "？"}
-    "@": "@"
-    "[": ["「", "【", "〔", "［"]
-    "\\": ["、", "\\", "＼"]
-    "]": ["」", "】", "〕", "］"]
-    "^": {commit: "……"}
-    _: "——"
-    "`": "`"
-    "{": ["『", "〖", "｛"]
-    "|": ["·", "|", "｜", "§", "¦"]
-    "}": ["』", "〗", "｝"]
-    "~": ["~", "～"]
 recognizer:
   patterns:
     email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
@@ -120,7 +56,7 @@ recognizer:
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 schema_list:
   - schema: wubi98
-  - schema: wubi86
+  - schema: emoji
 switcher:
   caption: "切换输入法"
   hotkeys:
