@@ -20,7 +20,10 @@ encoder:
 ##多写动词,然后是名词,抽象的名词。
 ...
 
-
+石	dgth
+妨碍
+机械
+学会
 搞定
 linfeng365	linf
 嗯嗯
@@ -1961,7 +1964,7 @@ URL	url
 长	ta	31379
 秀	tb	31378
 么	tc	31377
-知	td	31376
+矢	td	31376	#原:知
 务	te	31375
 #~等	tf	31374
 年	tg	31373
@@ -4869,7 +4872,7 @@ URL	url
 短	tdg	28473
 逢	tdh	28472
 乔	tdj	28471
-智	tdk	28470
+#~智	tdk	28470
 知	tdk	28469
 岙	tdm	28468
 乱	tdn	28467
@@ -19051,9 +19054,9 @@ URL	url
 洝	ipvg	14293
 涳	ipwa	14292
 湥	ipwd	14291
-浫	ipwf	14290
-漥	ipwf	14289
-潌	ipwf	14288
+浫	ipw	14290
+漥	ipw	14289
+潌	ipw	14288
 㴏	ipwg	14287
 㴭	ipwh	14286
 㴼	ipwj	14285
@@ -30731,7 +30734,7 @@ URL	url
 㛩	vyce	2614
 㜵	vyce	2613
 訄	vyd	2612
-䎠	vydj	2611
+䎠	vyd	2611
 㛄	vyey	2610
 㜲	vyey	2609
 娮	vyg	2608
