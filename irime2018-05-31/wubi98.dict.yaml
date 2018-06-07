@@ -21,87 +21,6 @@ encoder:
 ...
 
 
-似乎
-几乎
-窗口
-说明
-迭代
-昨夜
-昨晚
-之一
-艺术
-疑问
-老婆
-公开
-开放
-可言
-效率
-讨好
-流动
-语法
-函数
-有事
-留言
-正式
-无法
-呸	kdh	40323
-序	ocn	40322
-无序
-有序
-ATL(timetrack)	atl
-订阅
-暴力
-怎样
-系列
-jQuery	jque
-创建
-指南
-实用
-风格
-函数
-数组
-颠覆
-观念
-银行
-脚本
-属性
-事件
-document	docu
-window	wind
-平静
-失败
-html	html
-专业
-google	goog
-流传
-残酷
-尽善尽美
-markdown	mark
-sublime text	subl
-插件
-todo	todo
-分支
-哪里
-那里
-步骤
-清楚
-有空
-琢磨
-例子
-用例
-音箱
-watch	watc
-Dynalist	dyna
-平安
-表达
-行动
-被爱
-妄想
-出来
-小心
-语言	ygy
-尽管
-格式
 录音
 独立
 吾	gk
@@ -179,8 +98,6 @@ macbook	macb
 mac	mac
 for	for
 push	push
-pull	pull
-fork	fork
 积木
 在乎
 彻	tav	40321
@@ -190,6 +107,7 @@ fork	fork
 必填
 实际
 根据
+pull	pull
 业务
 关联
 标题
@@ -224,6 +142,7 @@ linf@yubyun.com	gsyx
 中山市南区兴南路12号永安广场8楼	gsdz
 0760-88892232	gsdh
 看书
+呸	kdh
 彷徨
 徨	trg	40318
 认识
@@ -267,6 +186,7 @@ next	next
 结婚
 睡眠
 真实
+似乎
 期望
 原本
 觉知
@@ -6470,7 +6390,7 @@ URL	url
 籽	obg	27091
 邝	obh	27090
 邺	obh	27089
-#~粑	ocn	27088
+粑	ocn	27088
 炻	odg	27087
 庆	odi	27086
 类	odu	27085
@@ -7557,7 +7477,7 @@ URL	url
 鬟	dele	26006
 髯	demf	26005
 鬃	depi	26004
-鬓	dep	26003
+鬓	depw	26003
 #~鹕	deqg	26002
 鬏	deto	26001
 鬈	deub	26000
@@ -7731,7 +7651,7 @@ URL	url
 龚	dxyw	25832
 礅	dybt	25831
 硫	dyck	25830
-碥	dyn	25829
+碥	dyna	25829
 态	dynu	25828
 碲	dyuh	25827
 磅	dyuy	25826
@@ -8595,7 +8515,7 @@ URL	url
 沾	ihkg	24969
 浈	ihmy	24968
 泸	ihnt	24967
-#~滤	ihny	24966
+滤	ihny	24966
 瀣	ihqg	24965
 滹	ihtf	24964
 小	ihty	24963
@@ -8851,7 +8771,7 @@ URL	url
 滴	iyud	24713
 滂	iyuy	24712
 浪	iyvy	24711
-淬	iyw	24710
+淬	iywf	24710
 沆	iywn	24709
 淤	iywu	24708
 液	iywy	24707
@@ -9763,7 +9683,7 @@ URL	url
 蛋	nhju	23802
 鹛	nhqg	23801
 收	nhty	23800
-#~惧	nhwy	23799
+惧	nhwy	23799
 疏	nhyk	23798
 屑	nied	23797
 悄	nieg	23796
@@ -10136,7 +10056,7 @@ URL	url
 衩	pucy	23429
 褥	pudf	23428
 实	pudu	23427
-#~衫	puet	23426
+衫	puet	23426
 褂	pufh	23425
 襦	pufj	23424
 褚	pufj	23423
@@ -11453,7 +11373,7 @@ URL	url
 鼽	thlv	22112
 延	thnp	22111
 息	thnu	22110
-#~臬	thsu	22109
+臬	thsu	22109
 竹	thth	22108
 筲	tief	22107
 稍	tieg	22106
@@ -14269,7 +14189,7 @@ URL	url
 䄐	bmfn	19296
 䳳	bmfo	19295
 㱁	bmfw	19294
-隑	bmg	19293
+隑	bmgu	19293
 䖓	bmhw	19292
 岀	bmk	19291
 孾	bmmv	19290
@@ -22676,7 +22596,7 @@ URL	url
 㥼	ngho	10889
 㞗	ngiy	10888
 㤹	ngiy	10887
-慱	ngj	10886
+慱	ngjf	10886
 憓	ngjn	10885
 丮	ngk	10884
 孠	ngkb	10883
@@ -26436,7 +26356,7 @@ URL	url
 挼	revg	7129
 掙	revh	7128
 㨙	rexd	7127
-㩥	rfa	7126
+㩥	rfag	7126
 擮	rfay	7125
 搕	rfcl	7124
 抎	rfcy	7123

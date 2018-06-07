@@ -1,0 +1,13 @@
+patch:
+  schema_list:
+  - schema: wubi98
+  - schema: emoji
+  switcher:
+    caption: 切换输入法
+    hotkeys:
+    - Control+grave
+  punctuator:
+    half_shape:
+      ",": {commit: ","}
+      .: {commit: .}
+      ";": {commit: "。"}
