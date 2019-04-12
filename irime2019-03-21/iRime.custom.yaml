@@ -1,0 +1,5 @@
+patch:
+  app_setting:
+    impact_feedback: false
+    is_insert_symbol_auto_insert_candiate: true
+    keyboard_type: 1

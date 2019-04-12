@@ -1,4 +1,5 @@
 var:
+  last_build_time: 1553171713
   option:
     ascii_punct: false
     full_shape: false
@@ -6,5 +7,7 @@ var:
   previously_selected_schema: wubi98
   schema_access_time:
     double_pinyin_flypy: 1513928011
-    luna_pinyin: 1513252651
-    wubi98: 1513928074
+    luna_pinyin: 1546652202
+    wubi86: 1546652016
+    wubi98: 1546652217
+    wubi_pinyin: 1546652114

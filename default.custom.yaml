@@ -135,12 +135,12 @@ patch:
   # style/color_scheme: starcraft
   #key_binder/import_preset: alternative
   #punctuator/import_preset: alternative
-  menu/page_size: 6
+  menu/page_size: 4
   # style/font_point: 15 #字號
   # style/horizontal: false
   schema_list:
     - schema: wubi98
-    - schema: double_pinyin_flypy
+    - schema: luna_pinyin
   # style/color_scheme: starcraft    # 這項用於選中下面定義的新方案
   # preset_color_schemes/starcraft:  # 在配色方案列表裏加入標識爲 starcraft 的新方案
   #   name: 星際我爭霸／StarCraft
