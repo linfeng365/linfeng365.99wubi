@@ -20,6 +20,79 @@ encoder:
 ##多写动词,然后是名词,抽象的名词。
 ...
 
+
+紧急
+错漏
+uniqlo	uniq
+实行
+栋群
+要挟
+困惑
+编写
+重启
+hold	hold
+签字
+签名
+成立
+巨号
+巨人
+巨型
+巨大
+巨	an
+done	done
+DONE as good!	bedn
+ARCHIVED be wiki.	bewi
+达成/归档/交付ed
+;-) 归档/收录/提交ed
+archived	arch
+inbox	inbx
+today	tody
+wait	wait
+first	firs
+first	firt
+plan	plan
+later	latr
+maybe	mabe
+out	outt
+home	home
+free	free
+组合
+微单
+模糊
+外星
+憔悴
+不见
+凭证
+柜子
+柜桶
+筹备
+业委
+尚好
+尚可
+归还
+奉还
+偿还
+还牙	dhpa
+还童	dhpu
+还乡	dhpx
+还好	dhpv
+还行	dhpt
+阿弥陀佛🖖🏻	bxbw
+南无
+阿弥
+陀佛
+念佛
+农行
+浦发
+中信
+建行
+招行
+招商
+联通
+电信
+天翼
+note	note
+备忘
 害人
 惊涛
 骇浪
@@ -59,6 +132,7 @@ encoder:
 利润
 sick	sick
 动手
+动脚
 勇敢
 边界
 当作
@@ -542,7 +616,6 @@ professional	prof
 约束
 尽量
 Python	pyth
-today	tody
 布置
 故障
 囚徒
@@ -557,7 +630,6 @@ let's go	lsgo
 物理
 草地
 照片
-inbox	inbx
 纪录
 遗漏
 以便
@@ -805,9 +877,6 @@ douban.com	doub
 乔布斯	tddw	57132
 自欺欺人	tddw	57131
 全局
-first	firs
-first	firt
-plan	plan
 检索
 吃惊	ktny
 家伙
@@ -4201,7 +4270,7 @@ URL	url
 埕	fkg	30512
 酃	fkk	30511
 埚	fkm	30510
-喜	fku	30509
+嘉	fku	30509
 塄	fly	30508
 垌	fmg	30507
 垲	fmn	30506
@@ -5414,7 +5483,7 @@ URL	url
 迟	nyp	29302
 恼	nyr	29301
 尽	nyu	29300
-翠	nyw	29299
+悴	nyw	29299
 度	oac	29298
 廑	oak	29297
 席	oam	29296
@@ -9205,7 +9274,7 @@ URL	url
 彭	fkue	25528
 鼙	fkuf	25527
 瞽	fkuh	25526
-嘉	fkuk	25525
+#嘉	fkuk	25525
 喜	fkuk	25524
 熹	fkuo	25523
 甏	fkuy	25522
@@ -10425,7 +10494,7 @@ URL	url
 唬	khwn	24311
 跺	khws	24310
 蹬	khwu	24309
-趴	khwy	24308
+#趴	khwy	24308
 嘴	khxe	24307
 跸	khxf	24306
 呲	khxn	24305
@@ -11065,7 +11134,7 @@ URL	url
 迟	nypi	23671
 恼	nyrb	23670
 尽	nyuu	23669
-悴	nywf	23668
+#悴	nywf	23668
 翠	nywf	23667
 以	nywy	23666
 度	oaci	23665
@@ -24145,7 +24214,7 @@ URL	url
 㦫	ntfm	10592
 慥	ntfp	10591
 慟	ntge	10590
-屛	ntgf	10589
+屛	ntg	10589
 憮	ntgo	10588
 㤚	ntgs	10587
 怢	ntgy	10586
@@ -26380,8 +26449,8 @@ URL	url
 鏐	qnwe	8357
 镠	qnwe	8356
 饸	qnwk	8355
-鈌	qnwy	8354
-鑃	qnwy	8353
+鈌	qnw	8354
+鑃	qnw	8353
 鈮	qnxn	8352
 鈊	qny	8351
 饻	qnye	8350
@@ -27098,7 +27167,7 @@ URL	url
 獌	qtjc	7640
 猂	qtjf	7639
 狚	qtjg	7638
-鋓	qtjh	7637
+鋓	qtj	7637
 猲	qtjn	7636
 鏫	qtjs	7635
 鍑	qtjt	7634
