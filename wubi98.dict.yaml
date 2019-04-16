@@ -20,6 +20,7 @@ encoder:
 ##多写动词,然后是名词,抽象的名词。
 ...
 
+<<<<<<< HEAD
 毛衣
 紧急
 错漏
@@ -93,6 +94,8 @@ free	free
 天翼
 note	note
 备忘
+=======
+>>>>>>> parent of b843e40... 2019-04-16 Tue
 害人
 惊涛
 骇浪
@@ -132,7 +135,6 @@ note	note
 利润
 sick	sick
 动手
-动脚
 勇敢
 边界
 当作
@@ -616,6 +618,7 @@ professional	prof
 约束
 尽量
 Python	pyth
+today	tody
 布置
 故障
 囚徒
@@ -630,6 +633,7 @@ let's go	lsgo
 物理
 草地
 照片
+inbox	inbx
 纪录
 遗漏
 以便
@@ -877,6 +881,9 @@ douban.com	doub
 乔布斯	tddw	57132
 自欺欺人	tddw	57131
 全局
+first	firs
+first	firt
+plan	plan
 检索
 吃惊	ktny
 家伙
@@ -4270,7 +4277,7 @@ URL	url
 埕	fkg	30512
 酃	fkk	30511
 埚	fkm	30510
-嘉	fku	30509
+喜	fku	30509
 塄	fly	30508
 垌	fmg	30507
 垲	fmn	30506
@@ -5483,7 +5490,7 @@ URL	url
 迟	nyp	29302
 恼	nyr	29301
 尽	nyu	29300
-悴	nyw	29299
+翠	nyw	29299
 度	oac	29298
 廑	oak	29297
 席	oam	29296
@@ -9274,7 +9281,7 @@ URL	url
 彭	fkue	25528
 鼙	fkuf	25527
 瞽	fkuh	25526
-#嘉	fkuk	25525
+嘉	fkuk	25525
 喜	fkuk	25524
 熹	fkuo	25523
 甏	fkuy	25522
@@ -10494,7 +10501,7 @@ URL	url
 唬	khwn	24311
 跺	khws	24310
 蹬	khwu	24309
-#趴	khwy	24308
+趴	khwy	24308
 嘴	khxe	24307
 跸	khxf	24306
 呲	khxn	24305
@@ -11134,7 +11141,7 @@ URL	url
 迟	nypi	23671
 恼	nyrb	23670
 尽	nyuu	23669
-#悴	nywf	23668
+悴	nywf	23668
 翠	nywf	23667
 以	nywy	23666
 度	oaci	23665
@@ -24214,7 +24221,7 @@ URL	url
 㦫	ntfm	10592
 慥	ntfp	10591
 慟	ntge	10590
-屛	ntg	10589
+屛	ntgf	10589
 憮	ntgo	10588
 㤚	ntgs	10587
 怢	ntgy	10586
@@ -26449,8 +26456,8 @@ URL	url
 鏐	qnwe	8357
 镠	qnwe	8356
 饸	qnwk	8355
-鈌	qnw	8354
-鑃	qnw	8353
+鈌	qnwy	8354
+鑃	qnwy	8353
 鈮	qnxn	8352
 鈊	qny	8351
 饻	qnye	8350
@@ -27167,7 +27174,7 @@ URL	url
 獌	qtjc	7640
 猂	qtjf	7639
 狚	qtjg	7638
-鋓	qtj	7637
+鋓	qtjh	7637
 猲	qtjn	7636
 鏫	qtjs	7635
 鍑	qtjt	7634

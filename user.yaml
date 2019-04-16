@@ -1,5 +1,9 @@
 var:
+<<<<<<< HEAD
   last_build_time: 1555381794
+=======
+  last_build_time: 1555114315
+>>>>>>> parent of b843e40... 2019-04-16 Tue
   option:
     ascii_punct: false
     full_shape: false
