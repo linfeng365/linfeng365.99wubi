@@ -20,6 +20,11 @@ encoder:
 ##多写动词,然后是名词,抽象的名词。
 ...
 
+衍生
+content	 cont
+想念
+范例
+小子
 复盘
 玩耍
 和馨
@@ -3083,7 +3088,7 @@ URL	url
 协	fe	31721
 寺	ff	31720
 #~十	fg	31719
-直	fh	31718
+走	fh	31718
 示	fi	31717
 刊	fj	31716
 吉	fk	31715
@@ -4268,7 +4273,7 @@ URL	url
 趣	fhb	30543
 霏	fhd	30542
 趄	fhe	30541
-矗	fhf	30540
+#矗	fhf	30540
 赴	fhh	30539
 趟	fhi	30538
 坫	fhk	30537
@@ -7445,7 +7450,8 @@ URL	url
 寺	ffu	27376
 二	fgg	27375
 十	fgh	27374
-直	fhf	27373
+#直	fhf	27373
+直	fh
 址	fhg	27372
 走	fhu	27371
 示	fiu	27370
@@ -14580,7 +14586,7 @@ URL	url
 蒅	aivs	20255
 薻	aivs	20254
 莈	aiwc	20253
-虃	aiwg	20252
+虃	aiw	20252
 蕍	aiwj	20251
 蒤	aiws	20250
 蒞	aiwu	20249
@@ -16013,7 +16019,7 @@ URL	url
 騛	conh	18822
 駶	conk	18821
 騽	conr	18820
-駜	cont	18819
+駜	con	18819
 駃	conw	18818
 駅	cony	18817
 驜	coof	18816
@@ -17846,7 +17852,8 @@ URL	url
 䟐	fhdh	16989
 䞯	fheb	16988
 赲	fhee	16987
-㱏	fhf	16986
+赶	fhf	16986
+㱏	fhf
 䞚	fhfc	16985
 䞨	fhff	16984
 䟈	fhfg	16983
