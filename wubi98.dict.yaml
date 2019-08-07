@@ -20,8 +20,87 @@ encoder:
 ##多写动词,然后是名词,抽象的名词。
 ...
 
+find	find
+found	foud
+fine	fine
+problem	prob
+No problem	nopr
+What's your problem	wsyp
+test	test
+示好
+保守
+得罪
+罪人
+大约
+节日
+wife	wife
+七夕
+接收
+read	read
+直播
+极度
+匮乏
+没事
+破坏
+访	yyyg
+采访	esyy 
+假装
+装置
+准确
+改革
+进程
+脱离
+Peter	petr
+clipboard	clip
+clipboard	clbo
+正	gh
+整	skih
+束	sk
+哪吒
+出游
+器械
+不难
+并列
+并排
+排列
+氪星
+单口
+相声
+列入
+cn	cn
+Apple	appl
+mail	mail
+switch	swch
+神探
+红茶
+绿茶
+乌龙
+黑茶
+白茶
+watch
+Safari	safa
+facebook	fcbk
+adjusted	adju
+feng	feng
+极端
+冬天
+为主
+矫枉
+过正
 退后
 提前
+安心
+东区
+实时
+地图
+内涵
+photo	phto
+random	ranm
+random	radm
+twitter	twit
+wechat	wech
+weixin	weix
+so	so
 remove	remv
 md	md
 网址
@@ -4124,7 +4203,8 @@ URL	url
 答	tw	31357
 每	tx	31356
 入	ty	31355
-并	ua	31354
+#并	ua	31354
+差	ua
 #~疗	ub	31353
 痛	uc	31352
 #~头	ud	31351
@@ -5097,7 +5177,7 @@ URL	url
 政	ght	30386
 琥	ghw	30385
 琐	gim	30384
-裘	giy	30383
+#裘	giy	30383
 求	giy	30382
 理	gjf	30381
 亘	gjg	30380
@@ -5463,7 +5543,7 @@ URL	url
 没	iwc	30021
 脊	iwe	30020
 浍	iwf	30019
-洽	iwg	30018
+#洽	iwg	30018
 沿	iwk	30017
 濮	iwo	30016
 滏	iwr	30015
@@ -7192,7 +7272,7 @@ URL	url
 稂	tyv	28297
 疟	uag	28296
 冻	uai	28295
-瘼	uaj	28294
+#瘼	uaj	28294
 阈	uak	28293
 癀	uam	28292
 迸	uap	28291
@@ -10279,7 +10359,7 @@ URL	url
 遨	gqtp	25234
 鏊	gqtq	25233
 殇	gqtr	25232
-敖	gqty	25231
+敖	gqt	25231
 殚	gquf	25230
 殁	gqwc	25229
 殄	gqwe	25228
@@ -15125,7 +15205,7 @@ txt	txt	21912
 塟	agqf	20393
 茢	agqj	20392
 薚	agqr	20391
-蔜	agqt	20390
+蔜	agq	20390
 薞	agqv	20389
 䔊	agua	20388
 莖	agva	20387
@@ -18924,7 +19004,7 @@ txt	txt	21912
 㘾	fpg	16595
 塇	fpgg	16594
 壼	fpgg	16593
-埞	fpgh	16592
+埞	fpg	16592
 螜	fpgj	16591
 靌	fpgm	16590
 亄	fpgn	16589
@@ -19852,7 +19932,7 @@ txt	txt	21912
 殤	gqtr	15667
 嫯	gqtv	15666
 鼇	gqtx	15665
-謷	gqty	15664
+謷	gqt	15664
 㱞	gqug	15663
 殕	gquk	15662
 㱲	gqul	15661
@@ -26118,7 +26198,7 @@ txt	txt	21912
 䘷	puiy	9401
 襊	pujc	9400
 䙨	puje	9399
-裡	pujf	9398
+裡	puj	9398
 衵	pujg	9397
 裫	pujg	9396
 襅	pujg	9395
