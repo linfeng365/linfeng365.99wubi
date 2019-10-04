@@ -19,7 +19,169 @@ encoder:
       formula: "AaBaCaZa"
 ##多写动词,然后是名词,抽象的名词。
 ...
+
+png	png
+jpg	jpg
+gif	gif
+bmp	bmp
+calibre	calb
+不期
+而然
+蹩脚
+撇清
+film	film
+file	file
+files	fils
+any	any
+anytime	anti
+anything	anth
+thing	thig
+find	find
+evening	evni
+even	even
+ever	ever
+every	ery
+everyone	eron
+everybody	erbo
+everyday	erda
+body	body
+stack	stak
+overflow	ovfl	
+documentation	docn
+ion	ion
+a	a
+an	an
+巨	an
+can	can
+may	may
+travel	trve
+Mike	mike
+who	who
+beautiful	betf
+make	make
+long	long
+buy	buy
+tire	tire
+tired	tird
+told	told
+look	look
+report	rept
+done	done
+DONE as good!	bedn
+ARCHIVED be wiki.	bewi
+达成/归档/交付ed
+;-) 归档/收录/提交ed
+archived	arch
+inbox	inbx
+today	tody
+wait	wait
+first	firs
+first	firt
+plan	plan
+later	latr
+maybe	mabe
+out	outt
+home	home
+free	free
+hat	hat
+man	man
+men	men
+woman	woma
+women	wome
+female	fema
+male	male
+lady	lady
+judo	judo
+stop	stop
+me	me
+hundred	hudr
+thousand	thos
+touch	touh
+the	the
+rise	rise
+of	of
+modern	modn
+China	chna
+china	chin
+kill	kill
+Bing	bing
+snippets	snpe
+WiFi	wifi
+年代	tgw
+space	spac
+rework	rewk
+PSP	psp
+折腾
+降级
+包装
+markdown	mard
+switch	swih
+ware	ware
+Professional	prol
+curl	curl
+current	curt
+spent	spet
+相机
+有没有	dide
+有没有	deid
+事业
+Nginx	ngnx
+PHP	php
+MySQL	msql
+Tomcat	tcat
+Redis	reds
+MongoDB	modb
+Apache	apch
+误解
+setup	setp
+sleep	slep
+feedback	feba
+watch	wath
+timetrack	titr
+track	trak
+全文
+表格
+咋舌
+stuff	stuf
+启动
+容器
+长者
+好想
+也有
+brew	brew
+Ulysses	ulys
+韭菜
+丧失
+pip	pip
+PDCA	pdca
+dual	dual
+back	back
+never	nevr
+难以
+精致
+Web	web
+hevc	hevc
+大笑
+榜样
+传奇
+魅力
+热情
+长远
+秋游
+时节
+高兴
+年限
+延伸
+延展
+太空
+当时
+真理
+协同
+不同
+封面
+调查
 鞭策
+word	word
 wikipedia	wikp
 手动
 难以
@@ -355,7 +517,7 @@ cctv	cctv
 iMessage	imsg
 message	msg
 Calibre cali
-工程
+工程	aatk
 小揽
 loser	lose
 nas	nas
@@ -434,7 +596,6 @@ work	work
 some	some
 here	here
 that	that
-get	get
 use	use
 info	info
 other	othr
@@ -721,7 +882,6 @@ good	good
 thing	thin
 裙子
 待下
-women	wome
 谷物
 香氛
 期限
@@ -1019,24 +1179,6 @@ hold	hold
 巨人
 巨型
 巨大
-巨	an
-done	done
-DONE as good!	bedn
-ARCHIVED be wiki.	bewi
-达成/归档/交付ed
-;-) 归档/收录/提交ed
-archived	arch
-inbox	inbx
-today	tody
-wait	wait
-first	firs
-first	firt
-plan	plan
-later	latr
-maybe	mabe
-out	outt
-home	home
-free	free
 组合
 微单
 模糊
@@ -1116,7 +1258,6 @@ sick	sick
 强调
 潜力
 自觉
-补全
 文艺
 讲述
 同情
@@ -1239,12 +1380,6 @@ energy	eneg
 想去
 演示
 面板
-files	file
-any	any
-anytime	anti
-anything	anth
-thing	thig
-find	find
 讲解
 港台
 熟人
@@ -1445,7 +1580,7 @@ iTimeLog	itim
 地球
 何尝
 困扰
-僵尸
+僵尸	wgn
 惊讶
 孙子
 孱弱
@@ -1948,7 +2083,7 @@ cheyenne	chey
 出现
 重复
 从事
-mweb	mweb
+MWeb	mweb
 经验
 依赖
 客气
@@ -2136,6 +2271,7 @@ timelog	timl
 list	list
 事实
 必须
+⌘	aacm
 😊	aase	# smiling face with squinting eyes
 ☹️	aanh	# not happy
 😄	aahp	# happy
@@ -2178,6 +2314,15 @@ list	list
 憨笑
 玫瑰
 咖啡
+[难过]	aang
+[调皮]	aatp
+[太阳]	aaty
+[爱心]	aaax
+[色]	aase
+[猪头]	aazt
+[困]	aafk
+[奋斗]	aafd
+[饥饿]	aaje
 [微笑][愉快][憨笑][玫瑰][咖啡]	aamn	# morning
 👻	aagh
 [OK]	ok
@@ -2883,7 +3028,7 @@ linfeng82@qq.com	lfyx
 528400	lfyb
 
 # 英文
-app	appp
+App	appp
 Apple	appl
 Apple	appe
 Apple Watch	apwc
@@ -3027,9 +3172,8 @@ Error	erro
 小学	ihip
 中学	khip
 gene	gene
-Machine	mach
-Learn	lear
-Machine Learning	male
+machine	mach
+learn	lear
 常用	ipet
 重码	tgdc
 book	book
@@ -6665,6 +6809,7 @@ URL	url
 褙	puu	29117
 初	puv	29116
 裕	puw	29115
+补全	puw	29115
 襁	pux	29114
 褊	puy	29113
 案	pvs	29112
@@ -10231,7 +10376,7 @@ URL	url
 趄	fheg	25575
 #矗	fhfh	25574
 赶	fhfk	25573
-趔	fhgj	25572
+趔	fhg	25572
 赴	fhhi	25571
 趟	fhik	25570
 坫	fhkg	25569
@@ -15041,7 +15186,7 @@ txt	txt	21912
 䕼	aaky	20773
 盞	aalf	20772
 蘳	aamf	20771
-蘣	aamg	20770
+蘣	aam	20770
 䔈	aamu	20769
 葉	aans	20768
 苉	aaqb	20767
@@ -17491,7 +17636,7 @@ txt	txt	21912
 奀	dhdu	18324
 㔻	dhfj	18323
 砋	dhg	18322
-䪹	dhgm	18321
+䪹	dhg	18321
 䲹	dhgo	18320
 㪺	dhhf	18319
 覔	dhhq	18318
@@ -17668,7 +17813,7 @@ txt	txt	21912
 碬	dnhc	18147
 碿	dnie	18146
 㝽	dnii	18145
-㞅	dnjs	18144
+㞅	dnj	18144
 㞁	dnjx	18143
 尵	dnkm	18142
 礔	dnku	18141
@@ -19729,6 +19874,7 @@ txt	txt	21912
 靔	gern	16087
 靝	gero	16086
 豧	gesy	16085
+get	get	16084
 玏	get	16084
 甤	get	16083
 豵	geth	16082
@@ -23312,7 +23458,7 @@ txt	txt	21912
 㗭	kton	12504
 嚟	ktqi	12503
 㘅	ktqs	12502
-㗛	kttd	12501
+㗛	ktt	12501
 㗸	ktts	12500
 㘉	ktvb	12499
 唩	ktvg	12498
@@ -24097,7 +24243,7 @@ txt	txt	21912
 䯞	memk	11719
 體	memu	11718
 䯐	memw	11717
-㲘	men	11716
+㲘	mene	11716
 髎	mene	11715
 䯆	menn	11714
 䯌	menv	11713
@@ -30206,7 +30352,7 @@ pdf	pdf	9632
 橁	stqj	5614
 䅇	stu	5613
 㮽	stuc	5612
-㭔	stuf	5611
+㭔	stu	5611
 櫤	stuj	5610
 柊	stuy	5609
 櫛	stvb	5608
@@ -35335,7 +35481,7 @@ pdf	pdf	9632
 戻	yndi	487
 顅	ynem	486
 鵳	yneo	485
-㧁	ynfc	484
+㧁	ynf	484
 訊	ynfh	483
 詡	yngg	482	#-
 詞	yng	481	#-
