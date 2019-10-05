@@ -20,147 +20,29 @@ encoder:
 ##多写动词,然后是名词,抽象的名词。
 ...
 
-png	png
-jpg	jpg
-gif	gif
-bmp	bmp
-calibre	calb
-不期
-而然
-蹩脚
-撇清
-film	film
-file	file
-files	fils
-any	any
-anytime	anti
-anything	anth
-thing	thig
-find	find
-evening	evni
-even	even
-ever	ever
-every	ery
-everyone	eron
-everybody	erbo
-everyday	erda
-body	body
-stack	stak
-overflow	ovfl	
-documentation	docn
-ion	ion
-a	a
-an	an
-巨	an
-can	can
-may	may
-travel	trve
-Mike	mike
-who	who
-beautiful	betf
-make	make
-long	long
-buy	buy
-tire	tire
-tired	tird
-told	told
-look	look
-report	rept
-done	done
-DONE as good!	bedn
-ARCHIVED be wiki.	bewi
-达成/归档/交付ed
-;-) 归档/收录/提交ed
-archived	arch
-inbox	inbx
-today	tody
-wait	wait
-first	firs
-first	firt
-plan	plan
-later	latr
-maybe	mabe
-out	outt
-home	home
-free	free
-hat	hat
-man	man
-men	men
-woman	woma
-women	wome
-female	fema
-male	male
-lady	lady
-judo	judo
-stop	stop
-me	me
-hundred	hudr
-thousand	thos
-touch	touh
-the	the
-rise	rise
-of	of
-modern	modn
-China	chna
-china	chin
-kill	kill
-Bing	bing
-snippets	snpe
-WiFi	wifi
+
+
 年代	tgw
-space	spac
-rework	rewk
-PSP	psp
 折腾
 降级
 包装
-markdown	mard
-switch	swih
-ware	ware
-Professional	prol
-curl	curl
-current	curt
-spent	spet
 相机
 有没有	dide
 有没有	deid
 事业
-Nginx	ngnx
-PHP	php
-MySQL	msql
-Tomcat	tcat
-Redis	reds
-MongoDB	modb
-Apache	apch
 误解
-setup	setp
-sleep	slep
-feedback	feba
-watch	wath
-timetrack	titr
-track	trak
 全文
 表格
 咋舌
-stuff	stuf
 启动
 容器
 长者
 好想
 也有
-brew	brew
-Ulysses	ulys
 韭菜
 丧失
-pip	pip
-PDCA	pdca
-dual	dual
-back	back
-never	nevr
 难以
 精致
-Web	web
-hevc	hevc
 大笑
 榜样
 传奇
@@ -519,8 +401,6 @@ message	msg
 Calibre cali
 工程	aatk
 小揽
-loser	lose
-nas	nas
 以后
 埃及
 下次
@@ -882,6 +762,7 @@ good	good
 thing	thin
 裙子
 待下
+women	wome
 谷物
 香氛
 期限
@@ -1179,6 +1060,24 @@ hold	hold
 巨人
 巨型
 巨大
+巨	an
+done	done
+DONE as good!	bedn
+ARCHIVED be wiki.	bewi
+达成/归档/交付ed
+;-) 归档/收录/提交ed
+archived	arch
+inbox	inbx
+today	tody
+wait	wait
+first	firs
+first	firt
+plan	plan
+later	latr
+maybe	mabe
+out	outt
+home	home
+free	free
 组合
 微单
 模糊
@@ -1380,6 +1279,12 @@ energy	eneg
 想去
 演示
 面板
+files	file
+any	any
+anytime	anti
+anything	anth
+thing	thig
+find	find
 讲解
 港台
 熟人
@@ -3172,8 +3077,9 @@ Error	erro
 小学	ihip
 中学	khip
 gene	gene
-machine	mach
-learn	lear
+Machine	mach
+Learn	lear
+Machine Learning	male
 常用	ipet
 重码	tgdc
 book	book
@@ -9952,7 +9858,7 @@ URL	url
 鬣	devn	25998
 髹	dews	25997
 奔	dfaj	25996
-磕	dfcl	25995
+#磕	dfcl	25995
 砝	dfcy	25994
 辱	dfef	25993
 辰	dfei	25992
@@ -17123,7 +17029,7 @@ txt	txt	21912
 騦	coln	18837
 䮫	colv	18836
 駚	comd	18835
-䮩	come	18834
+䮩	com	18834
 䮗	comf	18833
 駎	comg	18832
 駉	comk	18831
@@ -17544,7 +17450,7 @@ txt	txt	21912
 䃱	dfag	18416
 逩	dfap	18415
 䂶	dfce	18414
-㕎	dfcl	18413
+㕎	dfc	18413
 夽	dfcu	18412
 圧	dfd	18411
 礝	dfdj	18410
@@ -24204,7 +24110,7 @@ get	get	16084
 㠌	mdww	11758
 嵟	mdwy	11757
 髒	meaa	11756
-嶾	mean	11755
+嶾	mea	11755
 䯦	meaw	11754
 骮	meay	11753
 㟊	mebg	11752
@@ -24243,7 +24149,7 @@ get	get	16084
 䯞	memk	11719
 體	memu	11718
 䯐	memw	11717
-㲘	mene	11716
+㲘	men	11716
 髎	mene	11715
 䯆	menn	11714
 䯌	menv	11713
@@ -35991,3 +35897,125 @@ pdf	pdf	9632
 # 使用识别码并不保证没有重码。
 # 不如允许重码出现。
 # 在输入法以固定次序排列。
+
+
+pulse	puls
+loser	loer
+nas	nas
+close	clos
+lose	lose
+joke	joke
+gay	gay
+need	need
+level	leve
+leave	leav
+great	grat
+give	give
+come	come
+had	had
+mean	mean
+show	show
+sure	sure
+again	agai
+must	must
+door	door
+finish	finh
+fish	fish
+take	take
+shit	shit
+hey	hey
+hurry	hury
+hello	helo
+well	well
+know	know
+anyone	anon
+them	them
+yeah	yeah
+guess	guess
+eye	eye
+hate	hate
+hear	hear
+little	litl
+more	more
+silly	silly
+miss	miss
+nothing	noth
+hold	hold
+hole	hole
+fuck	fuck
+ful	ful
+slow	slow
+myself	myse
+call	call
+hell	hell
+happy	hapy
+world	wold
+war	war
+now	now
+new	new
+dig	dig
+tell	tell
+off	off
+got	got
+summer	 sume
+kid	kid
+open	open
+close	clos
+him	him
+her	her
+future futu
+will	will
+ask	ask
+nice	nice
+easy	easy
+hard	hard
+difficult	dfcl
+all	all
+right	riht
+all right	alri
+us	us
+live	live
+really	rely
+wine	wine
+amzn	amzn
+side	side
+inside	insi
+outside	ousi
+Bing	bing
+snippets	snpe
+WiFi	wifi
+space	spac
+rework	rewk
+PSP	psp
+
+markdown	mard
+switch	swih
+ware	ware
+Professional	prol
+curl	curl
+current	curt
+spent	spet
+Nginx	ngnx
+PHP	php
+MySQL	msql
+Tomcat	tcat
+Redis	reds
+MongoDB	modb
+Apache	apch
+
+setup	setp
+sleep	slep
+feedback	feba
+watch	wath
+timetrack	titr
+track	trak
+stuff	stuf
+brew	brew
+Ulysses	ulys
+pip	pip
+PDCA	pdca
+dual	dual
+back	back
+never	nevr
+Web	web
+hevc	hevc
