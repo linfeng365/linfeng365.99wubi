@@ -19,6 +19,28 @@ encoder:
       formula: "AaBaCaZa"
 ##多写动词,然后是名词,抽象的名词。
 ...
+
+
+字符
+选中
+后退
+珍惜
+难受
+操心
+舆论
+三个
+我没办法教每一步	wmbf
+每个学生都会遇到困难	mgxs
+刷机
+后续
+火锅	ooqk
+国内
+新疆
+报酬
+代价
+工资	aauq
+薪水
+会员
 浪漫
 体质
 金额
@@ -8730,6 +8752,7 @@ URL	url
 丹	myd	27122
 丹	myg
 异	naj	27121
+惜	naj	27120
 羿	naj	27120
 民	nav	27119
 居	ndd	27118
@@ -11775,7 +11798,7 @@ URL	url
 畀	lgjj	24090
 圄	lgkd	24089
 辐	lgkl	24088
-辆	lgmw	24087
+#辆	lgmw	24087
 车	lgnh	24086
 #~国	lgyi	24085
 罪	lhdd	24084
@@ -36000,8 +36023,12 @@ curl	curl
 current	curt
 spent	spet
 Nginx	ngnx
-PHP	php
+php	php
 MySQL	msql
+MySQL	mysq
+sql	sql
+SQL	sqll
+PHP	phpp
 Tomcat	tcat
 Redis	reds
 MongoDB	modb
@@ -36051,6 +36078,9 @@ great	grat
 loud	loud
 going	goin 
 strong	stro
+<<<<<<< Local Changes
+
+=======
 my	my
 heart	heat
 go on	goon
@@ -36073,3 +36103,70 @@ support	supp
 cost	cost
 kernel	kern
 min	min
+the	the
+sea	sea
+gta	gta
+facebook	fabo
+Android	anro
+instagram	ingr
+app	app
+alpha	alph
+south	soth
+park	park
+fade	fade
+victory	vity
+idea	idea
+cancel	canl
+apart	apart
+rss	rss
+RSS	rsss
+burn	burn
+burnout	buou
+heal	heal
+internet	inne
+Anaconda	anco
+basic	basi
+element	elem
+Elementary	elry
+salary	sala
+night	nigh
+released	rele
+enroll	enro
+testing	tein
+meet	meet
+meeting	meti
+linux	linx
+torvalds	torv
+RMS	rms
+GNU	gnu
+Adobe	adbe
+Google	gogg
+google	gole
+net	net
+asp	asp
+ffmpeg	ffmp
+static	stti
+complete	comle
+cross	cros
+platform	plfo
+solution	soti
+record	reco
+convert	cove
+stream	strm
+audio	audi
+video	vide
+macOS	mcos
+MacBook	mcbo
+binaries	bini
+binary	biny
+iTunes	itun
+kevin	kevi
+save	save
+episode	epso
+share	shar
+sucks	suck
+smart	smrt
+Notable	nota
+apple	aple
+ID	idd
+id	id
