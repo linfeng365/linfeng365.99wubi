@@ -20,7 +20,17 @@ encoder:
 ##多写动词,然后是名词,抽象的名词。
 ...
 
-
+岳	rthm
+伍佰
+高原
+你决定	wqup
+外面
+权限
+赋	mgah
+天赋
+维修
+奢侈
+心智
 字符
 选中
 后退
@@ -29,6 +39,7 @@ encoder:
 操心
 舆论
 三个
+有什么 就留言 我会看 不会回	lyhk	#留言会看
 我没办法教每一步	wmbf
 每个学生都会遇到困难	mgxs
 刷机
@@ -2748,7 +2759,6 @@ Page	page
 东方
 北方
 南方
-Dec	dec
 帐务
 处理
 分期
@@ -11910,8 +11920,8 @@ URL	url
 嵌	mfqw	23978
 赌	mftj	23977
 财	mftt	23976
-岍	mgah	23975
-#~贱	mgay	23974
+岍	mga	23975
+贱	mgay	23974
 赋	mgay	23973
 豳	mgee	23972
 赇	mgiy	23971
@@ -17359,7 +17369,8 @@ txt	txt	21912
 髶	debf	18534
 䯮	debr	18533
 髲	debu	18532
-䯲	decb	18531
+Dec	dec	18531
+䯲	dec	18531
 鬖	dece	18530
 䰆	decs	18529
 髳	dect	18528
@@ -36170,3 +36181,63 @@ Notable	nota
 apple	aple
 ID	idd
 id	id
+null	null
+Syria	syra
+artist	atst
+simultaneous	sita	# 同时的
+up	up
+smile	smil
+qu 
+anymore anmo
+modify	modf
+communicate	coun
+Raku	raku
+Perl	perl
+Security	secu
+Privacy	priv
+language	lagg
+month	mont
+#Dec	dec
+Nov	nov
+Oct	oct
+Sep	sep
+Aug	aug
+Jul	jul
+Jun	jun
+May	may
+Apr	apr
+Mar	mar
+Feb	feb
+Jan	jan
+December	decb
+November	novb
+October	octb
+September	sepb
+August	augt
+July	july
+June	june
+April	aprl
+March	marh
+February	febr
+January	janr
+tech	tech
+teach	teah
+startup	stup
+mint	mint
+coffee	cofe
+minimalism	miis
+English	engh
+weird	weid
+fear	fear
+do it	doit
+passion	pasi
+people	pepl
+fail	fail
+failed	fald
+goes	goes
+Insta360	inst
+your	your
+at	at
+school	schl
+update	upda
+Dyson	dyso
