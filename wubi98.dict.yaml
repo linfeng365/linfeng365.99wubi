@@ -21,7 +21,30 @@ encoder:
 ...
 
 
-
+歌词
+开机
+关节
+熬夜
+开创
+有效
+鼻子
+多用
+打卡
+过期
+分段
+实战
+补觉
+公园
+大早
+漂亮
+疾病
+意外
+大多数	ddqo
+运营
+诉求
+感应
+执行
+分离
 陈酿
 休养
 生息
@@ -235,7 +258,6 @@ Matrix	matr
 个体
 利益
 石头
-thank	than
 时光
 阳刚
 阴柔
@@ -1157,7 +1179,6 @@ free	free
 浦发
 中信
 建行
-招行
 招商
 联通
 天翼
@@ -1650,7 +1671,7 @@ io	io
 日报
 周报
 月报
-财报
+财报	mfr
 建造
 内推
 自投
@@ -2268,6 +2289,8 @@ list	list
 憨笑
 玫瑰
 咖啡
+[挖鼻]	aawb
+[奸笑]	aajx
 [难过]	aang
 [调皮]	aatp
 [太阳]	aaty
@@ -4516,7 +4539,7 @@ URL	url
 答	tw	31357
 每	tx	31356
 入	ty	31355
-#并	ua	31354
+并	ua	31354
 差	ua
 #~疗	ub	31353
 痛	uc	31352
@@ -7586,7 +7609,8 @@ URL	url
 籴	tyo	28299
 篱	tyr	28298
 稂	tyv	28297
-疟	uag	28296
+瓶	uag	28296
+#疟	uag	28296
 冻	uai	28295
 #瘼	uaj	28294
 阈	uak	28293
@@ -16743,7 +16767,7 @@ txt	txt	21912
 阧	bufh	19172
 䧧	bugy	19171
 隌	bujg	19170
-隡	but	19169
+隡	bu	19169
 隒	buvw	19168
 孻	bvhl	19167
 䎼	bviy	19166
@@ -17451,7 +17475,7 @@ Dec	dec	18531
 鬂	derw	18465
 鬆	desc	18464
 䰊	desf	18463
-䰍	desi	18462
+䰍	des	18462
 鬎	desj	18461
 髤	desu	18460
 劯	det	18459
@@ -17568,7 +17592,7 @@ Dec	dec	18531
 瓳	dgny	18348
 瓺	dgny	18347
 砙	dgny	18346
-烕	dgoi	18345
+烕	dgo	18345
 䢕	dgp	18344	#-
 矹	dgqn	18343
 厫	dgqt	18342
@@ -24040,7 +24064,7 @@ get	get	16084
 賤	maay	11878
 㟞	maay	11877
 㟿	mada	11876
-農	made	11875
+農	mad	11875
 蠈	madj	11874
 賊	madt	11873
 㞬	maf	11872
@@ -24548,7 +24572,7 @@ get	get	16084
 㠚	mouf	11370
 贌	moug	11369
 㟾	movh	11368
-嵻	movi	11367
+嵻	mov	11367
 嵣	movk	11366
 廸	mpd	11365
 峵	mpdc	11364
@@ -26509,7 +26533,7 @@ pdf	pdf	9632
 裶	puhd	9411
 褃	puhe	9410
 裃	puhh	9409
-袩	puhk	9408
+袩	puh	9408
 裭	puhw	9407
 䘣	puhx	9406
 䘯	puie	9405
@@ -34162,7 +34186,7 @@ pdf	pdf	9632
 飪	wvtf	1762
 飵	wvtf	1761
 餠	wvtf	1760
-飾	wvth	1759
+飾	wvt	1759
 侰	wvtk	1758
 餉	wvtk	1757
 餎	wvtk	1756
@@ -36248,7 +36272,6 @@ people	pepl
 fail	fail
 failed	fald
 goes	goes
-Insta360	inst
 your	your
 at	at
 school	schl
@@ -36325,3 +36348,80 @@ doesn't	dont
 make	make
 sense	sens
 year	year
+dark	dark
+mode	mode
+fluid	Flui
+track	trac
+vote	vote
+CLI	cli
+Sony	sony
+segment	segm
+by the way	bytw
+extra	extr
+overseas	ovse
+engineer	egnr
+engineering	egni
+company	comy
+line	line
+dinner	dinr
+evening	evei
+even	even
+eve	eve
+notable	nota
+table	tabl
+concept	coce
+hour	hour
+hours	hous
+shop	shop
+clean	clen
+run	run
+debug	debu
+IDE	ide
+code	code
+maintain	mata
+better	betr
+overtime	ovti	//超时
+overdue	ovdu	//过期
+expired	expi	//终止
+lover	lovr
+coder	codr
+price	pric
+pricing	prii
+fire	fire
+fox	fox
+Firefox	fifo
+browser	brse
+brow	brow
+than	than
+thank	thk
+thank	thak
+family	famy
+about	abou
+install	inst
+installed	insd
+between	betw
+be	be
+much	much
+past	past
+see	see
+s	s
+ed	ed
+every	evey
+design	desi
+develop	deve
+often	ofte
+ego	ego
+yourself	yous
+focus	focu
+invest	inves
+people	peol
+business	busi
+journey	jour
+flow	flow
+different	difr
+there	ther
+career	carr	#事业
+which	whic
+made	made
+almost	almo
+trash	tras
