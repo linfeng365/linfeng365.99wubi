@@ -175,8 +175,6 @@ encoder:
 封面
 调查
 鞭策
-word	word
-wikipedia	wikp
 手动
 难以
 置信
@@ -189,8 +187,6 @@ wikipedia	wikp
 更少
 捂嘴
 回复
-music	musc
-model	modl
 天晴
 收到
 试图
@@ -210,10 +206,6 @@ model	modl
 生日	tgjj
 功夫
 祝你
-think	thik
-thing	thig
-month	moth
-september setb
 浮游
 上课
 名字
@@ -267,9 +259,6 @@ september setb
 划分
 耕耘
 精诚
-youtube	yout
-chrome	chro
-bili	bili
 撵跑
 贫穷
 堕落
@@ -285,7 +274,6 @@ bili	bili
 想吃
 最小
 最大
-Matrix	matr
 依	wyeu
 依法
 保佑
@@ -303,11 +291,6 @@ Matrix	matr
 阴柔
 暗黑
 黑暗
-behind	behd
-way	way
-still	stil
-porn	porn
-order	ordr
 家里
 太乱
 太吵
@@ -317,10 +300,6 @@ order	ordr
 风味
 煽动
 反击
-end	end
-end	en
-enough	enou
-pod	pod
 书架
 意味
 前行
@@ -349,8 +328,6 @@ pod	pod
 轻易
 差异
 胸怀
-Windows	wins
-window	wido
 星球
 品味
 协作
@@ -369,10 +346,6 @@ window	wido
 剥削
 脑机
 接口	rukk
-it	it
-clock	cloc
-mini	mini
-dock	dock
 饶平
 参照
 对于
@@ -382,24 +355,14 @@ dock	dock
 由己
 厌恶
 翻版
-fake	fake
-find	find
-found	foud
-fine	fine
-problem	prob
-No problem	nopr
-What's your problem	wsyp
-test	test
 示好
 保守
 得罪
 罪人
 大约
 节日
-wife	wife
 七夕
 接收
-read	read
 直播
 极度
 匮乏
@@ -413,9 +376,6 @@ read	read
 改革
 进程
 脱离
-Peter	petr
-clipboard	clip
-clipboard	clbo
 正	gh
 整	skih
 束	sk
@@ -430,21 +390,12 @@ clipboard	clbo
 单口
 相声
 列入
-cn	cn
-Apple	appl
-mail	mail
-switch	swch
 神探
 红茶
 绿茶
 乌龙
 黑茶
 白茶
-watch
-Safari	safa
-facebook	fcbk
-adjusted	adju
-feng	feng
 极端
 冬天
 为主
@@ -457,21 +408,10 @@ feng	feng
 实时
 地图
 内涵
-photo	phto
-random	ranm
-random	radm
-twitter	twit
-wechat	wech
-weixin	weix
-so	so
-remove	remv
-md	md
 网址
 天使
 狭义
 广义
-skip	skip
-Spotlight	spli
 蛤蟆
 简史
 邮件
@@ -479,15 +419,9 @@ Spotlight	spli
 高手
 后缀
 双拼
-Tap	tap
 够胆
 就来
 中肯
-paste	pase
-telegram	telg
-key	key
-deadline	deal
-dead	dead
 招新
 时时
 轮回
@@ -495,7 +429,6 @@ dead	dead
 气爽
 干脆
 水浒
-cctv	cctv
 私密
 论坛
 简易
@@ -507,9 +440,6 @@ cctv	cctv
 除非
 帐号
 帐户
-iMessage	imsg
-message	msg
-Calibre cali
 工程	aatk
 小揽
 以后
@@ -557,8 +487,6 @@ Calibre cali
 宿命
 冗余	pwwf
 余	wfs
-HPV hpv
-HIV	hiv
 越狱
 回去
 中信
@@ -583,17 +511,6 @@ HIV	hiv
 神秘
 构成
 傻子
-work	work
-some	some
-here	here
-that	that
-use	use
-info	info
-other	othr
-check	chek
-want	want
-you	you
-epub	epub
 旅行
 游行
 示威
@@ -606,9 +523,6 @@ epub	epub
 之明
 禁区
 滥用
-cancel	canc
-iPod	ipod
-Thank you	thx
 真的
 爱你
 上帝
@@ -632,8 +546,6 @@ Thank you	thx
 可怜
 怜悯
 怜惜
-meta	meta
-search	seah
 没收
 零花
 零食
@@ -646,14 +558,13 @@ search	seah
 吸引
 肓打
 领悟
-week	week
-AirPods	airp
 肓打
 被子
 背包
 黑道
 家族
 别人	keww
+惦	not
 观看
 参加
 参与
@@ -661,103 +572,10 @@ AirPods	airp
 水平
 水准
 厂家
-pop	pop
-mp4	mpf
-mkv	mkv
-mp3	mpt
-bad	bad
-zero	zero
-one	one
-two	two
-three	thre
-four	four
-five	five
-six	six
-seven	sevn
-eight	eigt
-nine	nine
-ten	ten
-Super	supr
-Mario	mari
-item	item
-love	love
-real	real
-feel	feel
-ing	ing
 两个
 相处
 买好
 高铁
-note	note
-惦	not
-
-Sunday	suny
-storage	stor
-clone	clon
-camp	camp
-
-fake it until make it.	fium
-then	then
-from	from
-by	by  
-
-mac	mac
-for	for
-push	push
-pull	pull
-fork	fork
-
-sudo  sudo
-virtualenv	virv
-defined	defd
-type	typ
-int	int
-float	flot
-parameter	par	#形参
-argument	arg	#实参
-
-
-String	stri
-Number	Numb
-Boolean	bool
-Undefined	unde
-Null	null
-Object	obje
-
-False	fals
-None	none
-True	true
-and	and
-as	as
-assert	asst	
-break	brek
-class	clas	
-continue	cont
-def	def
-del	del
-elif	elif
-else	else
-except	exct
-finally	finy
-for	for
-from	from
-global	glol
-if	if
-import	impt
-in	in
-is	is
-lambda	lama
-nonlocal	nonl
-not	not
-or	or
-pass	pass
-raise	rais
-return	retu
-try	try
-while	whil
-with	with
-yield	yiel
-
 充值
 排列
 允许
@@ -782,11 +600,6 @@ yield	yiel
 自来
 接近
 跨越
-Copyright	copr
-number	num
-hand	hand
-send	sent
-chat	chat
 形象
 担心
 神侃
@@ -810,9 +623,6 @@ chat	chat
 蓝光
 过滤
 挖矿
-server	ser
-desktop	desk
-debugUself
 太虚
 幻境
 太阳
@@ -862,18 +672,14 @@ debugUself
 物业
 年度
 课程
-Pixar	pixr
 制止
 小姐
 屏蔽
 个人	whww
 动员
 机核
-good	good
-thing	thin
 裙子
 待下
-women	wome
 谷物
 香氛
 期限
@@ -1124,7 +930,6 @@ women	wome
 绝对
 相对
 衍生
-content	 cont
 想念
 范例
 小子
@@ -1134,9 +939,6 @@ content	 cont
 已阅
 居委
 事宜
-where	wher
-when	when
-how	howw
 业委
 保健
 正文
@@ -1145,9 +947,6 @@ how	howw
 我回答完了。↑	tltp
 给出
 变更
-refer	refr
-tips	tips
-uniqlo	uniq
 杂事
 占用
 批评
@@ -1163,7 +962,6 @@ uniqlo	uniq
 困惑
 编写
 重启
-hold	hold
 签字
 签名
 成立
@@ -1172,23 +970,6 @@ hold	hold
 巨型
 巨大
 巨	an
-done	done
-DONE as good!	bedn
-ARCHIVED be wiki.	bewi
-达成/归档/交付ed
-;-) 归档/收录/提交ed
-archived	arch
-inbox	inbx
-today	tody
-wait	wait
-first	firs
-first	firt
-plan	plan
-later	latr
-maybe	mabe
-out	outt
-home	home
-free	free
 组合
 微单
 模糊
@@ -1260,7 +1041,6 @@ free	free
 救命
 搭救
 利润
-sick	sick
 勇敢
 边界
 当作
@@ -1283,12 +1063,10 @@ sick	sick
 群众
 群里
 真相
-take care of yourself 	tcys
 照顾
 共同
 祖先
 促进
-Kanban	kanb
 接待
 投票
 流失
@@ -1320,29 +1098,19 @@ Kanban	kanb
 召唤
 闹钟
 充电
-alfred	alfr
-origin	orgi
-press	pres
 命名
 桌面
 近期
 凡事
-beta	beta
-alpha	alph
 抵抗
 策略
 对方
-liguanhe	lgh
-NBR-hugh	nbr
 恐惧
 长大
 愿意
 清醒
 虚无
 试错
-atext	atex
-information	ifmi
-energy	eneg
 维度
 渣男
 婊子
@@ -1389,12 +1157,6 @@ energy	eneg
 想去
 演示
 面板
-files	file
-any	any
-anytime	anti
-anything	anth
-thing	thig
-find	find
 讲解
 港台
 熟人
@@ -1452,8 +1214,6 @@ shortcut	shct
 包括
 依旧
 依然
-email	emai
-email	emal
 语音
 大信
 南区
@@ -1469,12 +1229,6 @@ email	emal
 死亡
 随时
 预测
-someone	smoe
-someone	smon
-sometime	smt
-robot	rob
-King Lear	lea
-switch	swit
 儿子
 女儿
 反省
@@ -1488,12 +1242,6 @@ switch	swit
 甚至
 牢骚
 距离
-just	just
-relax	relx
-and	and
-have	have
-fun	fun
-Good luck	golu
 改进
 攀岩
 岩钉
@@ -1540,10 +1288,8 @@ Good luck	golu
 明确
 灵活
 不该
-Podcasts	podc
 隧道
 视野
-iOS	ios
 竟然
 合格
 节点
@@ -1552,11 +1298,9 @@ iOS	ios
 身边
 京都
 肚子
-Calendar	calr
 伺候
 皇上
 躲避
-iTimeLog	itim
 面板
 儒家
 道家
@@ -1632,9 +1376,6 @@ iTimeLog	itim
 其详
 单身
 某些
-eng	eng
-chs	chs
-console	cons
 节食
 靠谱
 若干
@@ -1671,15 +1412,10 @@ console	cons
 挺胸
 独特
 金刚
-JavaScript	js
-Python	py
-Anki	anki
-repo	repo
 广鹤
 沥川
 祛魅
 除魅
-of course	ofco
 加班
 装备
 不会
@@ -1693,21 +1429,17 @@ of course	ofco
 反思
 政治
 租房	tey
-query	quer
 所谓
 冰寒
 背景
 三国
 演义
-job	jobb
-Sally	saly
 时期
 沥川
 获得
 圆形
 不如
 学徒
-io	io
 日报
 周报
 月报
@@ -1726,15 +1458,6 @@ io	io
 可怕
 步	hh
 频次
-JavaScript	Javs
-subject	subj
-project	proj
-professional	prof
-Python	pyth
-today	tody
-let's go	lsgo
-day	day
-day	dayy
 厨房
 订阅
 消费
@@ -3047,17 +2770,6 @@ linfeng82@qq.com	lfyx
 528400	lfyb
 
 # 英文
-App	appp
-Apple	appl
-Apple	appe
-Apple Watch	apwc
-iPhone	ipho
-iPhone	iphe
-iPad	ipad
-git	gitt
-MVP	mvpp
-github	gith
-Issue  issu
 大妈	ddvc
 江门	iauy
 佛山	wxmm
@@ -5097,7 +4809,7 @@ URL	url
 #髦	dee	30847
 髻	deff	30846
 髭	deh	30845
-鬟	del	30844
+鬟	de	30844
 髯	dem	30843
 鬃	dep	30842
 鹕	deq	30841
@@ -36017,8 +35729,293 @@ tip	tip	4851
 # 使用识别码并不保证没有重码。
 # 不如允许重码出现。
 # 在输入法以固定次序排列。
+files	file
+any	any
+anytime	anti
+anything	anth
+thing	thig
+find	find
+email	emai
+email	emal
+JavaScript	Javs
+subject	subj
+project	proj
+professional	prof
+Python	pyth
+today	tody
+let's go	lsgo
+day	day
+day	dayy
+someone	smoe
+someone	smon
+sometime	smt
+robot	rob
+King Lear	lea
+switch	swit
+just	just
+relax	relx
+and	and
+have	have
+fun	fun
+Good luck	golu
+Podcasts	podc
+iOS	ios
+Calendar	calr
+iTimeLog	itim
+eng	eng
+chs	chs
+console	cons
+JavaScript	js
+Python	py
+Anki	anki
+repo	repo
+of course	ofco
+query	quer
+job	jobb
+Sally	saly
+io	io
+content	 cont
+where	wher
+when	when
+how	howw
+refer	refr
+tips	tips
+uniqlo	uniq
+hold	hold
+done	done
+DONE as good!	bedn
+ARCHIVED be wiki.	bewi
+达成/归档/交付ed
+;-) 归档/收录/提交ed
+archived	arch
+inbox	inbx
+today	tody
+wait	wait
+first	firs
+first	firt
+plan	plan
+later	latr
+maybe	mabe
+out	outt
+home	home
+free	free
+sick	sick
+take care of yourself 	tcys
+Kanban	kanb
+alfred	alfr
+origin	orgi
+press	pres
+beta	beta
+alpha	alph
+liguanhe	lgh
+NBR-hugh	nbr
+atext	atex
+information	ifmi
+energy	eneg
+server	ser
+desktop	desk
+debugUself	deus
+word	word
+wikipedia	wikp
+music	musc
+model	modl
+think	thik
+thing	thig
+month	moth
+youtube	yout
+chrome	chro
+bili	bili
+Matrix	matr
+behind	behd
+way	way
+still	stil
+porn	porn
+order	ordr
+end	end
+end	en
+enough	enou
+pod	pod
+Windows	wins
+window	wido
+it	it
+clock	cloc
+mini	mini
+dock	dock
+fake	fake
+find	find
+found	foud
+fine	fine
+problem	prob
+No problem	nopr
+What's your problem	wsyp
+test	test
+wife	wife
+read	read
+Peter	petr
+clipboard	clip
+clipboard	clbo
+cn	cn
+Apple	appl
+mail	mail
+switch	swch
+Safari	safa
+facebook	fcbk
+adjusted	adju
+feng	feng
+photo	phto
+random	ranm
+random	radm
+twitter	twit
+wechat	wech
+weixin	weix
+so	so
+remove	remv
+md	md
+skip	skip
+Spotlight	spli
+Tap	tap
+paste	pase
+telegram	telg
+key	key
+deadline	deal
+dead	dead
+cctv	cctv
+
+iMessage	imsg
+message	msg
+Calibre cali
+HPV hpv
+HIV	hiv
+work	work
+some	some
+here	here
+that	that
+use	use
+info	info
+other	othr
+check	chek
+want	want
+you	you
+epub	epub
+meta	meta
+search	seah
+cancel	canc
+iPod	ipod
+Thank you	thx
+week	week
+AirPods	airp
+pop	pop
+mp4	mpf
+mkv	mkv
+mp3	mpt
+bad	bad
+zero	zero
+one	one
+two	two
+three	thre
+four	four
+five	five
+six	six
+seven	sevn
+eight	eigt
+nine	nine
+ten	ten
+Super	supr
+Mario	mari
+item	item
+love	love
+real	real
+feel	feel
+ing	ing
+note	note
+Sunday	suny
+storage	stor
+clone	clon
+camp	camp
+
+fake it until make it.	fium
+then	then
+from	from
+by	by  
+
+mac	mac
+for	for
+push	push
+pull	pull
+fork	fork
+
+sudo  sudo
+virtualenv	virv
+defined	defd
+type	typ
+int	int
+float	flot
+parameter	par	#形参
+argument	arg	#实参
 
 
+String	stri
+Number	Numb
+Boolean	bool
+Undefined	unde
+Null	null
+Object	obje
+
+False	fals
+None	none
+True	true
+and	and
+as	as
+assert	asst	
+break	brek
+class	clas	
+continue	cont
+def	def
+del	del
+elif	elif
+else	else
+except	exct
+finally	finy
+for	for
+from	from
+global	glol
+if	if
+import	impt
+in	in
+is	is
+lambda	lama
+nonlocal	nonl
+not	not
+or	or
+pass	pass
+raise	rais
+return	retu
+try	try
+while	whil
+with	with
+yield	yiel
+Copyright	copr
+number	num
+hand	hand
+send	sent
+chat	chat
+Pixar	pixr
+good	good
+thing	thin
+women	wome
+App	appp
+Apple	appl
+Apple	appe
+Apple Watch	apwc
+iPhone	ipho
+iPhone	iphe
+iPad	ipad
+git	gitt
+MVP	mvpp
+github	gith
+Issue  issu
+# 以上为倒序添加
+# 以下为正序添加
 pulse 	puls
 loser 	loer
 nas 	nas
@@ -36504,3 +36501,5 @@ mentee 	ment
 men 	men
 man 	man
 skill 	skil
+add 	add
+turn	turn
