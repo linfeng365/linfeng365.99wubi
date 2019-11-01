@@ -21,6 +21,8 @@ encoder:
 ...
 
 
+页面
+图标
 多谢
 前辈
 弄	ga
@@ -2053,6 +2055,7 @@ list	list
 憨笑
 玫瑰
 咖啡
+[再见]	aazj
 [拥抱]	aabb
 [拥抱]	aayb
 [挖鼻]	aawb
@@ -16893,7 +16896,7 @@ txt	txt	21912
 馾	copq	18803
 䮨	copu	18802
 駝	copx	18801
-䮤	copy	18800
+䮤	cop	18800
 駠	coqb	18799
 騊	coqb	18798
 䭹	coqb	18797
@@ -35724,225 +35727,226 @@ tip	tip	4851
 #
 # Original table author
 # Wozy <wozy.in@gmail.com>
-
+#
+#  3万6个词 
+#
 # 五笔不要识别码还好。
 # 使用识别码并不保证没有重码。
 # 不如允许重码出现。
 # 在输入法以固定次序排列。
-files	file
-any	any
-anytime	anti
-anything	anth
-thing	thig
-find	find
-email	emai
-email	emal
-JavaScript	Javs
-subject	subj
-project	proj
-professional	prof
-Python	pyth
-today	tody
-let's go	lsgo
-day	day
-day	dayy
-someone	smoe
-someone	smon
-sometime	smt
-robot	rob
-King Lear	lea
-switch	swit
-just	just
-relax	relx
-and	and
-have	have
-fun	fun
-Good luck	golu
-Podcasts	podc
-iOS	ios
-Calendar	calr
-iTimeLog	itim
+files 	file
+any 	any
+anytime 	anti
+anything 	anth
+thing 	thig
+find 	find
+email 	emai
+email 	emal
+JavaScript 	Javs
+subject 	subj
+project 	proj
+professional 	prof
+Python 	pyth
+today 	tody
+let's go 	lsgo
+day 	day
+day 	dayy
+someone 	smoe
+someone 	smon
+sometime 	smt
+robot 	rob
+King Lear 	lea
+switch 	swit
+just 	just
+relax 	relx
+and 	and
+have 	have
+fun 	fun
+Good luck 	golu
+Podcasts 	podc
+iOS 	ios
+Calendar 	calr
+iTimeLog 	itim
 eng	eng
 chs	chs
-console	cons
-JavaScript	js
-Python	py
-Anki	anki
-repo	repo
-of course	ofco
-query	quer
-job	jobb
-Sally	saly
-io	io
-content	 cont
-where	wher
-when	when
-how	howw
-refer	refr
-tips	tips
-uniqlo	uniq
-hold	hold
-done	done
+console 	cons
+JavaScript 	js
+Python 	py
+Anki 	anki
+repo 	repo
+of course 	ofco
+query 	quer
+job 	jobb
+Sally 	saly
+io 	io
+content 	 cont
+where 	wher
+when 	when
+how 	howw
+refer 	refr
+tips 	tips
+uniqlo 	uniq
+hold 	hold
+done 	done
 DONE as good!	bedn
 ARCHIVED be wiki.	bewi
-达成/归档/交付ed
-;-) 归档/收录/提交ed
-archived	arch
-inbox	inbx
-today	tody
-wait	wait
-first	firs
-first	firt
-plan	plan
-later	latr
-maybe	mabe
-out	outt
-home	home
-free	free
-sick	sick
-take care of yourself 	tcys
-Kanban	kanb
-alfred	alfr
-origin	orgi
-press	pres
-beta	beta
-alpha	alph
-liguanhe	lgh
+达成/归档/交付ed	beed
+;-) 归档/收录/提交ed	beed
+archived 	arch
+inbox 	inbx
+today 	tody
+wait 	wait
+first 	firs
+first 	firt
+plan 	plan
+later 	latr
+maybe 	mabe
+out 	outt
+home 	home
+free 	free
+sick 	sick
+take care of yourself  	tcys
+Kanban 	kanb
+alfred 	alfr
+origin 	orgi
+press 	pres
+beta 	beta
+alpha 	alph
+liguanhe 	lgh
 NBR-hugh	nbr
 atext	atex
-information	ifmi
-energy	eneg
-server	ser
-desktop	desk
+information 	ifmi
+energy 	eneg
+server 	ser
+desktop 	desk
 debugUself	deus
-word	word
-wikipedia	wikp
-music	musc
-model	modl
-think	thik
-thing	thig
-month	moth
-youtube	yout
-chrome	chro
-bili	bili
-Matrix	matr
-behind	behd
-way	way
-still	stil
-porn	porn
-order	ordr
-end	end
-end	en
-enough	enou
-pod	pod
-Windows	wins
-window	wido
-it	it
-clock	cloc
-mini	mini
-dock	dock
-fake	fake
-find	find
-found	foud
-fine	fine
-problem	prob
-No problem	nopr
-What's your problem	wsyp
+word 	word
+wikipedia 	wikp
+music 	musc
+model 	modl
+think 	thik
+thing 	thig
+month 	moth
+youtube 	yout
+chrome 	chro
+bili 	bili
+Matrix 	matr
+behind 	behd
+way 	way
+still 	stil
+porn 	porn
+order 	ordr
+end 	end
+end 	en
+enough 	enou
+pod 	pod
+Windows 	wins
+window 	wido
+it 	it
+clock 	cloc
+mini 	mini
+dock 	dock
+fake 	fake
+find 	find
+found 	foud
+fine 	fine
+problem 	prob
+No problem 	nopr
+What's your problem.	wsyp
 test	test
-wife	wife
-read	read
-Peter	petr
-clipboard	clip
-clipboard	clbo
-cn	cn
-Apple	appl
-mail	mail
-switch	swch
-Safari	safa
-facebook	fcbk
-adjusted	adju
+wife 	wife
+read 	read
+Peter 	petr
+clipboard 	clip
+clipboard 	clbo
+cn 	cn
+Apple 	appl
+mail 	mail
+switch 	swch
+Safari 	safa
+facebook 	fcbk
+adjusted 	adju
 feng	feng
-photo	phto
-random	ranm
-random	radm
-twitter	twit
-wechat	wech
-weixin	weix
-so	so
+photo 	phto
+random 	ranm
+random 	radm
+twitter 	twit
+wechat 	wech
+weixin 	weix
+so 	so
 remove	remv
 md	md
-skip	skip
-Spotlight	spli
-Tap	tap
-paste	pase
-telegram	telg
-key	key
-deadline	deal
-dead	dead
-cctv	cctv
-
-iMessage	imsg
-message	msg
-Calibre cali
-HPV hpv
-HIV	hiv
-work	work
-some	some
-here	here
-that	that
-use	use
-info	info
-other	othr
-check	chek
-want	want
-you	you
-epub	epub
-meta	meta
-search	seah
-cancel	canc
-iPod	ipod
+skip 	skip
+Spotlight 	spli
+Tap 	tap
+paste 	pase
+telegram 	telg
+key 	key
+deadline 	deal
+dead 	dead
+cctv 	cctv
+iMessage 	imsg
+message 	msg
+Calibre  cali
+HPV  hpv
+HIV 	hiv
+work 	work
+some 	some
+here 	here
+that 	that
+use 	use
+info 	info
+other 	othr
+check 	chek
+want 	want
+you 	you
+epub 	epub
+meta 	meta
+search 	seah
+cancel 	canc
+iPod 	ipod
 Thank you	thx
-week	week
-AirPods	airp
-pop	pop
+week 	week
+AirPods 	airp
+pop 	pop
 mp4	mpf
 mkv	mkv
 mp3	mpt
-bad	bad
-zero	zero
-one	one
-two	two
-three	thre
-four	four
-five	five
-six	six
-seven	sevn
-eight	eigt
-nine	nine
-ten	ten
-Super	supr
-Mario	mari
-item	item
-love	love
-real	real
-feel	feel
-ing	ing
-note	note
-Sunday	suny
-storage	stor
-clone	clon
-camp	camp
+bad 	bad
+zero 	zero
+one 	one
+two 	two
+three 	thre
+four 	four
+five 	five
+six 	six
+seven 	sevn
+eight 	eigt
+nine 	nine
+ten 	ten
+Super 	supr
+Mario 	mari
+item 	item
+love 	love
+real 	real
+feel 	feel
+ing 	ing
+note 	note
+Sunday 	suny
+storage 	stor
+clone 	clon
+camp 	camp
 
 fake it until make it.	fium
-then	then
-from	from
-by	by  
+then 	then
+from 	from
+by 	by  
 
-mac	mac
-for	for
-push	push
-pull	pull
-fork	fork
+mac 	mac
+for 	for
+push 	push
+pull 	pull
+fork 	fork
 
 sudo  sudo
 virtualenv	virv
@@ -35994,15 +35998,16 @@ try	try
 while	whil
 with	with
 yield	yiel
+
 Copyright	copr
-number	num
-hand	hand
-send	sent
-chat	chat
-Pixar	pixr
-good	good
-thing	thin
-women	wome
+number 	num
+hand 	hand
+send 	sent
+chat 	chat
+Pixar 	pixr
+good 	good
+thing 	thin
+women 	wome
 App	appp
 Apple	appl
 Apple	appe
@@ -36502,4 +36507,9 @@ men 	men
 man 	man
 skill 	skil
 add 	add
-turn	turn
+turn 	turn
+logo 	logo
+copy 	copy
+paste 	past
+status 	stat
+
