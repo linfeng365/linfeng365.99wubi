@@ -19,6 +19,78 @@ encoder:
       formula: "AaBaCaZa"
 ##多写动词,然后是名词,抽象的名词。
 ...
+
+分别
+音质
+音调
+限购
+版权
+工夫	aafw
+省工	itaa
+降噪
+特征
+致命
+四川	lhkt
+手续
+生病
+充分
+拖曳
+做了	wdbb
+妥当
+顺便
+生效
+图文
+防止
+禁用
+办理
+凭几
+倚靠
+倚仗
+仗	wdy
+仗	wdyi
+扙	rdyi
+杖	sdyi
+长时
+短时
+持有
+持握
+欲念
+色彩
+万分
+起伏
+大众	
+石油
+金融
+案例	pvw
+小睡
+小憩
+痔疮
+坡	fhc
+可控
+面向
+亿万
+赤膊
+上阵
+Jahwan	jahw
+吓死
+世纪
+问问
+激情
+元气
+附近
+利于
+同意
+历经
+患得
+患失
+云端
+老骥伏枥，志在千里	ljfl
+融化
+身心
+舒展
+紧绷
+心内
+分开
 雄厚
 很难
 忍受
@@ -755,7 +827,7 @@ encoder:
 冷嘲
 热讽
 拥抱
-丈	gri
+#丈	gri
 激动
 多重
 读者
@@ -1684,9 +1756,10 @@ top	top
 直言
 alfred	alfr
 http://www.zhihu.com/search?q=	vi
-http://drugs.dxy.cn/search/indication.htm?keyword=	yy
+http://drugs.dxy.cn/search/indication.htm?keyword=	dx
 http://www.zimuku.net/search?ad=1&q=	btzm
 http://www.sosobtx.com/s/	bt
+http://assrt.net/sub/?searchword=	sub
 http://search.bilibili.com/all?keyword=	bi
 http://www.soku.com/search_video/q_' '	yk
 macappstore://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?q=	apps
@@ -2082,6 +2155,15 @@ list	list
 ♻	aarc	# Recycling Symbol
 ✔	aarm	# Check Mark / right mark
 ✖	aawm	# Multiplication Sign /wrong mark
+🦋	aabf	# Butterfly
+⭐	aast	# Star
+📚	aabk	# Books
+💰	aamo	# Money Bag
+🧬	aadn	# DNA
+✉	aaem	# Envelope
+💌	aall	# Love Letter
+🔥	aafi	# Fire
+
 偷笑
 呲牙
 微笑
@@ -2292,7 +2374,6 @@ init	init
 繁琐
 反刍
 状态
-question	quet
 辞职
 辞	tduy
 舌	td
@@ -3420,12 +3501,10 @@ URL	url
 单词	ujyn
 呵	kskg
 
-
-
 看见	rhmq
 成长	dnta
 急猝	qvqt
-大人	ddww
+大人	ddw
 男人	leww
 女人	vvww
 几条	wtts
@@ -7439,7 +7518,8 @@ URL	url
 阋	ueq	28265
 毅	uew	28264
 阖	ufc	28263
-闺	uff	28262
+痔	uff	28262
+#闺	uff	28262
 癫	ufh	28261
 闱	ufn	28260
 闭	uft	28259
@@ -10062,7 +10142,7 @@ URL	url
 胗	ewet	25662
 脍	ewfc	25661
 脸	ewgg	25660
-腧	ewgj	25659
+腧	ewg	25659
 貅	ewsy	25658
 脞	ewwf	25657
 奚	exdu	25656
@@ -10498,7 +10578,7 @@ URL	url
 殁	gqwc	25229
 殄	gqwe	25228
 殓	gqwg	25227
-餮	gqwv	25226
+餮	gqw	25226
 死	gqxv	25225
 玖	gqyy	25224
 碧	grdf	25223
@@ -11274,7 +11354,7 @@ URL	url
 哒	kdpy	24453
 嘹	kdui	24452
 噘	kduw	24451
-唪	kdwg	24450
+唪	kdw	24450
 嘶	kdwr	24449
 嗪	kdwt	24448
 咙	kdxy	24447
@@ -13399,7 +13479,7 @@ URL	url
 檄	sryt	22331
 柝	sryy	22330
 郴	ssbh	22329
-彬	sset	22328
+#彬	sset	22328
 禁	ssfi	22327
 楂	ssjg	22326
 柯	sskg	22325
@@ -13628,8 +13708,8 @@ URL	url
 箔	tirf	22102
 簿	tisf	22101
 秒	titt	22100
-笪	tjgf	22099
-得	tjgf	22098
+笪	tjg	22099
+#得	tjgf	22098
 筛	tjgh	22097
 梨	tjsu	22096
 稞	tjsy	22095
@@ -14270,7 +14350,7 @@ txt	txt	21912
 僚	wdui	21461
 俸	wdwg	21460
 傣	wdwi	21459
-仗	wdyy	21458
+#仗	wdyy	21458
 俘	webg	21457
 伽	wekg	21456
 倪	weqn	21455
@@ -16110,7 +16190,7 @@ txt	txt	21912
 䔼	avyh	19622
 荵	avyn	19621
 茷	awau	19620
-䒫	away	19619
+䒫	awa	19619
 芁	awb	19618
 䢼	awbh	19617
 芿	awbr	19616
@@ -18435,10 +18515,10 @@ Dec	dec	18531
 肸	ewfh	17299
 胕	ewfy	17298
 腀	ewga	17297
-毺	ewgj	17296
-膾	ewgj	17295
-貐	ewgj	17294
-䑕	ewgj	17293
+毺	ewg	17296
+膾	ewg	17295
+貐	ewg	17294
+䑕	ewg	17293
 䏩	ewgk	17292
 肹	ewgn	17291
 膯	ewgu	17290
@@ -20079,7 +20159,7 @@ get	get	16084
 殔	gqvi	15657
 殲	gqwg	15656
 㱷	gqws	15655
-飱	gqwv	15654
+飱	gqw	15654
 殮	gqww	15653
 㺵	gqwy	15652
 㱝	gqxe	15651
@@ -23217,7 +23297,7 @@ get	get	16084
 哘	ktgs	12519
 呹	ktgy	12518
 嘷	kthf	12517
-嘥	kthh	12516
+嘥	kth	12516
 喒	kthj	12515
 嚊	kthj	12514
 唌	kthp	12513
@@ -30914,7 +30994,7 @@ tip	tip	4851
 稈	tjfh	4828
 筸	tjfj	4827
 馩	tjfm	4826
-䅞	tjgf	4825
+䅞	tjg	4825
 徥	tjgh	4824
 䅠	tjgh	4823
 䈕	tjgh	4822
@@ -34098,7 +34178,7 @@ tip	tip	4851
 傘	www	1645
 䁞	wwwh	1644
 㫺	wwwj	1643
-㐺	wwwy	1642
+㐺	www	1642
 仈	wwy	1641
 㑺	wwyb	1640
 倠	wwyg	1639
@@ -35335,7 +35415,7 @@ tip	tip	4851
 謎	yopy	408
 鵉	yoqo	407
 変	yotu	406
-㪰	you	405
+㪰	youu	405
 譵	youf	404
 譧	youw	403
 詸	yoy	402
@@ -35796,7 +35876,6 @@ relax 	relx
 and 	and
 have 	have
 fun 	fun
-Good luck 	golu
 Podcasts 	podc
 iOS 	ios
 Calendar 	calr
@@ -35861,7 +35940,7 @@ model 	modl
 think 	thik
 thing 	thig
 month 	moth
-youtube 	yout
+youtube	yout
 chrome 	chro
 bili 	bili
 Matrix 	matr
@@ -35904,7 +35983,7 @@ feng	feng
 photo 	phto
 random 	ranm
 random 	radm
-twitter 	twit
+twitter	twit
 wechat 	wech
 weixin 	weix
 so 	so
@@ -35973,7 +36052,6 @@ camp 	camp
 
 fake it until make it.	fium
 then 	then
-from 	from
 by 	by  
 
 mac 	mac
@@ -36119,6 +36197,7 @@ open 	open
 close 	clos
 him 	him
 her 	her
+his 	his
 future  futu
 will 	will
 ask 	ask
@@ -36365,7 +36444,6 @@ write 	wrte
 exam 	exam
 maths 	math
 answer 	answ
-question 	quet
 tion 	tion
 paper 	papr
 rest 	rest
@@ -36557,3 +36635,55 @@ water 	wate
 closet	clst
 emoji	emji
 remote	remo
+vivid	vivi
+vividly	vivy
+cloth 	clth
+clothe 	clte
+clothes 	clts
+away 	away
+away from 	awfr
+comment 	comn
+are 	are
+area 	area
+hehe 	hehe
+he 	he
+she 	she
+translate	tral
+pack	pack
+butterfly	bufl
+luck 	luck
+lucky 	lucy
+luckily	luly
+good luck	golu
+hero	hero
+byte	byte
+quest 	ques
+question 	quet
+bill 	bill
+billion 	blli
+bilibili	bibi
+Bose	bose
+well done	wedo
+very well	vewe
+worth	wort
+morning 	mori
+this 	this
+today 	toda
+finder	fidr
+drag	drag
+drop	drop
+unable 	uabl
+able 	able
+progress	prgr
+plus	plus
+title	titl
+bit	bit
+pirate	pira
+bay	bay
+JOJO jojo
+OKR	okr
+KPI	kpi
+BSC	bsc
+pan	pan
+I believe	ibli
+gentlemen	getm
