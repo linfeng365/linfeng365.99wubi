@@ -20,6 +20,47 @@ encoder:
 ##多写动词,然后是名词,抽象的名词。
 ...
 
+
+复苏
+建设
+崩溃
+叙事
+坦白
+难题
+运行
+解锁
+献	fmd
+穷人
+骄傲
+官方
+解放
+难以
+全民
+上帝
+菜单
+竞争
+套餐
+绑定
+痴男
+怨女
+乎视
+短暂
+平庸
+歧途
+录制
+待	tt
+待到
+抖音
+国际
+转动
+附加
+等待
+待会
+长沙
+燥	okkk
+荒凉
+局部
+出差
 分别
 音质
 音调
@@ -1786,7 +1827,7 @@ http://	http
 google
 baidu.com baid
 over	over
-com	comm
+.com	comm
 v2ex.com	vtco
 v2ex.com	vtex
 amazon.cn	amco
@@ -1815,7 +1856,6 @@ douban.com	doub
 全局
 first	firs
 first	firt
-plan	plan
 检索
 吃惊	ktny
 家伙
@@ -2954,8 +2994,6 @@ linfeng82@qq.com	lfyx
 自	th
 #~去	fc	40126
 二	fg
-人	w
-工	a
 作	wth
 值	wf
 键	qvg
@@ -4403,7 +4441,7 @@ URL	url
 稳	tq	31363
 #~稀	tr	31362
 条	ts	31361
-秩	tt	31360
+#秩	tt	31360
 冬	tu	31359
 委	tv	31358
 答	tw	31357
@@ -9714,7 +9752,7 @@ URL	url
 骥	cguw	26089
 驸	cgwf	26088
 骅	cgwf	26087
-验	cgwg	26086
+#验	cgwg	26086
 骓	cgwy	26085
 骗	cgya	26084
 骧	cgye	26083
@@ -11204,7 +11242,7 @@ URL	url
 暇	jnhc	24603
 遢	jnpd	24602
 曳	jnte	24601
-曜	jnwy	24600
+#曜	jnwy	24600
 昵	jnxn	24599
 蠊	jouw	24598
 蝼	jovg	24597
@@ -13626,7 +13664,7 @@ URL	url
 歃	tfew	22184
 街	tffs	22183
 #~等	tff	22182
-待	tffy	22181
+#待	tffy	22181
 稹	tfhw	22180
 徒	tfhy	22179
 郜	tfkb	22178
@@ -22298,8 +22336,8 @@ get	get	16084
 曵	jnty	13518
 蟉	jnwe	13517
 㬔	jnwe	13516
-蚗	jnwy	13515
-蠗	jnwy	13514
+蚗	jnw	13515
+蠗	jnw	13514
 蚭	jnxn	13513
 蚇	jnyy	13512
 蟅	joao	13511
@@ -25639,7 +25677,7 @@ get	get	16084
 焆	okeg	10178
 燀	okkf	10177
 焒	okkg	10176
-煰	okkk	10175
+煰	okk	10175
 㶽	okmw	10174
 熉	okmy	10173
 炾	okqn	10172
@@ -31457,7 +31495,7 @@ tip	tip	4851
 㣫	ttgf	4365
 䅜	ttgf	4364
 徃	ttgg	4363
-禦	ttgi	4362
+禦	ttg	4362
 䇨	ttgj	4361
 㣳	ttgo	4360
 䉑	ttgo	4359
@@ -33506,7 +33544,7 @@ tip	tip	4851
 㓘	wgqy	2317
 厁	wgsb	2316
 䣄	wgsb	2315
-敍	wgsc	2314
+敍	wgs	2314
 㙦	wgsf	2313
 畬	wgsl	2312
 峹	wgsm	2311
@@ -35795,6 +35833,7 @@ tip	tip	4851
 誶	yywf	28
 詃	yyxy	27
 譶	yyy	26 #(yyyf)
+工	a
 #~戈	a	25
 子	b	24
 又	c	23
@@ -35814,9 +35853,11 @@ tip	tip	4851
 金	q	9
 白	r	8
 木	s	7
+#待	t	6
 禾	t	6
 立	u	5
 女	v	4
+人	w	3
 #~几	w	3
 幺	x	2
 言	y	1
@@ -35857,10 +35898,10 @@ find 	find
 email 	emai
 email 	emal
 JavaScript 	Javs
-subject 	subj
-project 	proj
+subject	subj
+project	proj
 professional 	prof
-Python 	pyth
+Python	pyth
 today 	tody
 let's go 	lsgo
 day 	day
@@ -35909,9 +35950,7 @@ archived 	arch
 inbox 	inbx
 today 	tody
 wait 	wait
-first 	firs
-first 	firt
-plan 	plan
+plan	plan
 later 	latr
 maybe 	mabe
 out 	outt
@@ -36521,7 +36560,6 @@ dinner 	dinr
 evening 	evei
 even 	even
 eve 	eve
-notable 	nota
 table 	tabl
 concept 	coce
 hour 	hour
@@ -36687,3 +36725,28 @@ BSC	bsc
 pan	pan
 I believe	ibli
 gentlemen	getm
+side project	sipr
+perhaps	peha
+prefer	pref
+move	move
+store	stoe
+incorrect	inco
+IKEA	ikea
+.com	dcom
+.cn	dcn
+wubi	wubi
+dance	danc
+hollywood	howo
+guess	gues
+nsp	nsp
+duw	duw
+badg	 badg
+badging	badi
+NFC	nfc
+magi	magi
+dell	dell
+everyone	evon
+round	roud
+child	child
+genius	genius
+law	law
