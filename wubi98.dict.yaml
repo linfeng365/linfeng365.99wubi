@@ -21,7 +21,61 @@ encoder:
 ...
 
 
-
+缓慢
+不足
+整合
+整数
+次数
+手套
+强大
+武器
+原码
+原型图	dglt
+煎饼
+保真
+线框
+原型
+熊本
+昰生
+蕴含
+怀孕
+备孕
+孕妇
+孕育
+孕酮
+孕	bb
+最爱
+抽烟
+卓	hj
+卓	hjh
+安卓
+卓越
+吸引力	kxen
+原子
+许多
+争取
+顺其
+决心
+降低
+计时
+苛求
+展望
+杰出
+华人
+bt 	bt
+玉米
+达芬奇	dads
+结合
+学历
+实力
+安安
+静静
+翼翼
+生长
+我想
+优势
+参透
+生死
 今敏
 代理
 爽快
@@ -1548,7 +1602,7 @@ shortcut	shct
 解压
 纪念
 只要
-失去
+失去	tgf
 情节
 英汉
 汉英
@@ -3215,7 +3269,7 @@ book	book
 上	hh	40115
 关闭	uduf
 关	ud
-自学	thip
+自学	thi
 出门	bmuy
 定位	pgwu
 随身	bdtm
@@ -4454,7 +4508,8 @@ URL	url
 #~指	rx	31406
 拂	rx	31406
 搞	ry	31405
-模	sa	31404
+杠	sa	
+#模	sa	31404
 李	sb	31403
 权	sc	31402
 顶	sd	31401
@@ -5853,7 +5908,7 @@ URL	url
 没	iwc	30021
 脊	iwe	30020
 浍	iwf	30019
-#洽	iwg	30018
+洽	iwg	30018
 沿	iwk	30017
 濮	iwo	30016
 滏	iwr	30015
@@ -7215,7 +7270,7 @@ URL	url
 檬	sap	28664
 柩	saq	28663
 枢	sar	28662
-桡	sat	28661
+#桡	sat	28661
 椰	sbb	28660
 楹	sbc	28659
 椭	sbd	28658
@@ -7398,6 +7453,7 @@ URL	url
 簪	taq	28482
 筑	taw	28481
 长	tay	28480
+秀	tbnp
 透	tbp	28479
 径	tca	28478
 笃	tcg	28477
@@ -7537,7 +7593,7 @@ URL	url
 #~禾	ttt	28344
 艨	tua	28343
 艋	tub	28342
-箭	tue	28341
+#箭	tue	28341
 艚	tug	28340
 简	tuj	28339
 税	tuk	28338
@@ -8618,7 +8674,8 @@ URL	url
 泔	ifg	27275
 汗	ifh	27274
 汁	ifh	27273
-汪	igg	27272
+潜	igg
+汪	ig	27272
 泪	ihg	27271
 沓	ijf	27270
 汨	ijg	27269
@@ -8959,7 +9016,7 @@ URL	url
 拇	rxy	26941
 斥	ryi	26940
 乓	ryu	26939
-杠	sag	26938
+#杠	sag	26938
 李	sbf	26937
 杷	scn	26936
 权	scy	26935
@@ -10915,7 +10972,7 @@ URL	url
 添	igdn	24995
 清	igeg	24994
 涿	igey	24993
-潜	iggj	24992
+#潜	iggj	24992
 沔	ighn	24991
 洹	igjg	24990
 浯	igkg	24989
@@ -11154,7 +11211,7 @@ URL	url
 瀹	iwga	24756
 溆	iwgc	24755
 渝	iwgj	24754
-洽	iwgk	24753
+#洽	iwgk	24753
 涂	iwgs	24752
 潋	iwgt	24751
 澄	iwgu	24750
@@ -17381,7 +17438,7 @@ txt	txt	21912
 髢	debb	18535
 髶	debf	18534
 䯮	debr	18533
-髲	debu	18532
+髲	deb	18532
 Dec	dec	18531
 䯲	dec	18531
 鬖	dece	18530
@@ -20668,7 +20725,7 @@ get	get	16084
 尗	hiu	15251
 㦸	hjay	15250
 㫖	hjf	15249
-睅	hjfh	15248
+睅	hjf	15248
 睼	hjgh	15247
 䁑	hjgr	15246
 㪕	hjhc	15245
@@ -24173,7 +24230,7 @@ get	get	16084
 䯋	medy	11746
 䣙	meeb	11745
 剻	meej	11744
-䯇	meet	11743
+䯇	mee	11743
 骽	meev	11742
 冑	mef	11741
 䯓	meff	11740
@@ -26562,7 +26619,7 @@ pdf	pdf	9632
 䙍	punh	9359
 䙱	punj	9358
 䘿	punm	9357
-袐	punt	9356
+袐	pun	9356
 襈	punw	9355
 䘦	punx	9354
 袯	puny	9353
@@ -29458,6 +29515,7 @@ pdf	pdf	9632
 㯼	safl	6464
 覊	safo	6463
 樲	safy	6462
+框	sag	6461
 樺	sag	6461
 橫	sagw	6460
 㭨	sahb	6459
@@ -29495,8 +29553,8 @@ pdf	pdf	9632
 檧	saqn	6427
 㯳	saqt	6426
 㰛	sars	6425
-㯵	satf	6424
-樥	sat	6423
+㯵	sauf	6424
+#樥	sat	6423
 㮱	satq	6422
 㮜	sauf	6421
 欗	saul	6420
@@ -31618,12 +31676,13 @@ tip	tip	4851
 舿	tudn	4309
 䑴	tudw	4308
 舦	tudy	4307
-乊	tue	4306
+乊	tu	4306
 艀	tueb	4305
 䉨	tuec	4304
-徿	tued	4303
-籠	tued	4302
-䆍	tued	4301
+Tue	tue	4303
+徿	tue	4303
+籠	tue	4302
+䆍	tue	4301
 穟	tuep	4300
 䑣	tuet	4299
 艢	tufk	4298
@@ -35666,7 +35725,7 @@ tip	tip	4851
 䢟	ytpi	262
 㫎	ytpl	261
 旐	ytqi	260
-謻	ytqq	259
+謻	ytq	259
 旂	ytrh	258
 誐	ytry	257
 旚	ytsi	256
@@ -36151,7 +36210,6 @@ real 	real
 feel 	feel
 ing 	ing
 note 	note
-Sunday 	suny
 storage 	stor
 clone 	clon
 camp 	camp
@@ -36518,6 +36576,20 @@ April 	aprl
 March 	marh
 February 	febr
 January 	janr
+Mon	mon
+Tue	tue
+Wed	wed
+Thu	thu
+Fri	fri
+Sat	sat
+Sun	sun
+Monday	mond
+Tuesday	tued
+Wednesday	wedd
+Thursday	thud
+Friday	frid
+Saturday	satd
+Sunday	sund
 tech 	tech
 teach 	teah
 startup 	stup
@@ -36822,3 +36894,53 @@ boss	boss
 least	leat
 most	most
 backup	baup
+life	life
+argue	argu
+excuse	excu
+excuse me	exme
+pardon	pard
+pardon me	pame
+handbag	haba
+sir	sir
+coat	coat
+please	ples
+ticket	tict
+morning morn
+good morning
+student	stue
+Mr	mr
+French	frec
+German	germ
+Japanese	jape
+Chinese	chie
+Korean	kore
+too	too
+lost	lost
+found	foun
+name	name
+enjoyable	enab
+role	role
+gang	gang
+axure	axur
+PRD	prd
+MRD	mrd
+business	busn
+market	mart
+product	prod
+requirement	reqm
+document	doum
+memory	memy
+debug	debg
+steve	stve
+dog	dog
+born	born
+ready	reay
+play	play
+player	plar
+cone	cone
+content	cont
+dept	dept
+depth	deph
+less	less
+
+
