@@ -21,6 +21,27 @@ encoder:
 ...
 
 
+明明
+满满
+元气
+经过
+防弹
+晳	srj
+对乙酰氨基酚片	cfnn
+直径
+半径
+公里
+悲观
+鹅	trqy
+堕胎
+耶稣
+基督
+照亮
+点灯
+放下
+转移
+困境
+屋子
 缓慢
 不足
 整合
@@ -5415,7 +5436,8 @@ URL	url
 埕	fkg	30512
 酃	fkk	30511
 埚	fkm	30510
-喜	fku	30509
+嘉	fku	30509
+#喜	fku	30509
 塄	fly	30508
 垌	fmg	30507
 垲	fmn	30506
@@ -7385,7 +7407,8 @@ URL	url
 槔	srd	28550
 棉	srm	28549
 槐	srq	28548
-攀	srr	28547
+皙	srr
+#攀	srr	28547
 檄	sry	28546
 郴	ssb	28545
 彬	sse	28544
@@ -8967,7 +8990,9 @@ URL	url
 訇	qyd	26989
 久	qyi	26988
 勺	qyi	26987
-钫	qyt	26986
+卵	qyt
+#钫	qyt	26986
+钫	qyy
 皂	rab	26985
 扛	rag	26984
 找	ray	26983
@@ -10436,7 +10461,7 @@ URL	url
 彭	fkue	25528
 鼙	fkuf	25527
 瞽	fkuh	25526
-嘉	fkuk	25525
+#嘉	fkuk	25525
 喜	fkuk	25524
 熹	fkuo	25523
 甏	fkuy	25522
@@ -15105,7 +15130,7 @@ txt	txt	21912
 诰	ytfk	20867
 诜	ytfq	20866
 诛	ytfy	20865
-旆	ytgh	20864
+#旆	ytgh	20864
 诈	ythf	20863
 诞	ythp	20862
 谢	ytmf	20861
@@ -19445,7 +19470,7 @@ Dec	dec	18531
 䲶	fqqo	16530
 垑	fqqy	16529
 䨚	fqrn	16528
-圽	fqrt	16527
+圽	fqr	16527
 㪴	fquf	16526
 鋆	fquq	16525
 埩	fqvh	16524
@@ -28656,7 +28681,8 @@ pdf	pdf	9632
 䤤	qynw	7323
 粂	qyou	7322
 䢣	qypd	7321
-鈁	qyt	7320
+#鈁	qyt	7320
+鈁	qyy
 鍦	qytb	7319
 毈	qytc	7318
 鏃	qytd	7317
@@ -35700,7 +35726,7 @@ Tue	tue	4303
 袠	ytge	287
 諈	ytgf	286
 諥	ytgf	285
-㫌	ytgh	284
+㫌	ytg	284
 譕	ytgo	283
 旊	ytgy	282
 詄	ytgy	281
@@ -36016,215 +36042,215 @@ Tue	tue	4303
 # 不如允许重码出现。
 # 在输入法以固定次序排列。
 files 	file
-any 	any
-anytime 	anti
+any	any
+anytime	anti
 anything 	anth
 thing 	thig
-find 	find
-email 	emai
-email 	emal
-JavaScript 	Javs
+find	find
+email	emai
+email	emal
+JavaScript	Javs
 subject	subj
 project	proj
-professional 	prof
+professional	prof
 Python	pyth
 today 	tody
 let's go 	lsgo
 day 	day
-day 	dayy
-someone 	smoe
-someone 	smon
-sometime 	smt
-robot 	rob
-King Lear 	lea
-switch 	swit
-just 	just
-relax 	relx
-and 	and
-have 	have
-fun 	fun
-Podcasts 	podc
-iOS 	ios
-Calendar 	calr
-iTimeLog 	itim
+day	dayy
+someone	smoe
+someone	smon
+sometime	smt
+robot	rob
+King Lear	lea
+switch	swit
+just	just
+relax	relx
+and	and
+have	have
+fun	fun
+Podcasts	podc
+iOS	ios
+Calendar	calr
+iTimeLog	itim
 eng	eng
 chs	chs
-console 	cons
-JavaScript 	js
-Python 	py
-Anki 	anki
-repo 	repo
-of course 	ofco
-query 	quer
-job 	jobb
-Sally 	saly
-io 	io
-content 	 cont
-where 	wher
-when 	when
-how 	howw
-refer 	refr
-tips 	tips
-uniqlo 	uniq
-hold 	hold
-done 	done
+console	cons
+JavaScript	js
+Python	py
+Anki	anki
+repo	repo
+of course	ofco
+query	quer
+job	jobb
+Sally	saly
+io	io
+content	 cont
+where	wher
+when	when
+how	howw
+refer	refr
+tips	tips
+uniqlo	uniq
+hold	hold
+done	done
 DONE as good!	bedn
 ARCHIVED be wiki.	bewi
 达成/归档/交付ed	beed
 ;-) 归档/收录/提交ed	beed
-archived 	arch
-inbox 	inbx
-today 	tody
-wait 	wait
+archived	arch
+inbox	inbx
+today	tody
+wait	wait
 plan	plan
-later 	latr
-maybe 	mabe
-out 	outt
-home 	home
-free 	free
-sick 	sick
-take care of yourself  	tcys
-Kanban 	kanb
-alfred 	alfr
-origin 	orgi
-press 	pres
-beta 	beta
-alpha 	alph
-liguanhe 	lgh
+later	latr
+maybe	mabe
+out	outt
+home	home
+free	free
+sick	sick
+take care of yourself 	tcys
+Kanban	kanb
+alfred	alfr
+origin	orgi
+press	pres
+beta	beta
+alpha	alph
+liguanhe	lgh
 NBR-hugh	nbr
 atext	atex
-information 	ifmi
-energy 	eneg
-server 	ser
-desktop 	desk
+information	ifmi
+energy	eneg
+server	ser
+desktop	desk
 debugUself	deus
-word 	word
-wikipedia 	wikp
-music 	musc
-model 	modl
-think 	thik
-thing 	thig
-month 	moth
+word	word
+wikipedia	wikp
+music	musc
+model	modl
+think	thik
+thing	thig
+month	moth
 youtube	yout
-chrome 	chro
-bili 	bili
-Matrix 	matr
-behind 	behd
-way 	way
-still 	stil
-porn 	porn
-order 	ordr
-end 	end
-end 	en
-enough 	enou
-pod 	pod
-Windows 	wins
-window 	wido
-it 	it
-clock 	cloc
-mini 	mini
-dock 	dock
-fake 	fake
-find 	find
-found 	foud
-fine 	fine
-problem 	prob
-No problem 	nopr
+chrome	chro
+bili	bili
+Matrix	matr
+behind	behd
+way	way
+still	stil
+porn	porn
+order	ordr
+end	end
+end	en
+enough	enou
+pod	pod
+Windows	wins
+window	wido
+it	it
+clock	cloc
+mini	mini
+dock	dock
+fake	fake
+find	find
+found	foud
+fine	fine
+problem	prob
+No problem	nopr
 What's your problem.	wsyp
 test	test
-wife 	wife
-read 	read
-Peter 	petr
-clipboard 	clip
-clipboard 	clbo
-cn 	cn
-Apple 	appl
-mail 	mail
-switch 	swch
-Safari 	safa
-facebook 	fcbk
-adjusted 	adju
+wife	wife
+read	read
+Peter	petr
+clipboard	clip
+clipboard	clbo
+cn	cn
+Apple	appl
+mail	mail
+switch	swch
+Safari	safa
+facebook	fcbk
+adjusted	adju
 feng	feng
-photo 	phto
-random 	ranm
-random 	radm
+photo	phto
+random	ranm
+random	radm
 twitter	twit
-wechat 	wech
-weixin 	weix
-so 	so
+wechat	wech
+weixin	weix
+so	so
 remove	remv
 md	md
-skip 	skip
-Spotlight 	spli
-Tap 	tap
-paste 	pase
-telegram 	telg
-key 	key
-deadline 	deal
-dead 	dead
-cctv 	cctv
-iMessage 	imsg
-message 	msg
-Calibre  cali
-HPV  hpv
-HIV 	hiv
-work 	work
-some 	some
-here 	here
-that 	that
-use 	use
-info 	info
-other 	othr
-check 	chek
-want 	want
-you 	you
-epub 	epub
-meta 	meta
-search 	seah
-cancel 	canc
-iPod 	ipod
+skip	skip
+Spotlight	spli
+Tap	tap
+paste	pase
+telegram	telg
+key	key
+deadline	deal
+dead	dead
+cctv	cctv
+iMessage	imsg
+message	msg
+Calibre cali
+HPV hpv
+HIV	hiv
+work	work
+some	some
+here	here
+that	that
+use	use
+info	info
+other	othr
+check	chek
+want	want
+you	you
+epub	epub
+meta	meta
+search	seah
+cancel	canc
+iPod	ipod
 Thank you	thx
-week 	week
-AirPods 	airp
-pop 	pop
+week	week
+AirPods	airp
+pop	pop
 mp4	mpf
 mkv	mkv
 mp3	mpt
-bad 	bad
-zero 	zero
-one 	one
-two 	two
-three 	thre
-four 	four
-five 	five
-six 	six
-seven 	sevn
-eight 	eigt
-nine 	nine
-ten 	ten
-Super 	supr
-Mario 	mari
-item 	item
-love 	love
-real 	real
-feel 	feel
-ing 	ing
-note 	note
-storage 	stor
-clone 	clon
-camp 	camp
+bad	bad
+zero	zero
+one	one
+two	two
+three	thre
+four	four
+five	five
+six	six
+seven	sevn
+eight	eigt
+nine	nine
+ten	ten
+Super	supr
+Mario	mari
+item	item
+love	love
+real	real
+feel	feel
+ing	ing
+note	note
+storage	stor
+clone	clon
+camp	camp
 
 fake it until make it.	fium
-then 	then
-by 	by  
+then	then
+by	by  
 
-mac 	mac
-for 	for
-push 	push
-pull 	pull
-fork 	fork
+mac	mac
+for	for
+push	push
+pull	pull
+fork	fork
 
-sudo  sudo
+sudo sudo
 virtualenv	virv
 defined	defd
 type	typ
@@ -36276,14 +36302,14 @@ with	with
 yield	yiel
 
 Copyright	copr
-number 	num
-hand 	hand
-send 	sent
-chat 	chat
-Pixar 	pixr
-good 	good
-thing 	thin
-women 	wome
+number	num
+hand	hand
+send	sent
+chat	chat
+Pixar	pixr
+good	good
+thing	thin
+women	wome
 App	appp
 Apple	appl
 Apple	appe
@@ -36294,288 +36320,288 @@ iPad	ipad
 git	gitt
 MVP	mvpp
 github	gith
-Issue  issu
+Issue issu
 # 以上为倒序添加
 # 以下为正序添加
-pulse 	puls
-loser 	loer
-nas 	nas
-close 	clos
-lose 	lose
-joke 	joke
-gay 	gay
-need 	need
-level 	leve
-leave 	leav
-great 	grat
-give 	give
-come 	come
-had 	had
-mean 	mean
-show 	show
-sure 	sure
-again 	agan
-must 	must
-door 	door
-finish 	finh
-fish 	fish
-take 	take
-shit 	shit
-hey 	hey
-hurry 	hury
-hello 	helo
-well 	well
-know 	know
-anyone 	anon
-them 	them
-yeah 	yeah
-guess 	guess
-eye 	eye
-hate 	hate
-hear 	hear
-little 	litl
-more 	more
-silly 	silly
-miss 	miss
-nothing 	noth
-hold 	hold
-hole 	hole
-fuck 	fuck
-ful 	ful
-slow 	slow
-myself 	myse
-call 	call
-hell 	hell
-happy 	hapy
-world 	wold
-war 	war
-now 	now
-new 	new
-dig 	dig
-tell 	tell
-off 	off
-got 	got
-summer 	 sume
-kid 	kid
-open 	open
-close 	clos
-him 	him
-her 	her
-his 	his
-future  futu
-will 	will
-ask 	ask
-nice 	nice
-easy 	easy
-hard 	hard
-difficult 	dfcl
-all 	all
-right 	riht
-all right 	alri
-us 	us
-live 	live
-really 	rely
-wine 	wine
-amzn 	amzn
-side 	side
-inside 	insi
-outside 	ousi
-Bing 	bing
-snippets 	snpe
+pulse	puls
+loser	loer
+nas	nas
+close	clos
+lose	lose
+joke	joke
+gay	gay
+need	need
+level	leve
+leave	leav
+great	grat
+give	give
+come	come
+had	had
+mean	mean
+show	show
+sure	sure
+again	agan
+must	must
+door	door
+finish	finh
+fish	fish
+take	take
+shit	shit
+hey	hey
+hurry	hury
+hello	helo
+well	well
+know	know
+anyone	anon
+them	them
+yeah	yeah
+guess	guess
+eye	eye
+hate	hate
+hear	hear
+little	litl
+more	more
+silly	silly
+miss	miss
+nothing	noth
+hold	hold
+hole	hole
+fuck	fuck
+ful	ful
+slow	slow
+myself	myse
+call	call
+hell	hell
+happy	hapy
+world	wold
+war	war
+now	now
+new	new
+dig	dig
+tell	tell
+off	off
+got	got
+summer	 sume
+kid	kid
+open	open
+close	clos
+him	him
+her	her
+his	his
+future futu
+will	will
+ask	ask
+nice	nice
+easy	easy
+hard	hard
+difficult	dfcl
+all	all
+right	riht
+all right	alri
+us	us
+live	live
+really	rely
+wine	wine
+amzn	amzn
+side	side
+inside	insi
+outside	ousi
+Bing	bing
+snippets	snpe
 WiFi	wifi
-space 	spac
-rework 	rewk
+space	spac
+rework	rewk
 PSP	psp
 markdown	mard
 switch	swih
-ware 	ware
-Professional 	prol
-curl 	curl
-current 	curt
-spent 	spet
-Nginx  	ngnx
-php 	php
-MySQL 	msql
-MySQL 	mysq
-sql 	sql
-SQL 	sqll
-PHP 	phpp
-Tomcat 	tcat
-Redis 	reds
-MongoDB 	modb
-Apache 	apch
-setup 	setp
-sleep 	slep
-feedback 	feba
-watch 	wath
-timetrack 	titr
-track 	trak
-stuff 	stuf
-brew 	brew
-Ulysses 	ulys
-pip 	pip
-PDCA 	pdca
-dual 	dual
-back 	back
-black 	blak
-never 	nevr
-Web 	web
-hevc 	hevc
-english 	enli
-kill 	kill
-already 	aldy
-gone 	gone
-mars 	mars
-point 	poit
-small 	smal
-low 	low
-high 	high
-though 	thou
-jupiter 	jupt	#木星 朱庇特
-saturn 	satn	#土星 农神
-mars 	mars	#火星 战神
-earth 	earh	#地球 
-mercury 	mecy	#水星 水银
-venus 	vens	#金星 爱与美
-could 	cold
-cool 	cool
-honey 	hony
-care 	care
-sorry 	sory
-like 	like
-minute 	mite
-great 	grat
-loud 	loud
-going 	goin 
-strong 	stro
-my 	my
-heart 	heat
+ware	ware
+Professional	prol
+curl	curl
+current	curt
+spent	spet
+Nginx 	ngnx
+php	php
+MySQL	msql
+MySQL	mysq
+sql	sql
+SQL	sqll
+PHP	phpp
+Tomcat	tcat
+Redis	reds
+MongoDB	modb
+Apache	apch
+setup	setp
+sleep	slep
+feedback	feba
+watch	wath
+timetrack	titr
+track	trak
+stuff	stuf
+brew	brew
+Ulysses	ulys
+pip	pip
+PDCA	pdca
+dual	dual
+back	back
+black	blak
+never	nevr
+Web	web
+hevc	hevc
+english	enli
+kill	kill
+already	aldy
+gone	gone
+mars	mars
+point	poit
+small	smal
+low	low
+high	high
+though	thou
+jupiter	jupt	#木星 朱庇特
+saturn	satn	#土星 农神
+mars	mars	#火星 战神
+earth	earh	#地球 
+mercury	mecy	#水星 水银
+venus	vens	#金星 爱与美
+could	cold
+cool	cool
+honey	hony
+care	care
+sorry	sory
+like	like
+minute	mite
+great	grat
+loud	loud
+going	goin 
+strong	stro
+my	my
+heart	heat
 go on 	goon
-on 	on
-go 	go
-hope 	hope
-hymn 	hymn
-said 	said
-say 	say
-soul 	soul
-pick 	pick
-very 	very
-would 	woul
-early 	ealy
-fact 	fact
-in fact 	infa
-software 	sowa
-money 	mony
-support 	supp
-cost 	cost
-kernel 	kern
-min 	min
-the 	the
-sea 	sea
-gta 	gta
-facebook 	fabo
-Android 	anro
-instagram 	ingr
-app 	app
-alpha 	alph
-south 	soth
-park 	park
-fade 	fade
-victory 	vity
-idea 	idea
-cancel 	canl
-apart 	apart
-rss 	rss
-RSS 	rsss
-burn 	burn
-burnout 	buou
-heal 	heal
-internet 	inne
-Anaconda 	anco
-basic 	basi
-element 	elem
-Elementary 	elry
-salary 	sala
-night 	nigh
-release 	rele
-released 	reld
-enroll 	enro
-testing 	tein
-meet 	meet
-meeting 	meti
-linux 	linx
-torvalds 	torv
-RMS 	rms
-GNU 	gnu
-Adobe 	adbe
-Google 	gogg
-google 	gole
-net 	net
-asp 	asp
-ffmpeg 	ffmp
-static 	stti
-complete 	comle
-cross 	cros
-platform 	plfo
-solution 	soti
-record 	reco
-convert 	cove
-stream 	strm
-audio 	audi
-video 	vide
-macOS 	mcos
-MacBook 	mcbo
-binaries 	bini
-binary 	biny
-iTunes 	itun
-kevin 	kevi
-save 	save
-episode 	epso
-share 	shar
-suck 	suck
-smart 	smat
-Notable 	nota
-apple 	aple
-ID 	idd
-id 	id
-null 	null
-Syria 	syra
-artist 	atst
-simultaneous 	sita	# 同时的
-up 	up
-smile 	smil 
-anymore  anmo
-modify 	modf
-communicate 	coun
-Raku 	raku
-Perl 	perl
-Security 	secu
-Privacy 	priv
-language 	lagg
-month 	mont
-#Dec 	dec
-Nov 	nov
-Oct 	oct
-Sep 	sep
-Aug 	aug
-Jul 	jul
-Jun 	jun
-May 	may
-Apr 	apr
-Mar 	mar
-Feb 	feb
-Jan 	jan
-December 	decb
-November 	novb
-October 	octb
-September 	sepb
-August 	augt
-July 	july
-June 	june
-April 	aprl
-March 	marh
-February 	febr
-January 	janr
+on	on
+go	go
+hope	hope
+hymn	hymn
+said	said
+say	say
+soul	soul
+pick	pick
+very	very
+would	woul
+early	ealy
+fact	fact
+in fact	infa
+software	sowa
+money	mony
+support	supp
+cost	cost
+kernel	kern
+min	min
+the	the
+sea	sea
+gta	gta
+facebook	fabo
+Android	anro
+instagram	ingr
+app	app
+alpha	alph
+south	soth
+park	park
+fade	fade
+victory	vity
+idea	idea
+cancel	canl
+apart	apart
+rss	rss
+RSS	rsss
+burn	burn
+burnout	buou
+heal	heal
+internet	inne
+Anaconda	anco
+basic	basi
+element	elem
+Elementary	elry
+salary	sala
+night	nigh
+release	rele
+released	reld
+enroll	enro
+testing	tein
+meet	meet
+meeting	meti
+linux	linx
+torvalds	torv
+RMS	rms
+GNU	gnu
+Adobe	adbe
+Google	gogg
+google	gole
+net	net
+asp	asp
+ffmpeg	ffmp
+static	stti
+complete	comle
+cross	cros
+platform	plfo
+solution	soti
+record	reco
+convert	cove
+stream	strm
+audio	audi
+video	vide
+macOS	mcos
+MacBook	mcbo
+binaries	bini
+binary	biny
+iTunes	itun
+kevin	kevi
+save	save
+episode	epso
+share	shar
+suck	suck
+smart	smat
+Notable	nota
+apple	aple
+ID	idd
+id	id
+null	null
+Syria	syra
+artist	atst
+simultaneous	sita	# 同时的
+up	up
+smile	smil 
+anymore anmo
+modify	modf
+communicate	coun
+Raku	raku
+Perl	perl
+Security	secu
+Privacy	priv
+language	lagg
+month	mont
+#Dec	dec
+Nov	nov
+Oct	oct
+Sep	sep
+Aug	aug
+Jul	jul
+Jun	jun
+May	may
+Apr	apr
+Mar	mar
+Feb	feb
+Jan	jan
+December	decb
+November	novb
+October	octb
+September	sepb
+August	augt
+July	july
+June	june
+April	aprl
+March	marh
+February	febr
+January	janr
 Mon	mon
 Tue	tue
 Wed	wed
@@ -36590,267 +36616,267 @@ Thursday	thud
 Friday	frid
 Saturday	satd
 Sunday	sund
-tech 	tech
-teach 	teah
-startup 	stup
-mint 	mint
-coffee 	cofe
-minimalism 	miis
-English 	engh
-weird 	weid
-fear 	fear
-do it 	doit
-passion 	pasi
-people 	pepl
-fail 	fail
-failed 	fald
-goes 	goes
-your 	your
-at 	at
-school 	schl
-update 	upda
-Dyson 	dyso
-Scot 	scot
-land 	land
-card 	card
-youth 	yoth
-hostel 	hotl
-association 	asst
-assoc 	assc
-soon 	soon
-write 	wrte
-exam 	exam
-maths 	math
-answer 	answ
-tion 	tion
-paper 	papr
-rest 	rest
-difficult 	difc
-cheer 	cher
-guy 	guy
-ready 	redy
-sugar 	sugr
-lie 	lie
-artist 	artt
-an 	an
-movie 	movi
-music 	musi
-download 	dolo
-picture 	pitu
-public 	puli
-public 	pupl
-favorite 	favo
-application 	apct	
-mpv 	mpv
-conf 	conf
-Content 	cote
-Resource 	reso
-quit 	quit
-quiet 	quie
-check 	chec
-set 	set
-pinterest 	pint
-me 	me
-Siri 	siri
-abstract 	abst
-research 	resch
-put 	put
-map 	map
-debt 	debt
-ship 	ship
-rough 	roug
-solve 	solv
-solved 	sold
-bound 	boud
-rabbit 	rabt
-junior 	jujo
-etc 	etc
-topic 	topi
-smell 	smel
-remind 	remi
-brought 	brgh
-ever 	ever
-whatever 	whev
-TikTok 	tikt
-galaxy 	galy
-does 	does
-matter 	matt
-n't 	nott
-doesn't 	dont
-make 	make
-sense 	sens
-year 	year
-dark 	dark
-mode 	mode
-fluid 	Flui
-track 	trac
-vote 	vote
-CLI 	cli
-Sony 	sony
-segment 	segm
-by the way 	bytw
-extra 	extr
-overseas 	ovse
-engineer 	egnr
-engineering 	egni
-company 	comy
-line 	line
-dinner 	dinr
-evening 	evei
-even 	even
-eve 	eve
-table 	tabl
-concept 	coce
-hour 	hour
-hours 	hous
-shop 	shop
-clean 	clen
-run 	run
-debug 	debu
-IDE 	ide
-code 	code
-maintain 	mata
-better 	betr
-overtime 	ovti	//超时
-overdue 	ovdu	//过期
-expired 	expi	//终止
-lover 	lovr
-coder 	codr
-price 	pric
-pricing 	prii
-fire 	fire
-fox 	fox
-Firefox 	fifo
-browser 	brse
-brow 	brow
-than 	than
-thank 	thk
-thank 	thak
-family 	famy
-about 	abou
-install 	inst
-installed 	insd
-between 	betw
-be 	be
-much 	much
-past 	past
-see 	see
+tech	tech
+teach	teah
+startup	stup
+mint	mint
+coffee	cofe
+minimalism	miis
+English	engh
+weird	weid
+fear	fear
+do it	doit
+passion	pasi
+people	pepl
+fail	fail
+failed	fald
+goes	goes
+your	your
+at	at
+school	schl
+update	upda
+Dyson	dyso
+Scot	scot
+land	land
+card	card
+youth	yoth
+hostel	hotl
+association	asst
+assoc	assc
+soon	soon
+write	wrte
+exam	exam
+maths	math
+answer	answ
+tion	tion
+paper	papr
+rest	rest
+difficult	difc
+cheer	cher
+guy	guy
+ready	redy
+sugar	sugr
+lie	lie
+artist	artt
+an	an
+movie	movi
+music	musi
+download	dolo
+picture	pitu
+public	puli
+public	pupl
+favorite	favo
+application	apct	
+mpv	mpv
+conf	conf
+Content	cote
+Resource	reso
+quit	quit
+quiet	quie
+check	chec
+set	set
+pinterest	pint
+me	me
+Siri	siri
+abstract	abst
+research	resch
+put	put
+map	map
+debt	debt
+ship	ship
+rough	roug
+solve	solv
+solved	sold
+bound	boud
+rabbit	rabt
+junior	jujo
+etc	etc
+topic	topi
+smell	smel
+remind	remi
+brought	brgh
+ever	ever
+whatever	whev
+TikTok	tikt
+galaxy	galy
+does	does
+matter	matt
+n't	nott
+doesn't	dont
+make	make
+sense	sens
+year	year
+dark	dark
+mode	mode
+fluid	Flui
+track	trac
+vote	vote
+CLI	cli
+Sony	sony
+segment	segm
+by the way	bytw
+extra	extr
+overseas	ovse
+engineer	egnr
+engineering	egni
+company	comy
+line	line
+dinner	dinr
+evening	evei
+even	even
+eve	eve
+table	tabl
+concept	coce
+hour	hour
+hours	hous
+shop	shop
+clean	clen
+run	run
+debug	debu
+IDE	ide
+code	code
+maintain	mata
+better	betr
+overtime	ovti	//超时
+overdue	ovdu	//过期
+expired	expi	//终止
+lover	lovr
+coder	codr
+price	pric
+pricing	prii
+fire	fire
+fox	fox
+Firefox	fifo
+browser	brse
+brow	brow
+than	than
+thank	thk
+thank	thak
+family	famy
+about	abou
+install	inst
+installed	insd
+between	betw
+be	be
+much	much
+past	past
+see	see
 s	s
 ed	ed
-every 	evey
-design 	desi
-develop 	deve
-often 	ofte
-ego 	ego
-yourself 	yous
-focus 	focu
-invest 	inves
-people 	peol
-business 	busi
-journey 	jour
-flow 	flow
-different 	difr
-there 	ther
-career 	carr	#事业
-which 	whic
-made 	made
-almost 	almo
-trash 	tras
-backup 	baup
-toast 	toas
-toastmaster 	toma
-insight 	insg
-sub 	sub
-establish 	esta
-hot 	hot
-retry 	retr
-legacy 	legy
-leg 	leg
-paper 	pape
-Annual 	Annu
-own 	own
-owner 	ownr
-concept 	coce
-toggle 	togl
-readme 	reme
-relate 	rela
-related 	reld
-slogan 	slog
-deadline 	deli
-inbox 	inbo
-mtv 	mtv
-pause 	paus
-resume 	resu
-story 	stor
-avail 	avai
-able 	able
-available 	avab
-album 	albm
-bitter 	bitt
-sweet 	swet
-retired 	retd
-during 	duri
-experience 	expc
-mentee 	ment
-men 	men
-man 	man
-skill 	skil
-add 	add
-turn 	turn
-logo 	logo
-copy 	copy
-paste 	past
-status 	stat
-weekend 	ween
-inspire 	insp
+every	evey
+design	desi
+develop	deve
+often	ofte
+ego	ego
+yourself	yous
+focus	focu
+invest	inves
+people	peol
+business	busi
+journey	jour
+flow	flow
+different	difr
+there	ther
+career	carr	#事业
+which	whic
+made	made
+almost	almo
+trash	tras
+backup	baup
+toast	toas
+toastmaster	toma
+insight	insg
+sub	sub
+establish	esta
+hot	hot
+retry	retr
+legacy	legy
+leg	leg
+paper	pape
+Annual	Annu
+own	own
+owner	ownr
+concept	coce
+toggle	togl
+readme	reme
+relate	rela
+related	reld
+slogan	slog
+deadline	deli
+inbox	inbo
+mtv	mtv
+pause	paus
+resume	resu
+story	stor
+avail	avai
+able	able
+available	avab
+album	albm
+bitter	bitt
+sweet	swet
+retired	retd
+during	duri
+experience	expc
+mentee	ment
+men	men
+man	man
+skill	skil
+add	add
+turn	turn
+logo	logo
+copy	copy
+paste	past
+status	stat
+weekend	ween
+inspire	insp
 inspired	insd
 pro	pro
 Diablo	diab
 Diablo	dabl
-cake 	cake
-water 	wate
+cake	cake
+water	wate
 closet	clst
 emoji	emji
 remote	remo
 vivid	vivi
 vividly	vivy
-cloth 	clth
-clothe 	clte
-clothes 	clts
-away 	away
-away from 	awfr
-comment 	comn
-are 	are
-area 	area
-hehe 	hehe
-he 	he
-she 	she
+cloth	clth
+clothe	clte
+clothes	clts
+away	away
+away from	awfr
+comment	comn
+are	are
+area	area
+hehe	hehe
+he	he
+she	she
 translate	tral
 pack	pack
 butterfly	bufl
-luck 	luck
-lucky 	lucy
+luck	luck
+lucky	lucy
 luckily	luly
 good luck	golu
 hero	hero
 byte	byte
-quest 	ques
-question 	quet
-bill 	bill
-billion 	blli
+quest	ques
+question	quet
+bill	bill
+billion	blli
 bilibili	bibi
 Bose	bose
 well done	wedo
 very well	vewe
 worth	wort
-morning 	mori
-this 	this
-today 	toda
+morning	mori
+this	this
+today	toda
 finder	fidr
 drag	drag
 drop	drop
-unable 	uabl
-able 	able
+unable	uabl
+able	able
 progress	prgr
 plus	plus
 title	titl
@@ -36879,7 +36905,7 @@ hollywood	howo
 guess	gues
 nsp	nsp
 duw	duw
-badg	 badg
+badg badg
 badging	badi
 NFC	nfc
 magi	magi
@@ -36906,7 +36932,7 @@ coat	coat
 please	ples
 ticket	tict
 morning morn
-good morning
+good morning	gomo
 student	stue
 Mr	mr
 French	frec
@@ -36942,5 +36968,5 @@ content	cont
 dept	dept
 depth	deph
 less	less
-
+pose	pose
 
