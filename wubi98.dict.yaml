@@ -21,6 +21,43 @@ encoder:
 ...
 
 
+居住
+杠杆
+随想
+规模
+夫人	fwww
+征服
+河豚
+豚	ege
+自杀
+篮	tjty
+蓝牙
+固	ld
+对应
+富人	pgkw
+追随
+捋捋
+光荣
+亏心
+漏洞
+地理
+平板
+指纹
+购入
+制度	tgmo
+重度	tgjo
+治理
+左翼
+右翼
+兰花
+缺爱
+相伴
+场面
+盘点
+放手
+祈祷
+使徒
+约翰
 明明
 满满
 元气
@@ -841,6 +878,8 @@ Jahwan	jahw
 允许
 保证
 舟	tu
+舟	tmy
+舟	tmyy
 维持
 更好
 之路
@@ -930,6 +969,7 @@ Jahwan	jahw
 念想
 场景
 物业
+制度
 年度
 重度
 课程
@@ -961,7 +1001,6 @@ Jahwan	jahw
 丐	ghn
 国王
 乞丐
-乞求
 青年
 老年
 变革
@@ -2300,7 +2339,7 @@ list	list
 🥺	aapf	# Pleading Face
 😭	aacy	# cry
 😳	aaop	# face with wide open eyes
-😱	aamg	# my god
+🙀	aamg	# my god
 😨	aahe	# 
 💡	aalb	# Light Bulb
 ❤️	aahr	# heart  
@@ -3190,7 +3229,6 @@ Error	erro
 按时	rpjf
 安装	pvuf
 小学	ihip
-中学	khip
 gene	gene
 Machine	mach
 Learn	lear
@@ -3479,7 +3517,6 @@ Kindle	kind
 应该	oiyy
 麻烦	osod
 发烧	ntoa
-失望	tgyn
 希望	rdyn
 属于	ntgf
 记得	yntj
@@ -4082,7 +4119,8 @@ URL	url
 功	ae	31839
 革	af	31838
 七	ag	31837
-牙	ah	31836
+雅	ah
+#牙	ah	31836
 东	ai	31835
 划	aj	31834
 或	ak	31833
@@ -4536,7 +4574,8 @@ URL	url
 顶	sd	31401
 杉	se	31400
 #票	sf	31399
-标	sf	31399
+#标	sf	31399
+杆	sf	31399
 本	sg	31398
 相	sh	31397
 档	si	31396
@@ -4781,7 +4820,7 @@ URL	url
 菽	ahi	31163
 颐	ahk	31162
 臣	ahn	31161
-雅	aht	31160
+#雅	aht	31160
 #邪	aht	31160
 牙	aht	31159
 茈	ahx	31158
@@ -4975,7 +5014,7 @@ URL	url
 骘	bhh	30971
 鼐	bhn	30970
 函	bib	30969
-卺	big	30968
+#卺	big	30968
 隙	bij	30967
 逊	bip	30966
 陧	bjf	30965
@@ -5690,7 +5729,8 @@ URL	url
 卤	hlr	30260
 眠	hna	30259
 瞰	hnb	30258
-鼎	hnd	30257
+颅	hnd
+#鼎	hnd	30257
 凹	hnh	30256
 鸬	hnq	30255
 瞩	hnt	30254
@@ -6176,6 +6216,7 @@ URL	url
 跬	khf	29775
 践	khg	29774
 趾	khh	29773
+中学	khi	29772
 踏	khi	29772
 踢	khj	29771
 躁	khk	29770
@@ -7317,7 +7358,7 @@ URL	url
 鄄	sfb	28639
 枝	sfc	28638
 桂	sff	28637
-#标	sfi	28636
+标	sfi	28636
 票	sfi	28636
 桔	sfk	28635
 檑	sfl	28634
@@ -7561,6 +7602,7 @@ URL	url
 奥	tmo	28398
 秽	tmq	28397
 阜	tnf	28396
+乞求	tng	28395
 笥	tng	28395
 乐	tni	28394
 乌	tnn	28393
@@ -7698,7 +7740,7 @@ URL	url
 阋	ueq	28265
 毅	uew	28264
 阖	ufc	28263
-痔	uff	28262
+#痔	uff	28262
 #闺	uff	28262
 癫	ufh	28261
 闱	ufn	28260
@@ -8607,6 +8649,7 @@ URL	url
 雷	flf	27364
 坝	fmy	27363
 亏	fnb	27362
+亏	fnn	27361
 圯	fnn	27361
 圮	fnn	27360
 声	fnrr	27359
@@ -8956,6 +8999,7 @@ URL	url
 钊	qjh	27023
 句	qkd	27022
 名	qkf	27021
+钟	qkh	27020
 钏	qkh	27020
 甸	qld	27019
 钿	qlg	27018
@@ -9144,7 +9188,8 @@ URL	url
 疖	ubk	26838
 疤	ucv	26837
 闫	udd	26836
-兰	udf	26835
+兰	uff
+#兰	udf	26835
 头	udi	26834
 关	udu	26833
 状	udy	26832
@@ -13502,7 +13547,8 @@ URL	url
 樾	sfhn	22493
 剽	sfij	22492
 飘	sfir	22491
-柰	sfiu	22490
+柰	sfi
+#柰	sfiu	22490
 票	sfiu	22489
 瓢	sfiy	22488
 标	sfiy	22487
@@ -19710,7 +19756,7 @@ Dec	dec	18531
 嗇	fwwk	16290
 﨏	fwwk	16289
 賫	fwwm	16288
-㱇	fwww	16287
+㱇	fww	16287
 墢	fwxc	16286
 鼀	fwxf	16285
 坽	fwy	16284
@@ -31004,8 +31050,8 @@ pdf	pdf	9632
 篿	tgj	5005	#-
 濌	tgj	5004
 憅	tgjn	5003
-勲	tgjo	5002
-䳯	tgjo	5001
+勲	tgj	5002
+䳯	tgj	5001
 稉	tgjr	5000
 㰱	tgjw	4999
 吿	tgkf	4998
@@ -31057,6 +31103,7 @@ pdf	pdf	9632
 䇘	tgxf	4952
 䘘	tgxs	4951
 䄺	tgxw	4950
+失望	tgy	4949
 䄮	tgy	4949
 㔍	thaj	4948
 郋	thbh	4947
@@ -36969,4 +37016,10 @@ dept	dept
 depth	deph
 less	less
 pose	pose
-
+pencil	penc
+vivian	vivn
+admin	admi
+big	big
+max	max
+review	rev
+disk	disk
