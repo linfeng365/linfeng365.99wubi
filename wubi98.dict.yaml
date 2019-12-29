@@ -21,6 +21,52 @@ encoder:
 ...
 
 
+
+后勇
+知耻
+外套
+素材
+伦理
+休谟
+放心
+柠檬
+我的
+祖国
+投降
+认输
+输赢
+躺赢
+赏识
+欣赏
+演员
+衣物
+图片
+相册
+鸿	iaqy
+新约
+旧约
+诗篇
+箴言
+犹太
+犹大
+彼得
+前书
+后书
+罗马
+福音
+mp	mp
+mp3	mp
+mp4	mp
+终结
+译本
+沉浸
+咳嗽
+切换
+中英
+恒温
+责任
+人称	wwtq
+登记
 居住
 杠杆
 随想
@@ -5897,6 +5943,8 @@ URL	url
 学	ipb	30093
 浓	ipe	30092
 尝	ipf	30091
+泻	ipgn
+演	ipg	30090
 泻	ipg	30090
 泶	ipi	30089
 渖	ipj	30088
@@ -6006,7 +6054,7 @@ URL	url
 蜮	jak	29985
 蠛	jal	29984
 蟥	jam	29983
-蝶	jan	29982
+#蝶	jan	29982
 蠓	jap	29981
 蛲	jat	29980
 晓	jat	29979
@@ -6112,7 +6160,7 @@ URL	url
 蝉	juj	29879
 暗	juj	29878
 蜕	juk	29877
-蜣	jun	29876
+#蜣	jun	29876
 蛟	jur	29875
 蝤	jus	29874
 蟮	juu	29873
@@ -6430,6 +6478,7 @@ URL	url
 岈	mah	29564
 岽	mai	29563
 崂	map	29562
+Mar	mar	29561
 岖	mar	29561
 典	maw	29560
 岌	mby	29559
@@ -6473,7 +6522,9 @@ URL	url
 帱	mhd	29521
 帏	mhf	29520
 幅	mhg	29519
-帧	mhh	29518
+帖	mhh	29518
+#帧	mhh	29518
+幀	mhh
 帽	mhj	29517
 帼	mhl	29516
 幞	mho	29515
@@ -6637,6 +6688,7 @@ URL	url
 怩	nnx	29357
 羽	nny	29356
 惦	noh	29355
+Nov	nov	29354
 屡	nov	29354
 慵	nov	29353
 恽	npl	29352
@@ -7407,7 +7459,8 @@ URL	url
 榀	skk	28591
 速	skp	28590
 赖	skq	28589
-歌	sks	28588
+哥	sks
+#歌	sks	28588
 整	skt	28587
 枳	skw	28586
 椤	slq	28585
@@ -8010,7 +8063,6 @@ URL	url
 剑	wgi	27997
 便	wgj	27996
 #使	wgk	27995
-拿	wgk
 僵	wgl	27994
 债	wgm	27993
 兮	wgn	27992
@@ -8880,7 +8932,9 @@ URL	url
 骨	mef	27138
 胄	mef	27137
 冉	mfd	27136
-巾	mhk	27135
+巾	mh
+贴	mhk	27135
+#巾	mhk	27135
 冂	mhnn	27134 #+ n
 则	mjh	27133
 岬	mlh	27132
@@ -9053,7 +9107,9 @@ URL	url
 扶	rgy	26972
 看	rhf	26971
 扯	rhg	26970
-扑	rhy	26969
+扑	rh
+爪	rhy
+#扑	rhy	26969
 泉	riu	26968
 刈	rjh	26967
 氘	rjk	26966
@@ -9135,7 +9191,8 @@ URL	url
 乇	tav	26891
 季	tbf	26890
 秀	tbr	26889
-彼	tby	26888
+彼	thc	26888
+#彼	tby	26888
 笆	tcb	26887
 么	tcu	26886
 私	tcy	26885
@@ -9163,7 +9220,8 @@ URL	url
 和	tkg	26863
 血	tld	26862
 备	tlf	26861
-笛	tmf	26860
+笛	tm
+#笛	tmf	26860
 乞	tnb	26859
 秋	toy	26858
 乏	tpu	26857
@@ -9201,7 +9259,10 @@ URL	url
 闩	ugd	26826
 半	ugk	26825
 着	uhf	26824
-丫	uhk	26823
+站	uhk	26823
+丫	uh
+丫	yth
+#丫	uhk	26823
 冰	uiy	26822
 间	ujd	26821
 音	ujf	26820
@@ -9343,8 +9404,11 @@ URL	url
 邡	ybh	26686
 亨	ybj	26685
 诂	ydg	26684
+衣	ye
+哀	ye
 衣	yeu	26683
 哀	yeu	26682
+哀	yeuu
 计	yfh	26681
 讦	yfh	26680
 讨	yfy	26679
@@ -11148,7 +11212,7 @@ URL	url
 尝	ipfc	24889
 淙	ipf	24888
 浣	ipfq	24887
-渲	ipgg	24886
+渲	ipg	24886
 泻	ipgg	24885
 淀	ipgh	24884
 演	ipgw	24883
@@ -13967,7 +14031,11 @@ URL	url
 囟	tlri	22074
 衅	tlug	22073
 稷	tlwt	22072
+射	tmf
 射	tmdf	22071
+躺	tmi
+躺	tmim
+躺	tmik
 躺	tmdk	22070
 躯	tmdr	22069
 躲	tmds	22068
@@ -15100,6 +15168,7 @@ txt	txt	21912
 昶	ynij	20942
 扈	ynkc	20941
 启	ynkd	20940
+赢	ynky
 扁	ynma	20939
 扃	ynmk	20938
 翩	ynmn	20937
@@ -18941,7 +19010,7 @@ Dec	dec	18531
 䨢	fdwn	17104
 埉	fdww	17103
 㙋	fdwy	17102
-雮	feb	17101
+雮	fetg	17101
 䨗	febf	17100
 垺	febg	17099
 協	feee	17098
@@ -24112,7 +24181,7 @@ get	get	16084
 圇	lwga	11935
 輪	lwga	11934
 輇	lwgg	11933
-輸	lwgj	11932
+輸	lwg	11932
 畭	lwgs	11931
 畍	lwjh	11930
 朙	lwme	11929
@@ -24208,7 +24277,7 @@ get	get	16084
 覥	mawq	11839
 觍	mawq	11838
 敟	mawt	11837
-戝	may	11836
+戝	mayy	11836
 㟐	mayn	11835
 㕀	mbb	11834
 㞨	mbg	11833
@@ -24487,7 +24556,7 @@ get	get	16084
 帓	mhgs	11560
 㠸	mhgy	11559
 㼙	mhgy	11558
-幀	mhhm	11557
+#幀	mhhm	11557
 㥈	mhhn	11556
 帩	mhie	11555
 幥	mhir	11554
@@ -27475,7 +27544,7 @@ pdf	pdf	9632
 鑡	qhbh	8574
 鈙	qhcy	8573
 䀏	qhd	8572
-䤵	qhdd	8571
+䤵	qhd	8571
 鐬	qhdh	8570
 錹	qheg	8569
 鉬	qhg	8568
@@ -28335,9 +28404,9 @@ pdf	pdf	9632
 獿	qtdt	7715
 狹	qtdw	7714
 猉	qtdw	7713
-犾	qtdy	7712
-狵	qtdy	7711
-鉃	qtdy	7710
+犾	qtd	7712
+狵	qtd	7711
+鉃	qtd	7710
 猺	qteb	7709
 猨	qtec	7708
 獀	qtec	7707
@@ -29385,8 +29454,8 @@ pdf	pdf	9632
 㪏	rtf	6666
 㩐	rtff	6665
 捁	rtfk	6664
-攢	rtfm	6663
-䫌	rtfm	6662
+攢	rtf	6663
+䫌	rtf	6662
 鵯	rtfo	6661
 㧥	rtfq	6660
 㧣	rtfy	6659
@@ -30797,7 +30866,7 @@ pdf	pdf	9632
 稄	tcwt	5258
 矱	tdac	5257
 䑜	tdas	5256
-䢴	tdbh	5255
+䢴	tdb	5255
 䂐	tdbm	5254
 叐	tdci	5253
 秡	tdcy	5252
@@ -33705,6 +33774,7 @@ Tue	tue	4303
 龢	wgkt	2355
 㪉	wgkt	2354
 㪘	wgkt	2353
+拿	wgk	2352
 侸	wgk	2352
 豋	wgk	2351
 劎	wgkv	2350
@@ -36052,6 +36122,8 @@ Tue	tue	4303
 金	q	9
 白	r	8
 木	s	7
+西	sg
+拿	wg
 #待	t	6
 禾	t	6
 立	u	5
@@ -37023,3 +37095,11 @@ big	big
 max	max
 review	rev
 disk	disk
+slide	slide
+span	span
+yinxiang	yinx
+soft	soft
+microsoft	miso
+pocket	pokt
+keep	keep
+siseng	sise
