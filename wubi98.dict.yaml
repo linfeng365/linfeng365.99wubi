@@ -21,7 +21,36 @@ encoder:
 ...
 
 
-
+列表
+套利
+配合
+劳作
+浴室
+方丈
+施主
+爱神
+期末
+情人	ngww
+人情	wwnge
+面包
+心猿
+意马
+招待
+到时
+甜蜜
+长久
+包皮
+颇有
+考验
+检验
+不同
+导出
+中间
+右边
+左边
+年轻
+因人
+而异
 后勇
 知耻
 外套
@@ -36,7 +65,7 @@ encoder:
 认输
 输赢
 躺赢
-赏识
+赏识	ipy
 欣赏
 演员
 衣物
@@ -203,8 +232,9 @@ bt 	bt
 鸣	kqyn
 鸣	kqy
 坞	fqng
-鸟	qyng
-鸟	qyn
+#鸟	qyng
+#鸟	qyn
+鸟	qyg
 扶	rfw
 芙	afw
 莱	agu
@@ -4165,8 +4195,9 @@ URL	url
 功	ae	31839
 革	af	31838
 七	ag	31837
-雅	ah
-#牙	ah	31836
+雅	ahw
+雅	ahwy
+牙	ah	31836
 东	ai	31835
 划	aj	31834
 或	ak	31833
@@ -4325,7 +4356,7 @@ URL	url
 亚	go	31686
 琛	gp	31685
 万	gq	31684
-珀	gr	31683
+#珀	gr	31683
 末	gs	31682
 麦	gt	31681
 来	gu	31680
@@ -4565,7 +4596,7 @@ URL	url
 角	qe	31450
 针	qf	31449
 钱	qg	31448
-鸟	qg
+#鸟	qg
 外	qh	31447
 尔	qi	31446
 旬	qj	31445
@@ -4573,7 +4604,9 @@ URL	url
 #甸	ql	31443
 链	ql
 负	qm	31442
-岛	qm
+岛	qym
+#岛	qynm
+#岛	qm
 包	qn	31441
 炙	qo	31440
 锭	qp	31439
@@ -5041,7 +5074,7 @@ URL	url
 随	bde	30990
 承	bdi	30989
 陌	bdj	30988
-颇	bdm	30987
+#颇	bdm	30987
 陇	bdx	30986
 阻	beg	30985
 孺	bfd	30984
@@ -6865,6 +6898,7 @@ Nov	nov	29354
 寒	paw	29181
 宏	pdc	29180
 寡	pde	29179
+割	pdh	29178
 豁	pdh	29178
 寄	pds	29177
 寮	pdu	29176
@@ -7069,7 +7103,8 @@ Nov	nov	29354
 锯	qnd	28979
 馁	qne	28978
 饽	qnf	28977
-乌	qng	28976
+乌	qg
+#乌	qng	28976
 #~饯	qng	28976
 钮	qnh	28975
 蚀	qnj	28974
@@ -7121,7 +7156,7 @@ Nov	nov	29354
 犸	qtc	28928
 锋	qtd	28927
 狙	qte	28926
-#~猿	qtf	28925
+猿	qtf	28925
 铁	qtg	28924
 锻	qth	28923
 独	qtj	28922
@@ -7169,7 +7204,7 @@ Nov	nov	29354
 锍	qyc	28880
 铱	qye	28879
 镶	qyk	28878
-镐	qym	28877
+#镐	qym	28877
 灸	qyo	28876
 镑	qyu	28875
 贸	qyv	28874
@@ -7658,7 +7693,7 @@ Nov	nov	29354
 乞求	tng	28395
 笥	tng	28395
 乐	tni	28394
-乌	tnn	28393
+#乌	tnn	28393
 追	tnp	28392
 秘	tnt	28391
 释	toc	28390
@@ -8366,7 +8401,7 @@ Nov	nov	29354
 裒	yee	27694
 诅	yeg	27693
 蠃	yej	27692
-赢	yem	27691
+#赢	yem	27691
 谣	yet	27690
 嬴	yev	27689
 谀	yew	27688
@@ -8647,8 +8682,10 @@ Nov	nov	29354
 矶	dwn	27417
 其	dwu	27416
 #~太	dyi	27415
-丈	dyi	27414
+丈	gr	27414
+#丈	dyi	27414
 肛	eag	27413
+膜	eaj	27412
 舁	eaj	27412
 孚	ebf	27411
 肥	ecn	27410
@@ -9041,7 +9078,7 @@ Nov	nov	29354
 钳	qfg	27035
 钍	qfg	27034
 针	qfh	27033
-鸟	qgd	27032
+#鸟	qgd	27032
 鱼	qgf	27031
 舛	qgh	27030
 钼	qhg	27029
@@ -9059,7 +9096,7 @@ Nov	nov	29354
 钿	qlg	27018
 钾	qlh	27017
 铀	qmg	27016
-岛	qmk	27015
+#岛	qmk	27015
 负	qmu	27014
 钡	qmy	27013
 饣	qnb	27012
@@ -9448,7 +9485,7 @@ Nov	nov	29354
 㠭	aaaa
 匿	aadk	26648
 慝	aadn	26647
-芽	aaht	26646
+#芽	aaht	26646
 苣	aanf	26645
 荛	aatq	26644
 藏	aauh	26643
@@ -9572,9 +9609,12 @@ Nov	nov	29354
 熙	ahko	26525
 卧	ahnh	26524
 臣	ahnh	26523
-邪	ahtb	26522
-牙	ahte	26521
-鸦	ahtg	26520
+邪	ahb
+#邪	ahtb	26522
+#牙	ahte	26521
+鸦	ahqy	26520
+鸦	ahqg	26520
+#鸦	ahtg	26520
 迓	ahtp	26519
 雅	ahty	26518
 茈	ahxb	26517
@@ -9872,7 +9912,7 @@ Nov	nov	29354
 随	bdep	26225
 承	bdii	26224
 陌	bdjg	26223
-颇	bdmy	26222
+#颇	bdmy	26222
 陇	bdxy	26221
 阻	begg	26220
 孺	bfdj	26219
@@ -9912,7 +9952,7 @@ Nov	nov	29354
 粜	bmou	26185
 孑	bnhg	26184
 也	bnhn	26183
-皮	bnty	26182
+#皮	bnty	26182
 院	bpfq	26181
 耽	bpqn	26180
 聍	bpsh	26179
@@ -10274,7 +10314,7 @@ Nov	nov	29354
 腻	eafy	25824
 胨	eaiy	25823
 膜	eajd	25822
-貘	eajd	25821
+貘	eaj	25821
 腊	eajg	25820
 朦	eape	25819
 毁	eawc	25818
@@ -10510,8 +10550,10 @@ Nov	nov	29354
 未	fggy	25588
 士	fghg	25587
 甘	fghg	25586
+雨	fg
 雨	fghy	25585
-寸	fghy	25584
+寸	fg
+#寸	fghy	25584
 垣	fgjg	25583
 埂	fgjr	25582
 塥	fgkh	25581
@@ -11391,12 +11433,13 @@ Nov	nov	29354
 淬	iyw	24710
 沆	iywn	24709
 淤	iywu	24708
+液	iywt
 液	iywy	24707
 泫	iyxy	24706
 氵	iyyg	24705
 蟒	jada	24704
 螨	jagw	24703
-蚜	jaht	24702
+#蚜	jaht	24702
 蟆	jajd	24701
 蜡	jajg	24700
 蜮	jakg	24699
@@ -12620,7 +12663,7 @@ Nov	nov	29354
 寡	pdev	23483
 宸	pdfe	23482
 割	pdhj	23481
-豁	pdhk	23480
+#豁	pdhk	23480
 害	pdhk	23479
 寄	pdsk	23478
 寮	pdui	23477
@@ -12727,7 +12770,8 @@ Nov	nov	29354
 案	pvsu	23376
 空	pwaf	23375
 窍	pwan	23374
-穿	pwat	23373
+穿	pwah	23373
+#穿	pwat	23373
 窃	pwav	23372
 窿	pwbg	23371
 宿	pwdj	23370
@@ -13092,6 +13136,7 @@ Nov	nov	29354
 狙	qteg	23012
 猊	qteq	23011
 铥	qtfc	23010
+猿	qtfk	23009
 猿	qtfe	23009
 锸	qtf	23008 #(qtfe)
 钎	qtfh	23007
@@ -13427,7 +13472,9 @@ Nov	nov	29354
 挽	rqkq	22677
 搀	rqku	22676
 换	rqmd	22675
-捣	rqmh	22674
+捣	rqym
+#捣	rqyn
+#捣	rqmh	22674
 抱	rqnn	22673
 兜	rqnq	22672
 掬	rqoy	22671
@@ -14056,7 +14103,7 @@ Nov	nov	29354
 笥	tngk	22053
 乐	tnii	22052
 邬	tnnb	22051
-乌	tnng	22050
+#乌	tnng	22050
 筷	tnnw	22049
 追	tnpd	22048
 迄	tnpv	22047
@@ -15104,7 +15151,7 @@ txt	txt	21912
 诅	yegg	21006
 蠃	yejy	21005
 裔	yemk	21004
-赢	yemy	21003
+#赢	yemy	21003
 谣	yetb	21002
 羸	yeuy	21001
 嬴	yevy	21000
@@ -15803,7 +15850,8 @@ txt	txt	21912
 蔝	ahou	20309
 莧	ahqb	20308
 薒	ahqo	20307
-萈	ahqy	20306
+鸦	ahq
+#萈	ahqb	20306
 䪵	ahtm	20305
 鴉	ahto	20304
 㸧	ahtv	20303
@@ -18187,7 +18235,7 @@ Dec	dec	18531
 硆	dwgk	17927
 㕉	dwgk	17926
 䳞	dwgo	17925
-硢	dwgs	17924
+硢	dwg	17924
 厱	dwgw	17923
 礆	dwgw	17922
 㫪	dwhj	17921
@@ -18286,7 +18334,7 @@ Dec	dec	18531
 䐙	eafh	17828
 膩	eafy	17827
 臔	eahm	17826
-氁	eajd	17825
+氁	eaj	17825
 臈	eajn	17824
 膒	eakk	17823
 貙	eakk	17822
@@ -20369,7 +20417,7 @@ get	get	16084
 琻	gqg	15747
 殌	gqga	15746
 尫	gqgd	15745
-豗	gqge	15744
+豗	gqg	15744
 殭	gqgg	15743
 㱴	gqgm	15742
 㱙	gqgn	15741
@@ -24195,7 +24243,7 @@ get	get	16084
 軨	lwyc	11921
 圀	lwye	11920
 䍜	lwyf	11919
-軡	lwyn	11918
+軡	lwy	11918
 罖	lwyu	11917
 軓	lwyy	11916
 䡏	lxcy	11915
@@ -26894,7 +26942,7 @@ pdf	pdf	9632
 䇀	pwab	9224
 㲁	pwac	9223
 窢	pwag	9222
-䆠	pwah	9221
+䆠	pwa	9221
 䆰	pwak	9220
 䆾	pwal	9219
 鵼	pwao	9218
@@ -30045,8 +30093,8 @@ pdf	pdf	9632
 酘	sgwc	6076
 醱	sgwc	6075
 䤆	sgwd	6074
-酫	sgwg	6073
-䤘	sgwg	6072
+酫	sgw	6073
+䤘	sgw	6072
 䤅	sgwj	6071
 䣻	sgwk	6070
 䤌	sgwk	6069
@@ -35888,7 +35936,7 @@ Tue	tue	4303
 誨	ytxy	242
 訸	yty	241
 䚺	yty	240
-旜	ytyg	239
+旜	yty	239
 譲	yuae	238
 誁	yuah	237
 戠	yuaj	236
@@ -37103,3 +37151,17 @@ microsoft	miso
 pocket	pokt
 keep	keep
 siseng	sise
+temp	temp
+ignore	igno
+loop	loop
+further	furt
+Sci-Fi	scif
+science	scic
+fiction	fict
+license	lice
+action	act
+success	suce
+successful	sufu
+successfully	sufl
+right	righ
+left	left
