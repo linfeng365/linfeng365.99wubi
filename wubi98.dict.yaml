@@ -21,45 +21,6 @@ encoder:
 ...
 
 
-
-改造
-漫游
-近代
-联动
-情书
-博弈
-想走
-想来
-想去
-不给
-桌面
-鸭	lqyg
-俘虏
-岳母
-岳父
-远景
-恭喜
-发财
-糟糕
-上当
-受骗
-在于
-放在
-dangdang	dang
-值得	wfht
-舍得	wfkt
-附件
-毛巾
-预告
-不亚
-少女
-推动
-拨乱
-赋权
-认可
-异类
-匡正
-修养
 伟大
 美好
 指责
@@ -540,7 +501,7 @@ Jahwan	jahw
 卡通
 提示
 入场
-乱码
+筹码
 暧昧
 频道
 不怕
@@ -721,7 +682,7 @@ Jahwan	jahw
 创业
 夫妻	fwgv
 平米
-自主
+自评
 好评
 导演
 糅合
@@ -2576,16 +2537,6 @@ list	list
 憨笑
 玫瑰
 咖啡
-[天啊]	aata
-[加油]	aajy
-[吃瓜]	aacg
-[旺财]	aawc
-[Wow]	aawo
-[Noprob]	aanp
-[社会社会]	aash
-[汗]	aahh
-[Emm]	aamm
-[强]	abnb
 [转圈]	aatw	# tw 跳舞
 [握手]	aaws
 [再见]	aazj
@@ -2805,7 +2756,6 @@ Mojave 10.14	moja
 电话
 皿	lll
 甲	ll
-甲	l
 休假
 地方
 提醒
@@ -6676,7 +6626,7 @@ Mar	mar	29561
 周	mfk	29533
 赎	mfn	29532
 嵌	mfq	29531
-#赌	mft	29530
+赌	mft	29530
 财	mft	29529
 贱	mga	29528
 豳	mge	29527
@@ -8683,7 +8633,6 @@ Nov	nov	29354
 芏	aff	27547
 革	afj	27546
 匡	agd	27545
-匡	ag	27545
 #~七	agn	27544
 匚	agn	27543
 #芙	agu	27542
@@ -8717,8 +8666,7 @@ Nov	nov	29354
 艽	avb	27514
 切	avt	27513
 茛	avu	27512
-戍	aw
-#戍	awi	27511
+戍	awi	27511
 共	awu	27510
 芎	axb	27509
 弋	ayi	27508
@@ -8932,7 +8880,6 @@ Nov	nov	29354
 玉	gyi	27309
 玟	gyy	27308
 攴	hcu	27307
-虏	he
 虏	hee	27306
 肯	hef	27305
 步	hhr	27304
@@ -9135,7 +9082,6 @@ Nov	nov	29354
 尾	nev	27116
 导	nfu	27115
 忖	nfy	27114
-刁	nt	27113
 刁	ngd	27113
 眉	nhd	27112
 疋	nhi	27111
@@ -9295,7 +9241,6 @@ Nov	nov	29354
 氚	rkk	26964
 押	rlh	26963
 抽	rmg	26962
-岳	rm
 岳	rmj	26961
 氙	rmk	26960
 扎	rnn	26959
@@ -9987,8 +9932,6 @@ Nov	nov	29354
 芥	awjj	26294
 葆	awks	26293
 巷	awnb	26292
-恭	awi
-恭	awiy	26291
 恭	awnu	26291
 荷	awsk	26290
 茶	awsu	26289
@@ -12661,7 +12604,6 @@ Nov	nov	29354
 精	ogeg	23631
 粳	ogjr	23630
 焐	ogkg	23629
-糟	ogma	23628
 糟	ogmj	23628
 炳	ogmw	23627
 廒	ogqt	23626
@@ -13434,7 +13376,6 @@ put	put	23396
 描	ralg	22866
 拒	rang	22865
 揲	rans	22864
-拣	rai	22863
 拣	ranw	22863
 捞	rape	22862
 抠	rary	22861
@@ -13602,7 +13543,7 @@ put	put	23396
 拧	rpsh	22699
 氨	rpvd	22698
 按	rpvg	22697
-#控	rpwa	22696
+控	rpwa	22696
 撺	rpwh	22695
 擦	rpwi	22694
 挖	rpwn	22693
@@ -13674,7 +13615,7 @@ put	put	23396
 皤	rtol	22629
 播	rtol	22628
 揪	rtoy	22627
-#斤	rtth	22626
+斤	rtth	22626
 搬	rtuc	22625
 氡	rtui	22624
 搓	ruag	22623
@@ -13853,7 +13794,6 @@ put	put	23396
 醌	sgjx	22451
 酲	sgkg	22450
 梧	sgkg	22449
-槽	sgma	22448
 槽	sgmj	22448
 酮	sgmk	22447
 醴	sgmu	22446
@@ -17339,9 +17279,9 @@ txt	txt	21912
 䂈	cnhj	18977
 䖥	cnhj	18976
 矞	cnhk	18975
-嵍	cnh	18974
-預	cnh	18973
-䂎	cnh	18972
+嵍	cnhm	18974
+預	cnhm	18973
+䂎	cnhm	18972
 愗	cnhn	18971
 㥤	cnhn	18970
 熃	cnho	18969
@@ -17994,7 +17934,7 @@ Dec	dec	18531
 㔻	dhfj	18323
 砋	dhg	18322
 䪹	dhg	18321
-䲹	dhg	18320
+䲹	dhgo	18320
 㪺	dhhf	18319
 覔	dhhq	18318
 夒	dhht	18317
@@ -18418,7 +18358,7 @@ Dec	dec	18531
 㽄	dwry	17899
 棊	dwsu	17898
 碸	dwtj	17897
-䆐	dwt	17896
+䆐	dwtt	17896
 㪸	dwuf	17895
 砏	dwvt	17894
 郟	dww	17893
@@ -18442,9 +18382,9 @@ Dec	dec	18531
 諅	dwyf	17875
 䧸	dwyg	17874
 奮	dwyl	17873
-砛	dwy	17872
-㕂	dwy	17871
-䂼	dwy	17870
+砛	dwyn	17872
+㕂	dwyn	17871
+䂼	dwyn	17870
 磼	dwys	17869
 㚛	dxjf	17868
 㚕	dxjj	17867
@@ -24276,8 +24216,7 @@ get	get	16084
 䡔	lqqy	12043
 畇	lqug	12042
 軟	lqwy	12041
-鸭	lqy	12040
-輷	lqy	12040
+輷	lqyg	12040
 罶	lqyl	12039
 畂	lqyy	12038
 䍟	lrbt	12037
@@ -24674,7 +24613,7 @@ get	get	16084
 貦	mfqn	11646
 崁	mfqw	11645
 㞿	mfru	11644
-賭	mft	11643
+賭	mftj	11643
 財	mftt	11642
 峔	mftx	11641
 䶲	mftx	11640
@@ -31481,7 +31420,7 @@ tip	tip	4851
 䇵	tirj	4850
 䈬	tisu	4849
 箵	tith	4848
-籓	tit	4847
+籓	titl	4847
 箲	titq	4846
 徶	tity	4845
 尓	tiu	4844
@@ -37326,6 +37265,3 @@ csv	csv
 joy	joy
 light	ligh
 study	stud
-only	only
-nudge	nudg
-edit	edit
