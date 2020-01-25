@@ -21,7 +21,44 @@ encoder:
 ...
 
 
-
+不紊
+改名
+智商
+自修	thw
+性爱
+不妥
+不可以	iscw
+不可以	iskc
+不佳	iwff
+外境
+聚餐
+姐姐
+妹妹
+鸽	wgkq
+以后
+合辑
+远观
+楼梯
+町	ls
+胆子
+开启	gynk
+开户	gayn
+开启
+开房	gyny
+开户	gayn
+开房	gayn
+窗户
+随她
+随他
+随它
+讲义
+省钱
+批量
+天台
+阳台
+火锅	ooqk
+化妆
+对标
 改造
 漫游
 近代
@@ -31,7 +68,8 @@ encoder:
 想走
 想来
 想去
-不给
+不给	ixw
+不给	ixwg
 桌面
 鸭	lqyg
 俘虏
@@ -156,7 +194,6 @@ dangdang	dang
 颇有
 考验
 检验
-不同
 导出
 中间
 右边
@@ -656,8 +693,7 @@ Jahwan	jahw
 太空
 当时
 真理
-协同
-不同
+协同	
 封面
 调查
 鞭策
@@ -1907,7 +1943,6 @@ shortcut	shct
 除魅
 加班
 装备
-不会
 本身
 调节
 能力
@@ -2715,7 +2750,7 @@ google	goog
 流传
 残酷
 尽善尽美
-markdown	mark
+markdown	mard
 sublime text	subl
 插件
 todo	todo
@@ -2841,7 +2876,7 @@ Mojave 10.14	moja
 屷	mbnt
 通知
 审批
-发文
+发言
 收文
 公告
 会议	
@@ -3488,7 +3523,7 @@ book	book
 各各	
 各色
 各半
-不	dh	40122
+#不	dh	40122
 方	yyg	40121
 民	na
 #同	mg
@@ -3593,8 +3628,6 @@ GTD	gtd
 好事	vbgk
 小事	ihgk
 大事	ddgk
-开户	gayn
-开房	gayn
 鞋子	afbb
 更新	gjus
 身份	tmww
@@ -3959,7 +3992,7 @@ URL	url
 临时	jtjf
 降临	btjt
 来临	gujt
-不错	dhqa
+不错	iqaj
 很好	tvvb
 
 历史	dekr
@@ -3972,7 +4005,7 @@ URL	url
 设计	ywyf
 
 
-会不会祸害你了。	hhnl	#语句
+会不会祸害你了。	hinl	#语句
 平时	gujf
 搜索	refp
 怎么	thtc
@@ -3997,7 +4030,7 @@ URL	url
 还有	dhde
 利用	tjet
 有限	debv
-不可能	dsce
+不可能
 打击	rsgb
 贝	mhn	40029
 宝贝	pgmh
@@ -4055,12 +4088,12 @@ URL	url
 一下	gggh
 类型	odga
 体验	wscg
-不同	dhmg
+不同	imgk
 相同	shmg
 好的	vbrq
 真正	fhgh
 游戏	iyca
-不多	dhqq
+不多
 很多	tvqq
 好多	vbqq
 哪种	kntk
@@ -4215,7 +4248,7 @@ URL	url
 爸爸	wrwr
 奶奶	vbvb
 
-不行	dhtg
+
 写作	pgwt
 回事	lkgk
 回合	lkwg
@@ -4258,9 +4291,8 @@ URL	url
 复制粘贴	ttom	40011
 就是	yijg
 还是	dhpj
-不是	dhjg
 #不是	dhij
-不好	dhiv
+不好	ivb
 扭曲	rnma
 扭	rnfg
 确实	dqpu
@@ -6085,7 +6117,7 @@ URL	url
 澧	ima	30117
 湍	imd	30116
 滑	ime	30115
-溅	img	30114
+#溅	img	30114
 测	imj	30113
 尚	imk	30112
 涔	imw	30111
@@ -6151,6 +6183,7 @@ URL	url
 活	itd	30054
 滗	ite	30053
 洗	itf	30052
+不行	itg	30051
 洚	itg	30051
 省	ith	30050
 潲	iti	30049
@@ -6183,6 +6216,7 @@ URL	url
 沧	iwb	30022
 没	iwc	30021
 脊	iwe	30020
+不会	iwf	30019
 浍	iwf	30019
 洽	iwg	30018
 沿	iwk	30017
@@ -8792,7 +8826,7 @@ Nov	nov	29354
 戍	dyi
 成	dni
 厂	dgt	27442
-不	dhi	57441
+#不	dhi	57441
 丰	dh	27440
 泵	diu	27439
 百	djf	27438
@@ -8857,7 +8891,9 @@ Nov	nov	29354
 #去	fcu	27381
 支	fcuu	27380
 云	fcu	27379	#-
-圭	fff	27378
+圭	ff
+封	fff	27378
+#圭	fff	27378
 坩	ffg	27377
 寺	ffu	27376
 二	fgg	27375
@@ -8972,11 +9008,12 @@ Nov	nov	29354
 汪	ig	27272
 泪	ihg	27271
 沓	ijf	27270
+不是	ijg	27269
 汨	ijg	27269
 汩	ijg	27268
 浊	ijy	27267
 泗	ilg	27266
-油	img	27265
+#油	img	27265
 汕	imh	27264
 汜	inn	27263
 沁	iny	27262
@@ -9510,6 +9547,7 @@ Nov	nov	29354
 佴	wbg	26759
 他	wbn	26758
 仍	wbt	26757
+凤	wc	26756
 凤	wci	26756
 公	wcu	26755
 殳	wcu	26754
@@ -11369,7 +11407,8 @@ Nov	nov	29354
 泱	imdy	24921
 滑	imeg	24920
 溅	imga	24919
-洞	imgk	24918
+洞	img
+#洞	imgk	24918
 测	imjh	24917
 氅	imke	24916
 尚	imkf	24915
@@ -11498,7 +11537,7 @@ Nov	nov	29354
 潘	itol	24792
 湫	itoy	24791
 泛	itpy	24790
-鳖	itqg	24789
+#鳖	itqg	24789
 涤	itsy	24788
 海	itxy	24787
 溯	iube	24786
@@ -11530,7 +11569,8 @@ Nov	nov	29354
 沧	iwbn	24760
 没	iwcy	24759
 脊	iwef	24758
-浍	iwfc	24757
+不会	iwfc
+#浍	iwfc	24757
 瀹	iwga	24756
 溆	iwgc	24755
 渝	iwgj	24754
@@ -13729,7 +13769,7 @@ put	put	23396
 捻	rwyn	22574
 拗	rxet	22573
 掾	rxey	22572
-指	rxjg	22571
+#指	rxjg	22571
 拂	rxjh	22570
 氟	rxjk	22569
 掼	rxmy	22568
@@ -13914,7 +13954,8 @@ put	put	23396
 榀	skkk	22391
 速	skpd	22390
 赖	skqm	22389
-哥	sksk	22388
+哥哥	sksk
+#哥	sksk	22388
 歌	sksw	22387
 整	skth	22386
 敕	skty	22385
@@ -14013,6 +14054,7 @@ put	put	23396
 校	sury	22292
 樽	susf	22291
 榇	susy	22290
+梯	suxh
 梯	suxt	22289
 概	svaq	22288
 楗	svgp	22287
@@ -14192,7 +14234,7 @@ put	put	23396
 鼻	thlj	22113
 鼽	thlv	22112
 延	thnp	22111
-息	thnu	22110
+#息	thnu	22110
 #~臬	thsu	22109
 竹	thth	22108
 筲	tief	22107
@@ -22155,7 +22197,8 @@ get	get	16084
 汼	itgh	14164
 淛	itgj	14163
 潕	itgo	14162
-洐	itgs	14161
+不行	itgs	14161
+洐	itg	14161
 斃	itgx	14160
 泆	itgy	14159
 潅	itgy	14158
@@ -27221,7 +27264,7 @@ pdf	pdf	9632
 隺	pwyd	9101
 寉	pwyf	9100
 窣	pwyf	9099
-寯	pwyn	9098
+寯	pwy	9098
 鶴	pwyo	9097
 䆡	pwyv	9096
 宆	pxb	9095
@@ -33949,7 +33992,7 @@ Tue	tue	4303
 龕	wgkd	2384
 儾	wgke	2383
 㲪	wgke	2382
-俉	wgkg	2381
+俉	wgk	2381
 倳	wgkh	2380
 龣	wgki	2379
 剣	wgkj	2378
@@ -33970,7 +34013,7 @@ Tue	tue	4303
 䳾	wgko	2363
 邆	wgkp	2362
 䢔	wgkp	2361
-覴	wgkq	2360
+覴	wgk	2360
 搻	wgkr	2359
 龤	wgkr	2358
 㧱	wgkr	2357
@@ -36315,7 +36358,8 @@ Tue	tue	4303
 土	f	20
 王	g	19
 目	h	18
-水	i	17
+不	i	17
+#水	i	17
 日	j	16
 口	k	15
 田	l	14
@@ -37329,3 +37373,12 @@ study	stud
 only	only
 nudge	nudg
 edit	edit
+relax	relx
+task	task
+paper	papr
+mark	mark
+cafe	cafe
+tag	tag
+editor	edir
+BBC	bbc
+tigole	tigo
