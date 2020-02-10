@@ -22,6 +22,46 @@ encoder:
 
 
 
+饲	qngk
+效应
+洗手
+明年
+杀	rs
+捕	rs
+以后
+出入
+指挥
+传染
+升高
+篮球
+投篮
+篮球
+吴军
+吃过
+徒劳
+弱小
+无知
+傲慢
+幽灵
+诞生
+旁观
+有闲
+须有
+展示
+手办
+摆设
+认错
+为你
+爆发
+肺炎
+戒烟
+杂物
+牙齿
+启示
+凡是
+热水
+黑镜
+各式
 一无
 高枕
 无忧
@@ -1409,7 +1449,7 @@ Jahwan	jahw
 根源
 额度
 坍塌
-搏击
+搏击	rsg
 俱乐
 放开
 减少
@@ -2229,7 +2269,7 @@ DOM	dom
 办法
 潜在
 清理
-凡	wt
+几	wt
 #凡	wtny
 品牌
 那么
@@ -3422,7 +3462,7 @@ linfeng82@qq.com	lfyx
 生命	tgwg
 发生	nttg
 超级	fhxb
-无敌	fqtd
+无敌	fqt
 订货	yswx
 订单	ysuj
 材料	sfou
@@ -4932,6 +4972,8 @@ is	is	31633
 痛	uc	31352
 #~头	ud	31351
 前	ue	31350
+兰	ud
+兰	uf
 斗	uf	31349
 半	ug	31348
 着	uh	31347
@@ -9419,6 +9461,7 @@ war	war	28034
 爻	rr
 打	rsh	26952
 杀	rsu	26951
+杀	rsy	26950
 捕	rsy	26950
 氕	rte	26949
 乒	rtr	26948
@@ -9505,6 +9548,8 @@ war	war	28034
 年	tgj	26870
 牛	tgk	26869
 #自	thd	26868
+处	th
+处	thy
 处	thi	26867
 香	tjf	26866
 利	tjh	26865
@@ -9655,7 +9700,8 @@ war	war	28034
 朵	wsu	26728
 休	wsy	26727
 亻	wth	#-
-几	wtn	26725
+凡	wtn
+#几	wtn	26725
 八	wty	26724
 位	wug	26723
 佯	wuh	26722
@@ -13817,7 +13863,7 @@ put	put	23396
 接	ruvg	22609
 搛	ruvw	22608
 抛	rvet	22607
-氯	rvii	22606
+#氯	rvii	22606
 招	rvkg	22605
 殷	rvnc	22604
 拶	rvqy	22603
@@ -17805,7 +17851,7 @@ txt	txt	21912
 碊	daay	18637
 毻	daee	18636
 䃊	daeg	18635
-遀	daep	18634
+遀	dae	18634
 䃟	daet	18633
 礚	dafl	18632
 矼	dag	18631
@@ -26258,7 +26304,7 @@ ktv	ktv	12499
 煴	ojlg	10192
 庽	ojmy	10191
 㷒	ojmy	10190
-㡼	ojnt	10189
+㡼	ojn	10189
 㷎	ojqn	10188
 焬	ojqr	10187
 粿	ojsy	10186
@@ -33075,6 +33121,7 @@ Tue	tue	4303
 凓	ussy	3387
 闄	usvd	3386
 㾢	usww	3385
+闲	usy	3384
 牀	usy	3384
 㾁	usyi	3383
 竔	utah	3382
@@ -34140,7 +34187,7 @@ Tue	tue	4303
 倆	wgmy	2324
 債	wgmy	2323
 䒊	wgnc	2322
-侴	wgnj	2321
+侴	wgn	2321
 㿽	wgnl	2320
 㐳	wgqn	2319
 鳳	wgqo	2318
@@ -36741,7 +36788,7 @@ for	for
 from	from
 global	glol
 if	if
-import	impt
+import	impr
 in	in
 is	is
 lambda	lama
@@ -37487,3 +37534,12 @@ ray	ray
 BluRay	blra
 forever foev
 David	davi
+important	impt
+mirror	mirr
+black	blac
+mind	mind
+forever	foev
+mubu	mubu
+vpn	vpn
+link	link
+ink	ink
