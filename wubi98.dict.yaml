@@ -21,7 +21,16 @@ encoder:
 ...
 
 
-
+血	tl
+中央
+姑娘
+介意
+凪	whg
+修女
+天涯
+亡命
+报道
+一致
 饲	qngk
 效应
 洗手
@@ -1220,7 +1229,6 @@ Jahwan	jahw
 排列
 允许
 保证
-舟	tu
 舟	tmy
 舟	tmyy
 维持
@@ -1322,7 +1330,7 @@ Jahwan	jahw
 个人	whww
 动员
 机核
-裙子
+裙子	pub
 待下
 谷物
 香氛
@@ -2707,13 +2715,28 @@ list	list
 🦋	aabf	# Butterfly
 ⭐	aast	# Star
 📚	aabk	# Books
-💰	aamo	# Money Bag
+💰	aam	# Money Bag
 🧬	aadn	# DNA
 ✉	aaem	# Envelope
 💌	aall	# Love Letter
 🔥	aafi	# Fire
 ⚡	aaln	# lightning
 ❤️⚡	aaya	# yong ai
+🌧	aar	# rain
+☀	aasu
+☁	aacl
+🌟	aass
+🔆	aas
+🌙	aamo	# Crescent Moon
+# ⛅ Sun Behind Cloud
+# ⛈ Cloud with Lightning and Rain
+# 🌤 Sun Behind Small Cloud
+# 🌥 Sun Behind Large Cloud
+# 🌦 Sun Behind Rain Cloud
+# 🌧 Cloud with Rain
+# 🌨 Cloud with Snow
+# 🌩 Cloud with Lightning
+
 偷笑
 呲牙
 微笑
@@ -2726,12 +2749,13 @@ list	list
 [加油]	aajy
 [吃瓜]	aacg
 [旺财]	aawc
+[Doge]	aado
 [Wow]	aawo
 [Noprob]	aanp
 [社会社会]	aash
 [汗]	aahh
 [Emm]	aamm
-[强]	aanb
+[强]	aaq
 [转圈]	aatw	# tw 跳舞
 [握手]	aaws
 [再见]	aazj
@@ -2743,9 +2767,9 @@ list	list
 [调皮]	aatp
 [太阳]	aaty
 [爱心]	aaax
-[色]	aass
+[色]	aas
 [猪头]	aazt
-[困]	aafk
+[困]	aaku
 [奋斗]	aafd
 [饥饿]	aaje
 [微笑][愉快][憨笑][玫瑰][咖啡]	aamn	# morning
@@ -3156,9 +3180,8 @@ Page	page
 让子弹飞	ybxn
 合	wgk	40316
 该	yyn	40315
-笠	tu
-#~科	tuf	40314
-乎	tuf	40314
+科	tuf	40314
+#乎	tuf	40314
 理论
 欺骗
 炫耀
@@ -3246,8 +3269,7 @@ Page	page
 分期
 收纳
 导向
-工厂	aagt
-工厂
+工厂	aadg
 这就尴尬了	yydd
 支付
 尴尬	dndn
@@ -4990,6 +5012,8 @@ is	is	31633
 #~道	ut	31336
 羊	uu	31335
 #立	uu	31335
+痕	uvy
+痕	uv
 妆	uv	31334
 闪	uw	31333
 北	ux	31332
@@ -9393,6 +9417,7 @@ war	war	28034
 #岛	qmk	27015
 负	qmu	27014
 钡	qmy	27013
+饵	qnb	27012
 饣	qnb	27012
 钇	qnn	27011
 钆	qnn	27010
@@ -11076,7 +11101,8 @@ war	war	28034
 至	gcff	25379
 到	gcfj	25378
 致	gcft	25377
-臻	gcft	25376
+臻	gcfd
+臻	gcf	25376
 玛	gcgg	25375
 瑚	gdeg	25374
 环	gdhy	25373
@@ -31559,6 +31585,8 @@ pdf	pdf	9632
 鄓	thdb	4945
 簒	thdc	4944
 段	thd	4943
+臭	thdy
+臭	thd	4943
 穢	thd	4943
 䫁	thdm	4942
 䵵	thdo	4941
@@ -32197,6 +32225,8 @@ tip	tip	4851
 舿	tudn	4309
 䑴	tudw	4308
 舦	tudy	4307
+舟	tu	4306
+笠	tu	4306
 乊	tu	4306
 艀	tueb	4305
 䉨	tuec	4304
@@ -36508,7 +36538,9 @@ Tue	tue	4303
 西	sg
 拿	wg
 #待	t	6
-禾	t	6
+#禾	t	6
+乎	t
+乎	tuf
 立	u	5
 女	v	4
 人	w	3
@@ -37543,3 +37575,6 @@ mubu	mubu
 vpn	vpn
 link	link
 ink	ink
+clash	clah
+css	css
+SARS	sars
