@@ -21,6 +21,68 @@ encoder:
 ...
 
 
+憎恨
+怨气
+羞辱
+狭义
+猥亵
+遭遇
+分居
+限额
+调序
+透明
+远程
+调序
+颗粒
+殖民
+收割
+以后	cwrg
+太好
+细胞
+番薯
+缓和
+为人
+和善
+合并
+中断
+联合
+明智
+漫长
+时空
+野餐
+路边
+超时
+过时
+宁静
+夜晚
+路	kh
+跳舞
+亢	ywn
+亢	yw
+亢奋
+政府
+保安
+收款
+悄悄
+摆脱
+管窥
+带宽
+俘获
+稀缺
+尽力
+规矩
+虔诚
+漱	iskq
+洗漱
+风雨
+饥饿
+暴风
+北风
+南风
+东风
+西风
+政策
+囧	lwm
 血	tl
 中央
 姑娘
@@ -37,7 +99,6 @@ encoder:
 明年
 杀	rs
 捕	rs
-以后
 出入
 指挥
 传染
@@ -166,7 +227,6 @@ encoder:
 姐姐
 妹妹
 鸽	wgkq
-以后
 合辑
 远观
 楼梯
@@ -290,6 +350,7 @@ dangdang	dang
 磁砖
 雨	f
 寸	f
+干	f
 活泼
 铅笔
 可有
@@ -985,7 +1046,7 @@ Jahwan	jahw
 怼员
 轮流
 沉淀
-以后
+
 监督
 便宜
 透露
@@ -1081,7 +1142,6 @@ Jahwan	jahw
 私密
 论坛
 简易
-以后
 拍拖
 吃苦
 标注
@@ -1091,7 +1151,6 @@ Jahwan	jahw
 帐户
 工程	aatk
 小揽
-以后
 埃及
 下次
 再次
@@ -1178,7 +1237,6 @@ Jahwan	jahw
 这边
 那边
 哪边
-以后
 迷你
 青鸟
 剧本
@@ -1696,6 +1754,7 @@ Jahwan	jahw
 当作
 强调
 潜力
+自学
 自觉
 文艺
 讲述
@@ -2009,7 +2068,6 @@ shortcut	shct
 解压
 纪念
 只要
-失去	tgf
 情节
 英汉
 汉英
@@ -2663,7 +2721,7 @@ list	list
 🦁	aali	# lion face
 🎤	aami	# mic
 🍰	aack	# cake
-😊	aase	# smiling face with squinting eyes 
+😊	aas	# smiling face with squinting eyes 
 😄	aahp	# happy 😊😄😃😉😘😍😎😂😁
 😃	aasm	# smiley face
 😉	aawk	# winking face
@@ -2684,6 +2742,7 @@ list	list
 😳	aaop	# face with wide open eyes
 🙀	aamg	# my god
 😨	aahe	# 
+😡	aaqi
 💡	aalb	# Light Bulb
 ❤️	aahr	# heart  
 🤟🏻	aaly	# love you
@@ -2710,12 +2769,12 @@ list	list
 ☣	aabh	# Biohazard 
 ♾	aaif	# Infinity
 ♻	aarc	# Recycling Symbol
-✔	aarm	# Check Mark / right mark
+✔	aari	# Check Mark / right mark
 ✖	aawm	# Multiplication Sign /wrong mark
 🦋	aabf	# Butterfly
 ⭐	aast	# Star
 📚	aabk	# Books
-💰	aam	# Money Bag
+💰	aamn	# Money Bag
 🧬	aadn	# DNA
 ✉	aaem	# Envelope
 💌	aall	# Love Letter
@@ -2726,7 +2785,7 @@ list	list
 ☀	aasu
 ☁	aacl
 🌟	aass
-🔆	aas
+🔆	aasu
 🌙	aamo	# Crescent Moon
 # ⛅ Sun Behind Cloud
 # ⛈ Cloud with Lightning and Rain
@@ -2766,14 +2825,18 @@ list	list
 [难过]	aang
 [调皮]	aatp
 [太阳]	aaty
+[月亮]	aaye
 [爱心]	aaax
-[色]	aas
+[色]	aase
 [猪头]	aazt
 [困]	aaku
+[囧]	aajo
+[囧]	aaj
 [奋斗]	aafd
 [饥饿]	aaje
-[微笑][愉快][憨笑][玫瑰][咖啡]	aamn	# morning
+#[微笑][愉快][憨笑][玫瑰][咖啡]	aamn	# morning
 👻	aagh
+[可怜]	aakl
 [OK]	ok
 #[偷笑]	wwtt
 [偷笑]	aatx
@@ -2801,8 +2864,6 @@ list	list
 ↓	gh
 ←→	dadk
 ←→	dkda
-✔	cf
-
 
 虎	hw
 谦虚
@@ -3699,7 +3760,6 @@ book	book
 上	hh	40115
 关闭	uduf
 关	ud
-自学	thi
 出门	bmuy
 定位	pgwu
 随身	bdtm
@@ -3810,7 +3870,6 @@ GTD	gtd
 点评	hkyg
 日常	jjip
 沟通	iqce
-自觉	thiq		#避重码
 厉害	dgpd
 上面	hhdl
 下面	ghdl
@@ -4995,6 +5054,7 @@ is	is	31633
 #~头	ud	31351
 前	ue	31350
 兰	ud
+兰	udf
 兰	uf
 斗	uf	31349
 半	ug	31348
@@ -6604,7 +6664,8 @@ is	is	31633
 踪	khp	29765
 跑	khq	29764
 踬	khr	29763
-路	kht	29762
+跌	kht	29762
+#路	kht	29762
 #~蹉	khu	29761
 跟	khv	29760
 趴	khw	29759
@@ -6806,7 +6867,7 @@ is	is	31633
 贼	mad	29565
 岈	mah	29564
 岽	mai	29563
-崂	map	29562
+#崂	map	29562
 Mar	mar	29561
 岖	mar	29561
 典	maw	29560
@@ -7939,6 +8000,7 @@ Nov	nov	29354
 乖	tfu	28448
 笺	tga	28447
 箐	tge	28446
+失去	tgf	2845
 竽	tgf	28445
 征	tgh	28444
 重	tgj	28443
@@ -8091,6 +8153,7 @@ Nov	nov	29354
 籴	tyo	28299
 篱	tyr	28298
 稂	tyv	28297
+差	uag	28296
 瓶	uag	28296
 #疟	uag	28296
 冻	uai	28295
@@ -8149,6 +8212,8 @@ Nov	nov	29354
 桊	ugs	28244
 羲	ugt	28243
 羡	ugu	28242
+券	ufwv
+姜	ugv	28241
 券	ugv	28241
 冱	ugx	28240
 誊	ugy	28239
@@ -8744,7 +8809,8 @@ war	war	28034
 盲	ynh	27651
 永	yni	27650
 启	ynk	27649
-遍	ynm	27648
+扁	ynm
+#遍	ynm	27648
 氓	ynn	27647
 刻	ynt	27646
 戽	ynu	27645
@@ -8925,7 +8991,11 @@ war	war	28034
 甬	cej	27472
 牦	cenn	27471
 劝	cet	27470
-圣	cff	27469
+圣	cf
+牡	cf
+特	cff
+圣	cfg	27469
+#圣	cff	27469
 牡	cfg	27468
 对	cfy	27467
 马	cgd	27466
@@ -8971,6 +9041,8 @@ war	war	28034
 成	dnv	27431
 尢	dnv	27430
 矿	dot	27429
+灰	do
+灰	doy
 灰	dou	27428
 达	dpi	27427
 克	dqb	27426
@@ -9221,6 +9293,7 @@ war	war	28034
 呋	kgy	27197
 中	khk	27196
 足	khu	27195
+足	khy	27194
 卟	khy	27194
 虽	kju	27193
 吕	kkf	27192
@@ -11107,7 +11180,7 @@ war	war	28034
 瑚	gdeg	25374
 环	gdhy	25373
 蚕	gdju	25372
-吞	gdkf	25371
+#吞	gdkf	25371
 顼	gdmy	25370
 忝	gdnu	25369
 琦	gdsk	25368
@@ -12149,10 +12222,10 @@ war	war	28034
 踬	khrm	24336
 跃	khtd	24335
 鹭	kht	24334	#-
-跌	khtg	24333
+#跌	khtg	24333
 踵	kht	24332	#-
 跞	khti	24331
-踟	khtk	24330
+踟	kht	24330
 路	khtk	24329
 蹯	khtl	24328
 躜	khtm	24327
@@ -14500,7 +14573,7 @@ put	put	23396
 我	trny	22007
 籀	trql	22006
 篼	trqq	22005
-稗	trtf	22004
+#稗	trtf	22004
 徼	tryt	22003
 笨	tsgf	22002
 箱	tshf	22001
@@ -15281,6 +15354,8 @@ txt	txt	21912
 衾	wyne	21227
 含	wynk	21226
 贪	wynm	21225
+偏	wyn	21225
+偏	wynm	21225
 颔	wynm	21224
 念	wynn	21223
 鹪	wyog	21222
@@ -16955,7 +17030,7 @@ txt	txt	21912
 芲	awxb	19556
 蕟	awxc	19555
 蒊	awxx	19554
-聓	awyb	19553
+聓	awy	19553
 蒦	awyc	19552
 䂬	awyd	19551
 舊	awye	19550
@@ -19556,7 +19631,7 @@ Dec	dec	18531
 趙	fhie	16960
 赻	fhit	16959
 䟂	fhjc	16958
-趕	fhjf	16957
+趕	fhj	16957
 䞡	fhjg	16956
 䟆	fhjg	16955
 趧	fhjh	16954
@@ -21582,6 +21657,7 @@ get	get	16084
 睟	hywf	14935
 㱖	hywf	14934
 䂅	hyxj	14933
+虔	hyy	14932
 盿	hyy	14932
 㳦	iaah	14931
 㶓	iaah	14930
@@ -23673,7 +23749,7 @@ get	get	16084
 蹝	khth	12845
 蹤	khth	12844
 䠦	khtj	12843
-蹻	khtk	12842
+蹻	kht	12842
 躦	khtm	12841
 趷	khtn	12840
 踿	khto	12839
@@ -32102,7 +32178,7 @@ tip	tip	4851
 篺	trrf	4432
 䇽	trrj	4431
 笅	trru	4430
-箄	trtf	4429
+箄	trt	4429
 䉥	trtn	4428
 䉟	trwc	4427
 籡	trww	4426
@@ -37578,3 +37654,12 @@ ink	ink
 clash	clah
 css	css
 SARS	sars
+swift	swft
+grounds	grod
+SIM	sim
+inbox	inb
+bird	bird
+showdown	shdo
+planet	plet
+cell	cell
+ebook	ebk
