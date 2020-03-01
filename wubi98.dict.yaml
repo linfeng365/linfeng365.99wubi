@@ -21,6 +21,57 @@ encoder:
 ...
 
 
+夏天
+章节
+威胁
+危胁
+范围
+表扬
+欠缺
+变动
+反映
+宿舍	pwwf
+银两
+三分
+十分
+几分
+几年
+老公
+老婆	ftih
+臣	anh
+卧	anhh
+教委
+入学
+入户
+警惕
+最高
+最低
+振动
+定时
+一步
+番茄
+宫殿
+界定
+鼓掌
+刷新
+债务
+满腔
+热血
+忽悠
+抗体
+检视
+注销
+学好
+升旗
+插图
+调色
+纽约
+探讨
+在家
+量化
+分布
+功不
+唐捐
 憎恨
 怨气
 羞辱
@@ -2815,6 +2866,7 @@ list	list
 [汗]	aahh
 [Emm]	aamm
 [强]	aaq
+[强]	aanb
 [转圈]	aatw	# tw 跳舞
 [握手]	aaws
 [再见]	aazj
@@ -2878,6 +2930,7 @@ list	list
 公式
 who knows?	whon
 why not?	whyn
+why not?	whno
 karabiner	karr
 幸福
 李笑来	stgu
@@ -5530,7 +5583,9 @@ is	is	31633
 迨	ckp	30887
 观	cmq	30886
 #~巴	cnh	30885
-鸡	cqg	30884
+鸡	cqyg
+鸡	cqy
+#鸡	cqg	30884
 物	cqr	30883
 欢	cqw	30882
 矣	ctd	30881
@@ -9206,6 +9261,7 @@ war	war	28034
 尖	idu	27278
 肖	ief	27277
 尘	iff	27276
+尘	ifg	27275
 泔	ifg	27275
 汗	ifh	27274
 汁	ifh	27273
@@ -10591,7 +10647,7 @@ war	war	28034
 甭	dhej	25954
 在	dhfd	25953
 邳	dhgb	25952
-丕	dhgd	25951
+#丕	dhgd	25951
 歪	dhgh	25950
 蹙	dhih	25949
 戚	dhii	25948
@@ -11019,6 +11075,7 @@ war	war	28034
 埙	fkmy	25530
 鼓	fkuc	25529
 彭	fkue	25528
+鼓	fkuf	25527
 鼙	fkuf	25527
 瞽	fkuh	25526
 #嘉	fkuk	25525
@@ -18265,6 +18322,7 @@ Dec	dec	18531
 熭	dhdo	18325
 奀	dhdu	18324
 㔻	dhfj	18323
+丕	dhg	18322
 砋	dhg	18322
 䪹	dhg	18321
 䲹	dhg	18320
@@ -29212,7 +29270,7 @@ pdf	pdf	9632
 匃	qwnv	7388
 銝	qwsy	7387
 䤪	qwsy	7386
-銋	qwtf	7385
+銋	qwt	7385
 鈖	qwvt	7384
 銼	qwwf	7383
 鑯	qwwg	7382
@@ -34738,7 +34796,7 @@ Tue	tue	4303
 餬	wvde	1879
 䭉	wvde	1878
 㑬	wvdg	1877
-䬪	wvdh	1876
+䬪	wvd	1876
 䭜	wvdi	1875
 頒	wvdm	1874
 餣	wvdn	1873
@@ -35427,7 +35485,7 @@ Tue	tue	4303
 縆	xngg	1190
 縀	xnhc	1189
 縃	xnhe	1188
-紐	xnhg	1187
+紐	xnh	1187
 糾	xnhh	1186
 䌵	xnij	1185
 緯	xnkg	1184
@@ -37663,3 +37721,7 @@ showdown	shdo
 planet	plet
 cell	cell
 ebook	ebk
+email	eml
+shock	chok
+titan	titn
+attack	attk
