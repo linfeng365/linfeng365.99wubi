@@ -21,6 +21,78 @@ encoder:
 ...
 
 
+扩大
+受众
+频繁
+包罗
+万象
+分散
+一套
+手头
+关心
+头	ud
+抵扣
+积分
+滴滴
+对谈
+破产
+国家
+界面
+交互
+规格
+增量
+递增
+递减
+督促
+强烈
+成败
+极限
+解析
+性能
+评审
+燃尽
+肩膀
+传感
+团队
+提交
+反光
+可用
+瀑布
+骨架
+预定
+坚决
+要素
+盲目
+擅长
+要素
+敏捷
+识别
+模型
+度量
+可视
+光线
+前置
+后置
+机制
+拉动
+过载
+等价
+灾难
+看板
+路线
+线路
+效能
+明朝
+清朝
+朝代
+朝向
+营业
+巴赫
+遭殃
+共情
+静如
+动若
+脱兔
 夏天
 章节
 威胁
@@ -567,7 +639,6 @@ mp4	mp
 孕妇
 孕育
 孕酮
-孕	bb
 最爱
 抽烟
 卓	hj
@@ -3249,7 +3320,6 @@ com	com
 纪律	xntv
 完全	pfwg
 认为	ywye
-爱人	epww
 洁湟	ifir
 而是	dmjg
 满足
@@ -3596,7 +3666,7 @@ linfeng82@qq.com	lfyx
 一生	ggtg
 重量	tgjg
 生命	tgwg
-发生	nttg
+发生
 超级	fhxb
 无敌	fqt
 订货	yswx
@@ -3617,7 +3687,7 @@ linfeng82@qq.com	lfyx
 性格	ntst
 组成	xedn
 思想	lnsh
-有关	deud
+有关
 人格	wwst
 密码	pndc
 邮箱	mbts
@@ -3635,7 +3705,7 @@ linfeng82@qq.com	lfyx
 一次	ggqw
 流行	iytg
 奖金	uqqq
-通关	ceud
+通关
 娱乐	vktn
 是不是	jdjg
 几十	wtfg
@@ -3701,7 +3771,7 @@ linfeng82@qq.com	lfyx
 和好	tkvb
 和气	tkrt
 和平	tkgu
-生产	tgut
+生产
 首页	utdm
 通道	ceut
 信息	wyth
@@ -3811,8 +3881,7 @@ book	book
 步	hh
 ↑	hh
 上	hh	40115
-关闭	uduf
-关	ud
+关闭
 出门	bmuy
 定位	pgwu
 随身	bdtm
@@ -3953,7 +4022,7 @@ Kindle	kind
 刺激	smir
 加入	ekty
 申请	jhyg
-医生	attg
+医生
 成果	dnjs
 过程	fptk
 明白	jerr
@@ -3971,7 +4040,7 @@ Kindle	kind
 历来	degu
 
 技能	rfce
-关系	udtx
+关系
 科学	tuip
 
 学到	ipgc
@@ -4027,7 +4096,7 @@ URL	url
 购物	mqcq
 项目	adhh
 邀请	ryyg
-关于	udgf
+关于
 总结	ukxf
 阅读	uuyf
 简书	tunn
@@ -4089,7 +4158,7 @@ URL	url
 反对	rccf
 全部	wguk
 版本	thsg
-生活	tgit
+生活
 矢去	tdfc
 力量	enjg
 吞噬	gdkt
@@ -4101,7 +4170,7 @@ URL	url
 #乙	nnnn
 快点	nnhk
 今年	wytg
-今生	wytg
+今生
 今世	wyan
 洗澡	itik
 广告	oytf
@@ -4397,7 +4466,7 @@ URL	url
 林和馨	stfn
 动词	fcyn
 名词	qkyn
-抽象	rmqk
+抽象
 印象	qgqk
 笔记	teyn
 五笔	ggte
@@ -4408,7 +4477,7 @@ URL	url
 茶叶	awkf
 咖啡	kekh
 
-相关	shud
+相关
 感觉	dgip
 辛苦	uyad
 辛苦了	uabn
@@ -4486,7 +4555,7 @@ URL	url
 回事	lkgk
 回合	lkwg
 哲学	rrip
-人生	wwtg
+人生
 没有	iwde
 
 成功	dnae
@@ -5106,6 +5175,7 @@ is	is	31633
 痛	uc	31352
 #~头	ud	31351
 前	ue	31350
+头	ud
 兰	ud
 兰	udf
 兰	uf
@@ -5829,7 +5899,8 @@ is	is	31633
 腕	epq	30647
 膑	epr	30646
 胺	epv	30645
-腔	epw	30644
+爱人	epw
+#腔	epw	30644
 胝	eqa	30643
 脆	eqd	30642
 氇	eqg	30641
@@ -6719,8 +6790,8 @@ is	is	31633
 踪	khp	29765
 跑	khq	29764
 踬	khr	29763
-跌	kht	29762
-#路	kht	29762
+#跌	kht	29762
+路	kht	29762
 #~蹉	khu	29761
 跟	khv	29760
 趴	khw	29759
@@ -8231,6 +8302,7 @@ Nov	nov	29354
 郑	udb	28279
 闳	udc	28278
 疬	ude	28277
+兰	udg	28276
 减	udg	28276
 痞	udh	28275
 阉	udj	28274
@@ -8254,6 +8326,7 @@ Nov	nov	29354
 装	ufy	28257
 卷	ugb	28256
 靖	uge	28255
+闰	ugg	28254
 豢	ugg	28254
 症	ugh	28253
 养	ugj	28252
@@ -8499,6 +8572,7 @@ war	war	28034
 做	wdt	28016
 僚	wdu	28015
 傣	wdw	28014
+Web	web	28013
 俘	web	28013
 伽	wek	28012
 倪	weq	28011
@@ -9009,7 +9083,8 @@ war	war	28034
 芎	axb	27509
 弋	ayi	27508
 芳	ayr	27507
-孕	bbf	27506
+孕	bntb
+#孕	bbf	27506
 耶	bbh	27505
 陂	bby	27504
 取	bcy	27503
@@ -9697,7 +9772,7 @@ war	war	28034
 午	tfj	26875
 竿	tfj	26874
 千	tf	26873
-生	tgd	26872
+#生	tgd	26872
 失	tgi	26871
 年	tgj	26870
 牛	tgk	26869
@@ -9740,12 +9815,13 @@ war	war	28034
 兰	uff
 #兰	udf	26835
 头	udi	26834
-关	udu	26833
+#关	udu	26833
 状	udy	26832
 痈	uek	26831
 疳	ufd	26830
 壮	ufg	26829
 斗	ufk	26828
+关	ugd	26827
 闰	ugd	26827
 闩	ugd	26826
 半	ugk	26825
@@ -12279,7 +12355,7 @@ war	war	28034
 踬	khrm	24336
 跃	khtd	24335
 鹭	kht	24334	#-
-#跌	khtg	24333
+跌	khtg	24333
 踵	kht	24332	#-
 跞	khti	24331
 踟	kht	24330
@@ -14516,8 +14592,9 @@ put	put	23396
 咎	thkf	22117
 鼾	thlf	22116
 齄	thlg	22115
+鼻	thlj	22114
 劓	thlj	22114
-鼻	thlj	22113
+#鼻	thlj	22113
 鼽	thlv	22112
 延	thnp	22111
 #息	thnu	22110
@@ -15672,7 +15749,7 @@ txt	txt	21912
 衰	ykge	20968
 衷	ykhe	20967
 谴	ykhp	20966
-襄	ykke	20965
+#襄	ykke	20965
 谔	ykkn	20964
 瓤	ykky	20963
 识	ykwy	20962
@@ -26245,7 +26322,7 @@ ktv	ktv	12499
 庴	oajd	10411
 糢	oajd	10410
 㷬	oajd	10409
-焟	oajg	10408
+焟	oaj	10408
 爡	oajj	10407
 燤	oajy	10406
 䊪	oajy	10405
@@ -26733,6 +26810,8 @@ ktv	ktv	12499
 䜆	ossy	9923
 爩	oste	9922
 庲	osww	9921
+床	os
+床	osy	9920
 炑	osy	9920
 烳	osy	9919
 䊇	osy	9918
@@ -31643,6 +31722,7 @@ pdf	pdf	9632
 劮	tget	5020
 稏	tgfg	5019
 䄨	tgfh	5018
+生	tgg	5017
 彺	tgg	5017
 簮	tggj	5016
 䣃	tghb	5015
@@ -32781,7 +32861,7 @@ Tue	tue	4303
 痮	udei	3891
 㓈	udg	3890
 䇉	udg	3889
-羬	udgk	3888
+羬	udg	3888
 㓕	udgo	3887
 瘈	udhd	3886
 䦬	udhd	3885
@@ -34780,7 +34860,7 @@ Tue	tue	4303
 餀	wvar	1895
 䭎	wvas	1894
 䭟	wvas	1893
-饊	wvat	1892
+饊	wva	1892
 餝	wvay	1891
 餌	wvbg	1890
 邠	wvbh	1889
@@ -36195,7 +36275,7 @@ Tue	tue	4303
 諝	ynhe	480
 谞	ynhe	479
 䚼	ynhg	478
-訆	ynhh	477
+訆	ynh	477
 扂	ynhk	476
 䛝	ynhm	475
 㐧	ynht	474
@@ -37113,7 +37193,6 @@ dual	dual
 back	back
 black	blak
 never	nevr
-Web	web
 hevc	hevc
 english	enli
 kill	kill
@@ -37725,3 +37804,20 @@ email	eml
 shock	chok
 titan	titn
 attack	attk
+bach	bach
+select	sect
+SELECT	sel
+FROM	fro
+SELECT * FROM 	sefr
+system	syst
+Scrum	scru
+build	buil
+sprint	sprt
+BDUF	bduf
+backlog	balo
+case	case
+scenario	scri
+interaction	inac
+use case	usca
+checklist	chli
+arguing	argi
