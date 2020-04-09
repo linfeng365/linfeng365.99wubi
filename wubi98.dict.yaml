@@ -20,8 +20,120 @@ encoder:
 ##多写动词,然后是名词,抽象的名词。
 ...
 
-
-
+巧妙
+标记
+自尊
+文笔
+困局
+孤单
+二个
+退出
+了解	bqev
+交响
+失焦
+奖励
+裂变
+志华
+录入
+一周	gmfk
+蒜头
+笃定
+初衷
+变现
+仅仅
+货币
+整体
+售罄
+估算
+职能
+备注
+扣减
+冲动
+一只
+一个
+办公
+过高
+过低
+过多
+过少
+融资
+估值
+研发	dgn
+周密
+细致
+慎密
+来生
+往来
+重发
+重来
+撤回
+贴吧
+推理
+风声
+地震
+发表
+症状
+浏览器
+最重
+最轻
+最老
+最旧
+最快
+最慢
+最新
+书籍
+行业
+黑夜	lfy
+大伙
+大王
+周日
+新冠
+阳性
+阴性
+隔离
+发热
+听从
+前往
+住院
+尊重
+zm	zm
+加载
+上传
+新建
+网盘
+手指
+打包
+无数
+谣言
+辟谣
+下级
+分销
+基数
+实惠
+沙发
+电商
+小婷
+文案	yyp
+声明
+美女
+shimo.im	simo
+歌曲
+冗余
+文豪
+诚信
+产业
+中介
+单纯
+覆盖
+颠覆
+共生
+打理
+找到
+互通
+现金
+详情
+幕布
+眼前
 鸡蛋
 拿手
 推迟
@@ -34,7 +146,6 @@ encoder:
 前景
 众筹
 监测
-幕布
 存档
 永久
 职责
@@ -144,7 +255,7 @@ guanjj	gjj
 会话
 外部
 深夜
-征信
+#征信
 缘故
 缘由
 原由
@@ -937,7 +1048,6 @@ macOS	mos
 运行
 解锁
 献	fmd
-穷人
 骄傲
 官方
 解放
@@ -1516,8 +1626,8 @@ Jahwan0	jahw
 家长
 也要
 设备
-宿命
-冗余	pwwf
+穷人	pwww
+宿命	pww
 余	wfs
 越狱
 回去
@@ -1582,7 +1692,6 @@ Jahwan0	jahw
 零食
 玩耍
 滑头
-尊重
 双方
 翻书
 规定
@@ -1710,7 +1819,6 @@ Jahwan0	jahw
 个人	whww
 动员
 机核
-裙子	pub
 待下
 谷物
 香氛
@@ -2000,7 +2108,6 @@ Jahwan0	jahw
 巨人
 巨型
 巨大
-巨	an
 组合
 微单
 模糊
@@ -2168,7 +2275,7 @@ Jahwan0	jahw
 收拾
 至少
 周围
-评议
+#评议
 能技
 切磋
 般若
@@ -2563,7 +2670,6 @@ but	but
 抓狂
 书写
 固定
-宿命
 游泳
 命运
 预防
@@ -2607,7 +2713,7 @@ take it easy	ties
 ishanshan	isha
 提高
 其中
-倾向
+倾向	wxt
 中国银行中山东苑路支行 4563517003050527848 林峰	lfyh
 flow u heart	fluh	#英文
 shortcuts	shcu	#英文
@@ -2762,7 +2868,6 @@ to	to
 志平
 cheyenne	chey
 #http://amazon.cn/	amco
-路演
 人际
 生涯
 构建
@@ -3063,7 +3168,7 @@ list	list
 🥺	aapf	# Pleading Face
 😭	aacy	# cry
 😳	aaop	# face with wide open eyes
-😯	aaoo	# oo
+😯	aao	# oo
 🙀	aamg	# my god
 😨	aahe	# 
 😡	aaqi
@@ -3093,8 +3198,8 @@ list	list
 ☣	aabh	# Biohazard 
 ♾	aaif	# Infinity
 ♻	aarc	# Recycling Symbol
-✔	aari	# Check Mark / right mark
-✖	aawm	# Multiplication Sign /wrong mark
+✔	aarr	# Check Mark / right mark
+✖	aaww	# Multiplication Sign /wrong mark
 🦋	aabf	# Butterfly
 ⭐	aast	# Star
 📚	aabk	# Books
@@ -3102,15 +3207,23 @@ list	list
 🧬	aadn	# DNA
 ✉	aaem	# Envelope
 💌	aall	# Love Letter
-🔥	aafi	# Fire
+©	aacr	# Copyright
+®	aare	# Registered
+™	aatm	# Trade Mark
 ⚡	aaln	# lightning
 ❤️⚡	aaya	# yong ai
+🔥	aafi	# Fire
 🌧	aar	# rain
 ☀	aasu
 ☁	aacl
 🌟	aass
 🔆	aasu
 🌙	aamo	# Crescent Moon
+# ✅ Check Mark Button
+# ☑ Check Box with Check
+# ✔ Check Mark
+❌	aaxx	# Cross Mark
+⭕	aaoo	# Hollow Red Circle
 # ⛅ Sun Behind Cloud
 # ⛈ Cloud with Lightning and Rain
 # 🌤 Sun Behind Small Cloud
@@ -3150,6 +3263,8 @@ list	list
 [挖鼻]	aawb
 [奸笑]	aajx
 [难过]	aang
+[快哭了]	aaku
+[流泪]	aall
 [调皮]	aatp
 [太阳]	aaty
 [月亮]	aaye
@@ -3368,6 +3483,7 @@ Mojave 10.14	moja
 美音
 英音
 积木
+积木	tkss
 在乎
 彻	tav	40321
 此处
@@ -3398,8 +3514,6 @@ Mojave 10.14	moja
 收文
 公告
 会议	
-out
-out 	out
 善	uuk	40321
 去	fc	40320
 云	fc	40319
@@ -3535,19 +3649,18 @@ review	revw
 只管	kwtp
 加上	ekhh
 相互	shgx
-Page	page
 环境	gdfu
 愉快	nwnn
 出品
 水彩
 一会
-血液	tliy
+血液	tli
 达到
 星期
 要的
-打扰	rsrd
+打扰
 我是
-干净	fguq
+干净
 一种
 忽视
 便利
@@ -3875,7 +3988,6 @@ linfeng82@qq.com	lfyx
 这时	ypjf
 这里	ypjd	#重码
 这里	ypj
-黑夜	lfyw
 天气	gdrt
 备份	tlww
 性格	ntst
@@ -3917,7 +4029,6 @@ linfeng82@qq.com	lfyx
 #~生	tg
 自	th
 #~去	fc	40126
-二	fg
 作	wth
 值	wf
 键	qvg
@@ -4037,7 +4148,8 @@ book	book
 #同	mg
 赋	mg
 是	jg
-一	gg
+#王	gg
+#一	gg
 产	ut
 和	tk
 换	rqm	40120
@@ -4316,48 +4428,48 @@ URL	url
 和宝	tkpg
 完美	pfug
 #日	jj	40042
-万物	gqcq
-起源	fhid
-动物	fccq
-未知	fgtd
-未来	fggu
-大学	ddip
-可惜	skna
-文档	yysi
-画画	glgl
-漫画	ijgl
+万物
+起源
+动物
+未知
+未来
+大学
+可惜
+文档
+画画
+漫画
 凯雯	mnfy	#2017-12-31	
-同学	mgip
-小猫	ihqt
-小狗	ihqt
-无价	fqww
-财富	mfpg
-扫地	rvfb
-这个	ypwh
-那个	ngwh
+同学
+小猫
+小狗
+无价
+财富
+扫地
+这个
+那个
 哪个?	knwh	
-隐藏	bqaa
-宝藏	pgaa
-收藏	nhaa
-搜集	rewy
-那样	ngsu
-哪样	knsu
-这样	ypsu
+隐藏
+宝藏
+收藏
+搜集
+那样
+哪样
+这样
 就这样	yiys
-评论	ygyw
-评价	ygww
-新年	ustg
-赞成	tfdn
-反对	rccf
-全部	wguk
-版本	thsg
+评论
+评价
+新年
+赞成
+反对
+全部
+版本
 生活
-矢去	tdfc
-力量	enjg
-吞噬	gdkt
+矢去
+力量
+吞噬
 杀伤力	rwen
-杀伤	rswt
-慢慢	njnj
+杀伤
+慢慢
 #快快	nnnn	40041
 忆	nnnn
 #乙	nnnn
@@ -4689,8 +4801,8 @@ URL	url
 首页	utdm
 互联网	gbmr
 
-浏览	iyjt
-公司	wcng
+浏览
+公司
 比特币	xctm
 区块链	afql
 
@@ -4747,7 +4859,7 @@ URL	url
 回事	lkgk
 回合	lkwg
 哲学	rrip
-人生
+人生	wwtg
 没有	iwde
 
 成功	dnae
@@ -5003,7 +5115,7 @@ el	el	31739
 天	gd	31697
 表	ge	31696
 于	gf	31695
-#~五	gg	31694
+五	gg	31694
 下	gh	31693
 求	gi	31692
 理	gj	31691
@@ -5059,7 +5171,7 @@ el	el	31739
 溃	ik	31641
 渐	il	31640
 油	im	31639
-汤	in	31638
+#汤	in	31638
 in	in	31638
 沁	in	31638
 渡	io	31637
@@ -5100,7 +5212,7 @@ is	is	31633
 归	jv	31605
 蛤	jw	31604
 昆	jx	31603
-影	jy	31602
+#影	jy	31602
 呀	ka	31601
 啊	kb	31600
 吧	kc	31599
@@ -5208,7 +5320,8 @@ my	my	31529
 粑	oc
 类	od	31500
 粗	oe	31499
-庄	of	31498
+of	of	31498
+#庄	of	31498
 精	og	31497
 业	oh	31496
 应	oi	31495
@@ -5220,7 +5333,7 @@ my	my	31529
 炎	oo	31489
 迷	op	31488
 底	oq	31487
-粕	or	31486
+#粕	or	31486
 #~床	os	31485
 庭	ot	31484
 粒	ou	31483
@@ -5353,7 +5466,7 @@ my	my	31529
 身	tm	31367
 #~乐	tn	31366
 乞	tn
-秋	to	31365
+#秋	to	31365
 乏	tp	31364
 稳	tq	31363
 #~稀	tr	31362
@@ -5799,7 +5912,7 @@ API	api	31101
 阡	btf	30938
 隆	btg	30937
 阼	bth	30936
-联	bug
+#联	bug
 #联	bud	30935
 隧	bue	30934
 障	buj	30933
@@ -5902,6 +6015,7 @@ DATABASE	dat	30865
 鬃	dep	30842
 鹕	deq	30841
 鬈	deu	30840
+dev	dev	30839
 髫	dev	30839
 髹	dew	30838
 奔	dfa	30837
@@ -6184,6 +6298,7 @@ Family	fam	30584
 塬	fdr	30565
 堪	fdw	30564
 垅	fdx	30563
+Feed	fee
 堋	fee	30562
 埒	fef	30561
 霾	fej	30560
@@ -6644,7 +6759,7 @@ Family	fam	30584
 泯	ina	30110
 潺	inb	30109
 漏	inf	30108
-渥	ing	30107
+#渥	ing	30107
 湄	inh	30106
 涮	inm	30105
 汤	inr	30104
@@ -6982,7 +7097,7 @@ Family	fam	30584
 跬	khf	29775
 践	khg	29774
 趾	khh	29773
-中学	khi	29772
+中学	khip	29772
 踏	khi	29772
 踢	khj	29771
 躁	khk	29770
@@ -7387,7 +7502,8 @@ Method	met
 悒	nkc	29379
 忡	nkh	29378
 愕	nkk	29377
-臂	nku	29376
+辟	nku	29376
+#臂	nku	29376
 翼	nla	29375
 惭	nlr	29374
 悃	nls	29373
@@ -7537,6 +7653,7 @@ NULL	nul	29322
 炊	oqw	29233
 灼	oqy	29232
 烯	ord	29231
+org	org	29230
 煌	org	29230
 庳	ort	29229
 麻	oss	29228
@@ -7634,7 +7751,9 @@ NULL	nul	29322
 #额	ptk	29138
 客	ptk	29137
 褡	pua	29136
-被	pub	29135
+pub	pub	29135
+裙子	pub	29135
+#被	pub	29135
 裰	puc	29134
 褥	pud	29133
 实	pud	29132
@@ -8111,6 +8230,7 @@ NULL	nul	29322
 槿	sak	28667
 横	sam	28666
 柜	san	28665
+SAP	sap	28664
 檬	sap	28664
 柩	saq	28663
 枢	sar	28662
@@ -8134,6 +8254,7 @@ NULL	nul	29322
 栊	sdx	28644
 杖	sdy	28643
 桴	seb	28642
+see	see	28641
 棚	see	28641
 枷	sek	28640
 鄄	sfb	28639
@@ -8293,6 +8414,7 @@ NULL	nul	29322
 杭	syw	28488
 #筇	tab	28487
 箬	tad	28486
+tag	tag	28485
 筐	tag	28485
 篚	tah	28484
 簧	tam	28483
@@ -8472,6 +8594,7 @@ NULL	nul	29322
 符	twf	28316
 徐	twg	28315
 筱	twh	28314
+Twitter	twit	28313
 黍	twi	28313
 篌	twn	28312
 稚	twy	28311
@@ -8552,8 +8675,9 @@ NULL	nul	29322
 羲	ugt	28243
 羡	ugu	28242
 券	ufwv
+券	ugvt
 姜	ugv	28241
-券	ugv	28241
+#券	ugv	28241
 冱	ugx	28240
 誊	ugy	28239
 痱	uhd	28238
@@ -9273,7 +9397,8 @@ Web	web	28013
 贡	amu	27530
 艺	anb	27529
 芑	anb	27528
-巨	and	27527
+巨	ang	27527
+#巨	and	27527
 芯	anu	27526
 世	anv	27525
 芝	apu	27524
@@ -9447,8 +9572,10 @@ def	def	27449
 #圭	fff	27378
 坩	ffg	27377
 寺	ffu	27376
+十	fg	27375
 二	fgg	27375
-十	fgh	27374
+雨	fgh	27374
+#十	fgh	27374
 #直	fhf	27373
 直	fh
 址	fhg	27372
@@ -9768,6 +9895,7 @@ def	def	27449
 炻	odg	27087
 庆	odi	27086
 类	odu	27085
+庄	ofg	27084
 庄	ofd	27084
 灶	ofg	27083
 黹	oiu	27082
@@ -11324,10 +11452,10 @@ del	del	26006
 未	fggy	25588
 士	fghg	25587
 #甘	fghg	25586
-雨	fg
-雨	fghy	25585
-寸	fg
-#寸	fghy	25584
+#雨	fg
+#雨	fghy	25585
+#寸	fg
+寸	fghy	25584
 垣	fgjg	25583
 埂	fgjr	25582
 塥	fgkh	25581
@@ -13145,7 +13273,7 @@ ing	ingf	24907
 忡	nkhh	23782
 愦	nkhm	23781
 愕	nkkn	23780
-襞	nkue	23779
+襞	nku	23779
 臂	nkue	23778
 壁	nkuf	23777
 辟	nkuh	23776
@@ -14352,7 +14480,7 @@ put	put	23396
 揆	rwgd	22589
 拴	rwgg	22588
 捡	rwgg	22587
-揄	rwgj	22586
+揄	rwg	22586
 拾	rwgk	22585
 搿	rwgr	22584
 氛	rwve	22583
@@ -14387,6 +14515,7 @@ put	put	23396
 氦	rynw	22554
 邀	rytp	22553
 敫	ryty	22552
+摘	ryum	22551
 摘	ryud	22551
 抗	rywn	22550
 掖	rywy	22549
@@ -15147,8 +15276,9 @@ txt	txt	21912
 瘗	uguf	21809
 羡	uguw	21808
 姜	ugvf	21807
-券	ugvr	21806
-凄	ugvv	21805
+#券	ugvr	21806
+凄	ugvh	21805
+#凄	ugvv	21805
 冱	ugxg	21804
 痍	ugxw	21803
 誊	ugyf	21802
@@ -18135,7 +18265,7 @@ BEGIN	beg	19386
 䮷	colj	18838
 騦	coln	18837
 䮫	colv	18836
-駚	comd	18835
+駚	com	18835
 䮩	comf	18834
 䮗	comf	18833
 駎	comg	18832
@@ -20095,7 +20225,7 @@ Error	err	17424
 趖	fhwf	16884
 䞩	fhwk	16883
 䞱	fhwk	16882
-顛	fhwm	16881
+顛	fhw	16881
 赺	fhwn	16880
 趝	fhwn	16879
 㙈	fhwn	16878
@@ -20308,7 +20438,7 @@ Error	err	17424
 䬠	fnuh	16671
 亐	fnv	16670
 㘲	fnvn	16669
-聲	fnwb	16668
+聲	fnw	16668
 殸	fnwc	16667
 㲆	fnwc	16666
 漀	fnwi	16665
@@ -20889,7 +21019,7 @@ Error	err	17424
 鶄	geqo	16090
 䝈	gerb	16089
 豨	gerh	16088
-靔	gern	16087
+靔	ger	16087
 靝	gero	16086
 豧	gesy	16085
 get	get	16084
@@ -20931,6 +21061,7 @@ get	get	16084
 㼀	gfup	16049
 珷	ggay	16048
 玗	ggf	16047
+王	ggg	16046
 玨	ggg	16046
 	ggg	16045 #(ggg)
 瓉	gggm	16044
@@ -21180,7 +21311,7 @@ get	get	16084
 玚	gnrt	15800
 珌	gntt	15799
 攷	gnty	15798
-忢	gnu	15797
+忢	gny	15797
 丂	gnv	15796
 璆	gnwe	15795
 玦	gnwy	15794
@@ -21245,7 +21376,7 @@ get	get	16084
 㱜	gqhy	15735
 珎	gqiy	15734
 䶛	gqjb	15733
-劽	gqje	15732
+劽	gqj	15732
 珣	gqjg	15731
 䴕	gqjg	15730
 㡂	gqjh	15729
@@ -25809,7 +25940,8 @@ method	metd
 屶	mvr	11181
 峮	mvtk	11180
 㟒	mvtk	11179
-峎	mv	11178
+mv	mv	11178
+峎	mvy	11178
 岃	mvyu	11177
 屻	mvyy	11176
 嵡	mwcn	11175
@@ -26401,7 +26533,7 @@ my	myy	11088
 悎	ntfk	10593
 㦫	ntfm	10592
 慥	ntfp	10591
-慟	ntge	10590
+慟	ntg	10590
 屛	ntg	10589
 憮	ntgo	10588
 㤚	ntgs	10587
@@ -27574,7 +27706,7 @@ pdf	pdf	9632
 䘭	pugf	9424
 䙊	pugh	9423
 䙐	pugh	9422
-褿	pugj	9421
+褿	pug	9421
 褔	pugl	9420
 襀	pug	9419	#-
 襧	pugr	9418
@@ -27757,7 +27889,7 @@ pdf	pdf	9632
 䘹	puyf	9241
 襢	puyg	9240
 褅	puyh	9239
-裗	puyk	9238
+裗	puy	9238
 䙒	puyl	9237
 䘪	puyq	9236
 袨	puyx	9235
@@ -30962,7 +31094,7 @@ set	set	6284
 槕	shjs	6040
 枮	shkg	6039
 㯭	shle	6038
-櫨	shll	6037
+櫨	shl	6037
 櫖	shln	6036
 樐	shlo	6035
 楨	shmy	6034
@@ -32139,7 +32271,7 @@ SSH	ssh	5695
 䫵	thpm	4876
 邉	thpp	4875
 邊	thpp	4874
-臱	thpy	4873
+臱	thp	4873
 筧	thqb	4872
 䅐	thqn	4871
 臲	thsb	4870
@@ -34538,7 +34670,7 @@ Tue	tue	4303
 傆	wdri	2490
 傸	wdrr	2489
 㑸	wdsk	2488
-儮	wdth	2487
+儮	wdt	2487
 傄	wduh	2486
 偆	wdwj	2485
 偡	wdwn	2484
@@ -35238,7 +35370,7 @@ Tue	tue	4303
 䭢	wvps	1792
 飹	wvqb	1791
 餡	wvq	1790
-餆	wvqi	1789
+餆	wvq	1789
 䬲	wvq	1788	#-
 䭇	wvq	1787	#-
 餾	wvql	1786
@@ -35387,7 +35519,7 @@ Tue	tue	4303
 㫺	wwwj	1643
 㐺	www	1642
 仈	wwy	1641
-㑺	wwyb	1640
+㑺	wwy	1640
 倠	wwyg	1639
 傖	wwyk	1638
 僋	wwym	1637
@@ -35413,7 +35545,7 @@ Tue	tue	4303
 㒟	wyce	1617
 鸰	wycg	1616
 刢	wycj	1615
-領	wycm	1614
+領	wyc	1614
 鴒	wyco	1613
 隻	wycu	1612
 顀	wydm	1611
@@ -35425,8 +35557,8 @@ Tue	tue	4303
 傠	wyfy	1605
 雋	wyh	1604	#-
 倞	wyiy	1603
-儕	wyjg	1602
-㑪	wyjg	1601
+儕	wyj	1602
+㑪	wyj	1601
 儴	wyke	1600
 儃	wylg	1599
 傐	wymk	1598
@@ -35665,7 +35797,7 @@ Tue	tue	4303
 繬	xfwk	1365
 綾	xfwt	1364
 紂	xfy	1363
-純	xgb	1362
+純	xg	1362
 絰	xgcf	1361
 绖	xgcf	1360
 緻	xgct	1359
@@ -36278,7 +36410,7 @@ Tue	tue	4303
 䜍	ydui	752
 諶	ydwn	751
 䛟	ydww	750
-諆	ydwy	749
+諆	ydw	749
 䛋	ydy	748
 譭	yeac	747
 䛼	yeag	746
@@ -37008,10 +37140,13 @@ Tue	tue	4303
 #~戈	a	25
 子	b	24
 又	c	23
-大	d	22
+三	d	22
+#大	d	22
 月	e	21
-土	f	20
-王	g	19
+二	f	20
+#土	f	20
+一	g	19
+#王	g	19
 目	h	18
 #不	i	17
 水	i	17
@@ -37116,7 +37251,7 @@ when	when
 how	howw
 refer	refr
 tips	tips
-uniqlo	uniq
+uniqlo	unql
 hold	hold
 done	done
 DONE as good!	bedn
@@ -37459,7 +37594,6 @@ pip	pip
 PDCA	pdca
 dual	dual
 back	back
-black	blak
 never	nevr
 hevc	hevc
 english	enli
@@ -37521,7 +37655,7 @@ alpha	alph
 south	soth
 park	park
 fade	fade
-victory	vity
+victory	vitr
 idea	idea
 cancel	canl
 apart	apart
@@ -37543,7 +37677,7 @@ enroll	enro
 testing	tein
 meet	meet
 meeting	meti
-linux	linx
+Linux	linx
 torvalds	torv
 RMS	rms
 GNU	gnu
@@ -37740,7 +37874,7 @@ eve	eve
 table	tabl
 concept	coce
 hour	hour
-hours	hous
+house	hous
 shop	shop
 clean	clen
 run	run
@@ -37772,7 +37906,6 @@ between	betw
 be	be
 much	much
 past	past
-see	see
 s	s
 ed	ed
 every	evey
@@ -37788,7 +37921,6 @@ people	peol
 business	busi
 journey	jour
 flow	flow
-different	difr
 there	ther
 career	carr	#事业
 which	whic
@@ -37820,7 +37952,6 @@ inbox	inbo
 mtv	mtv
 pause	paus
 resume	resu
-story	stor
 avail	avai
 able	able
 available	avab
@@ -37839,7 +37970,8 @@ turn	turn
 logo	logo
 copy	copy
 paste	past
-status	stat
+start	stat
+status	stau
 weekend	ween
 inspire	insp
 inspired	insd
@@ -38049,10 +38181,10 @@ forever foev
 David	davi
 important	impt
 mirror	mirr
-black	blac
 mind	mind
 forever	foev
 mubu	mubu
+mubu.com	mub
 vpn	vpn
 link	link
 ink	ink
@@ -38060,7 +38192,7 @@ clash	clah
 css	css
 SARS	sars
 swift	swft
-grounds	grod
+ground	grou
 SIM	sim
 inbox	inb
 bird	bird
@@ -38187,7 +38319,8 @@ curated	cuat
 awesome	awsm
 relate	rela
 stack	stak
-previous	prev
+previous	prvi
+preview	prev
 discard	disc
 foot	foot
 footer	fotr
@@ -38201,7 +38334,7 @@ object	objt
 freeze	frze
 report	repo
 array	arry
-Of	of
+#Of	of
 Num	num
 bool	bool
 XML	xml
@@ -38235,7 +38368,6 @@ removeChild	rmch
 document.createElement	dcel
 checked	ched
 password	pawo
-hidden	hide
 value	vaue
 radio	raio
 label	labl
@@ -38264,7 +38396,7 @@ underscore	unsc
 math	math
 sqrt	sqrt
 filter	fitr
-recommend	reco
+recommend	recd
 user	user
 last	last
 latest	last
@@ -38285,6 +38417,7 @@ size	size
 sample	sapl
 stdin	stin
 stdout	stou
+stderr	ster
 STDIN	stin
 STDOUT	stot
 chunk	chuk
@@ -38346,8 +38479,6 @@ whatPulse	whpu
 hang on	haon
 hang	hang
 ago	ago
-fetch	feth
-branch	brah
 video	vido
 zoom	zoom
 PPT	pptt
@@ -38356,7 +38487,7 @@ career	carr
 faith	fait
 bind	bind
 join	join
-reverse	rese
+reverse	revs
 seen	seen
 href	href
 textarea	tear
@@ -38482,3 +38613,184 @@ expression	exps
 legacy	legc
 single	sigl
 idle	idle
+deep	deep
+DeepMind	demi
+AlphaGo	algo
+network	newo
+COVID-19	cov
+MongoDB	mgdb
+Xnip	xnip
+mobi	mobi
+Elon Musk	elmu
+feed	feed
+tree	tree
+offer	offr
+MIT	mit
+Red Hat	reha
+visual	visu
+studio	stdi
+Android	andr
+down	down
+merge	merg
+reset	rese
+port	port
+checkout	chou
+out	out
+rebase	reba
+diff	diff
+branch	brch
+bisect	bise
+bisect	bict
+fix	fix
+git	git
+fetch	feth
+branch	brah
+grep	grep
+also	also
+tutorial	tuto
+tutorial	tutr
+these	thes
+these	thee
+commands	comd
+various	vars
+situation	sitt
+start	strt
+mine	mine
+exist	exst
+existing	exti
+initialize	inil
+reinitialize	rein
+specify	spcf
+specified	spcd
+examine	exmi
+history	hist
+FFmpeg	ffmp
+cheap	chap
+fast	fast
+Learn	lean
+blank	blnk
+black	blck
+bank	bank
+sup	sup
+repository	re
+grow	grow
+collaborate	coll
+another	anot
+together	toge
+rename	rena
+HEA	hea
+tree	tre
+match	matc
+help	help
+sign	sign
+verify	veri
+integrate	ingr
+along	alon
+build	buid
+built	buit
+built-in	buin
+across	acro
+through	thro
+weight	weht
+lish	lish
+publish	pubs
+public	pubc
+logic	logi
+sound	soud
+group	grup
+group	grop
+Terminal	term
+Unix	unix
+many	many
+ing	ing
+bin	bin
+media	medi
+mut	mut
+opt	opt
+proc	proc
+abbr	abbr
+sbin	sbin
+tmp	tmp
+usr	usrr
+lib	lib
+cp	cp
+mkdir	mkdi
+mk	mk
+symbolic	symb
+playground	plgr
+Linus	lins
+Page	page
+norms	norm
+architecture	artu
+market	makt
+verbose	vebo
+dir	dir
+features	fetu
+manual	manu
+alias	alas
+shell	shll
+Bash	bas
+bash	bash
+cat	cat
+sort	sort
+uniq	uniq
+wc	wc
+tail	tail
+tee	tee
+I/O	io
+echo	echo
+blink	blin
+tray	tray
+icon	icon
+pretty	pret
+slick	slck
+example	exap
+chown	chow
+chmod	chmo
+improved	impv
+format	foma
+differ	dife
+different	dift
+difference	difn
+Navigation	navg
+pulse	puls
+lower	lowe
+normal	norl
+average	avag
+RescueTime	reti
+rescue	resc
+major	majo
+each	each
+giving	givi
+understanding	unds
+meaningful	mefu
+doing	doin
+meaning	mein
+both	both
+GNOME	gnomv 
+known	knon
+unknown	unkn
+post	post
+description	dect
+campaign	capa
+Bernie Sanders	besa
+hide	hide
+hidden	hidd
+hiding	hidi
+extension	exts
+BREAKING	brei
+breaking	brki
+master	mast
+after	afte
+portable	pota
+distribution	disb
+corp	corp
+CentOS	ceos
+source	soue
+execute	exet
+total	totl
+touch	touh
+staff	staf
+VMware	vmwa
+
+
