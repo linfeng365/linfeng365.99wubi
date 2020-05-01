@@ -21,6 +21,35 @@ encoder:
 ...
 
 
+地狱
+天堂
+罔顾
+企图
+推卸
+计数
+查找
+已停
+美元
+耽误
+效力
+具有
+天地
+顺风
+讥讽
+中期
+特色
+家具
+家电
+家政
+建材
+房产
+业主
+堪称
+自责
+网页
+按钮
+折扣
+今朝
 处事
 上去
 减免
@@ -1936,7 +1965,6 @@ Jahwan0	jahw
 招聘
 直聘
 观音
-立项
 冲刺
 回应
 打断
@@ -2993,9 +3021,7 @@ douban.com	doub
 差	uad	57136
 文	yy	57135
 冗	pwn	57134
-短期	tddw	57133
-乔布斯	tddw	57132
-自欺欺人	tddw	57131
+短期
 全局
 first	firs
 first	firt
@@ -4860,9 +4886,9 @@ url	url
 矢去	tdfc
 艰难	cvcw
 给予	xwcb
-承认	bdyw
-承诺	bdya
-承担	bdrj
+承认
+承诺
+承担
 
 
 效果	urjs
@@ -9748,8 +9774,8 @@ def	def	27449
 雨	fgh	27374
 #十	fgh	27374
 #直	fhf	27373
-直	fh
-址	fhg	27372
+址	fhgg
+#址	fhg	27372
 走	fhu	27371
 示	fiu	27370
 刊	fjh	27369
@@ -11643,6 +11669,7 @@ del	del	26006
 趄	fheg	25575
 #矗	fhfh	25574
 赶	fhfk	25573
+直	fhg	25572
 趔	fhg	25572
 赴	fhhi	25571
 趟	fhik	25570
@@ -12777,7 +12804,7 @@ ing	ingf	24907
 嘹	kdui	24452
 噘	kduw	24451
 唪	kdw	24450
-嘶	kdwr	24449
+#嘶	kdwr	24449
 嗪	kdwt	24448
 咙	kdxy	24447
 呔	kdyy	24446
@@ -12849,7 +12876,7 @@ ing	ingf	24907
 蹰	khdf	24382
 跖	khdg	24381
 跨	khdn	24380
-蹶	khdw	24379
+蹶	khd	24379
 跋	khdy	24378
 蹊	khed	24377
 蹈	khee	24376
@@ -13486,7 +13513,7 @@ ing	ingf	24907
 局	nnkd	23747
 乙	nnll	23746
 #~已	nnnn	23745
-快	nnwy	23744
+#快	nnwy	23744
 怩	nnxn	23743
 #羽	nnyg	23742
 惦	nohk	23741
@@ -21116,7 +21143,7 @@ Error	err	17424
 㻟	gdae	16172
 珛	gdeg	16171
 瓇	gdet	16170
-郉	gdfb	16169
+郉	gdf	16169
 幵	gdf	16168
 栞	gdfs	16167
 珬	gdgg	16166
@@ -22841,7 +22868,7 @@ get	get	16084
 灔	imac	14451
 㵹	imad	14450
 濃	imae	14449
-浀	imag	14448
+浀	ima	14448
 灎	imal	14447
 淟	imaw	14446
 䣔	imbh	14445
@@ -22904,7 +22931,7 @@ get	get	16084
 漝	inrg	14388
 湉	intd	14387
 㳴	intf	14386
-㴵	intl	14385
+㴵	int	14385
 㶜	inuj	14384
 泦	invn	14383
 漻	inwe	14382
@@ -24294,7 +24321,7 @@ get	get	16084
 踦	khdk	13000
 踸	khdn	12999
 跶	khdp	12998
-踑	khdw	12997
+踑	khd	12997
 䠛	kheb	12996
 䟹	khef	12995
 跀	kheg	12994
@@ -27717,8 +27744,8 @@ pdf	pdf	9632
 㝟	pghq	9592
 䚔	pghq	9591
 䨈	pghy	9590
-寭	pgjn	9589
-翧	pgjn	9588
+寭	pgj	9589
+翧	pgj	9588
 䳦	pgjo	9587
 冨	pgkl	9586
 憲	pgln	9585
@@ -30485,7 +30512,7 @@ pdf	pdf	9632
 㨸	rpnm	6826
 擰	rpns	6825
 捥	rpqb	6824
-抌	rpqn	6823
+抌	rpq	6823
 㧲	rpsy	6822
 挓	rpta	6821
 揢	rptk	6820
@@ -32401,7 +32428,7 @@ SSH	ssh	5695
 牏	thg	4925	#-
 㸟	thg	4924	#-
 牊	thg	4923
-牘	thgm	4922
+牘	thg	4922
 牎	thgn	4921
 牕	thgn	4920
 㸞	thgn	4919
@@ -39080,3 +39107,21 @@ shoulder	shde
 Tor	tor
 feat	feat
 hangout	haou
+xxx	xxx
+abcd	abcd
+abc	abc
+keywords	kewo
+image	imag
+FAQ	faq
+useful	usfu
+png	png
+excel	exl
+Debian	debi
+intel	intl
+cdr	cdr
+mp.weixin.qq.com	mpwx
+fanfou.com	fanf
+count	cout
+OSX	osx
+baidu	badu
+draft	draft
