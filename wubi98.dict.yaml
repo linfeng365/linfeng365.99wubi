@@ -21,6 +21,36 @@ encoder:
 ...
 
 
+顾问
+观点
+提出
+抱歉
+浮生
+取巧
+双份
+诗人
+期刊
+遵守
+豪庭
+永恒
+剧情
+藏书
+财产
+增值
+不知
+真假
+僵持
+狡猾
+狡兔
+三窟
+拯救
+成交
+以及
+再起
+东山
+创始
+否决
+生气
 地狱
 天堂
 罔顾
@@ -1413,7 +1443,6 @@ Jahwan0	jahw
 要点
 境界
 剩余
-岳	rthm
 伍佰
 高原
 你决定	wqup
@@ -3331,7 +3360,8 @@ list	list
 😴	aasf	# sleeping face
 😴	aazz	# sleeping face
 👀	aaey	# eyes
-🙏🏻	aafh	# Folded Hands: Light Skin Tone
+🙏🏻	aafh	# Folded Hands: Light Skin
+💪🏻	aagl	#
 ☹️	aanh	# not happy ☹️😒😭😳😱
 😒	aaua	# unamused face  (不愉快)
 🥺	aapf	# Pleading Face
@@ -3361,6 +3391,7 @@ list	list
 💔	aabh	# Broken Heart
 💢	aaag	# Anger Symbol
 💤	aaz	# Zzz
+/:pig	aazu
 🚾	aawc	# Water Closet
 🔞	aaet	# No One Under Eighteen
 ☢	aara	# Radioactive
@@ -3430,6 +3461,7 @@ list	list
 [拥抱]	aabb
 [拥抱]	aayb
 [抱拳]	aabq
+[抱拳]	aazy
 [挖鼻]	aawb
 [疑问]	aawh
 [奸笑]	aajx
@@ -5083,8 +5115,6 @@ url	url
 以为	cwye
 可以	skcw
 所以	rncw
-以	cwi
-以	cw
 #戔	aa
 #工	aa
 式	aa
@@ -6170,6 +6200,7 @@ DATABASE	dat	30865
 砌	dav	30864
 礤	daw	30863
 #硭	day	30862
+顾	db	30861
 顾	dbd	30861
 础	dbm	30860
 磉	dcc	30859
@@ -8306,7 +8337,8 @@ QRCode	qrc	28941
 撂	rlt	28777
 摞	rlx	28776
 揣	rmd	28775
-帛	rmh	28774
+帛	rmhh
+#帛	rmh	28774
 撄	rmm	28773
 皑	rmn	28772
 摧	rmw	28771
@@ -11547,6 +11579,7 @@ del	del	26006
 繇	etfi	25692
 遥	etfp	25691
 胜	etgg	25690
+用	et
 毛	et
 #毛	etgn	25689
 胙	ethf	25688
@@ -13591,7 +13624,9 @@ ing	ingf	24907
 尽	nyuu	23669
 悴	nywf	23668
 翠	nywf	23667
-以	nywy	23666
+以	cwi
+以	cw
+#以	nywy	23666
 度	oaci	23665
 廑	oakg	23664
 席	oamh	23663
@@ -15580,7 +15615,7 @@ txt	txt	21912
 酋	usgf	21712
 尊	usgf	21711
 遵	usgp	21710
-遒	usgp	21709
+遒	usg	21709
 疴	uskd	21708
 辣	usky	21707
 竦	usky	21706
@@ -15592,6 +15627,7 @@ txt	txt	21912
 凇	uswc	21700
 疾	utdi	21699
 痴	utdk	21698
+彦	utet
 彦	utee	21697
 颜	utem	21696
 冼	utfq	21695
@@ -15620,7 +15656,7 @@ txt	txt	21912
 立	uuuu	21672
 鹣	uvjg	21671
 歉	uvjw	21670
-兼	uvjw	21669
+#兼	uvjw	21669
 阀	uwai	21668
 疮	uwbv	21667
 疫	uwci	21666
@@ -20432,10 +20468,10 @@ Error	err	17424
 䞩	fhwk	16883
 䞱	fhwk	16882
 顛	fhw	16881
-赺	fhwn	16880
-趝	fhwn	16879
-㙈	fhwn	16878
-㥲	fhwn	16877
+赺	fhw	16880
+趝	fhw	16879
+㙈	fhw	16878
+㥲	fhw	16877
 趭	fhwo	16876
 鷏	fhwo	16875
 趓	fhws	16874
@@ -29718,7 +29754,7 @@ pdf	pdf	9632
 玀	qtly	7619
 鐭	qtmd	7618
 㹧	qtmd	7617
-㺜	qtme	7616
+㺜	qtm	7616
 㹨	qtmg	7615
 㹪	qtmg	7614
 鉓	qtmh	7613
@@ -30433,7 +30469,8 @@ pdf	pdf	9632
 挏	rmgk	6905
 皚	rmgu	6904
 㨟	rmgu	6903
-㧆	rmhh	6902
+岳	rmh	6902
+㧆	rmh	6902
 緜	rmhi	6901
 㩄	rmln	6900
 攖	rmmv	6899
@@ -31191,7 +31228,7 @@ set	set	6284
 㯊	sgho	6149
 槻	sghq	6148
 䤏	sghr	6147
-朩	sghy	6146
+朩	sgh	6146
 梂	sgiy	6145
 槫	sgjf	6144
 䤖	sgji	6143
@@ -37350,7 +37387,8 @@ Tue	tue	4303
 又	c	23
 三	d	22
 #大	d	22
-用	e	21
+毛	e	21
+#用	e	21
 #月	e	21
 二	f	20
 #土	f	20
@@ -38631,7 +38669,8 @@ STDIN	stin
 STDOUT	stot
 chunk	chuk
 buffer	bufr
-utf-8	utfn
+UTF-8	utfn
+UTF-8	utfb
 write	writ
 pipe	pipe
 Readable	reab
@@ -39125,3 +39164,6 @@ count	cout
 OSX	osx
 baidu	badu
 draft	draft
+avg	avg
+keycount	keco
+shame	sham
