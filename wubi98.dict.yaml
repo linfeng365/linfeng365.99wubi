@@ -21,6 +21,96 @@ encoder:
 ...
 
 
+自嘲
+破灭
+上边
+穷尽
+月光
+近况
+欢愉
+趁手
+适宜
+居中
+狂欢
+硕士
+博士
+放纵
+离线
+断言
+震惊
+虔诚
+教堂	fti
+故意
+联想
+情侣
+门店
+事项
+居民
+采矿
+周记
+撕裂
+不吝
+投资
+真赞
+真棒
+真好
+极具
+迷人	opww
+成就
+卓越
+艺人	anww
+王道
+专家
+磕头
+不吵
+极客
+超越
+追溯
+烂泥
+袭击
+榨干
+计量
+手工	rtaa
+科普
+重负
+社群
+备用
+活着
+高达
+火线
+纵横
+蝙蝠
+江景
+雄文
+小草
+潦草
+榜样
+咋办
+不停
+辗转
+之间
+用例
+用途
+用处
+禁用
+不用
+可用
+用于
+应用
+私用
+常用
+作用
+没用
+有用
+使用
+利用
+母语
+眩晕
+反驳
+采取
+激进
+胜利
+饭店
 顾问
 观点
 提出
@@ -117,7 +207,7 @@ encoder:
 签约
 概率
 大哥
-失误
+失焦
 年青
 windy	winy
 突出
@@ -358,14 +448,12 @@ shimo.im	simo
 包含
 嵌套
 布尔
-管家家	tppp
 管家
 羽毛
 排气
 选区
 选项
 交道
-guanjj	gjj
 外包
 思路
 顺手
@@ -522,7 +610,6 @@ http://www.chaiwubi.com/bmcx/?wz=	wb
 小的
 长的 tar
 短的
-用于
 少于
 集成
 前言	uey
@@ -577,7 +664,8 @@ http://www.chaiwubi.com/bmcx/?wz=	wb
 团队
 提交
 反光
-可用
+
+
 瀑布
 骨架
 预定
@@ -832,7 +920,6 @@ http://www.chaiwubi.com/bmcx/?wz=	wb
 不仅
 不止
 不只
-不用
 不对
 不够
 不同
@@ -922,7 +1009,6 @@ dangdang	dang
 附件
 毛巾
 预告
-不亚
 少女
 推动
 拨乱
@@ -937,8 +1023,8 @@ dangdang	dang
 报告
 步	hir
 失衡
-用爱	etep
-发电	ntjn
+用爱
+发电
 休闲
 自闭
 多种
@@ -1300,15 +1386,16 @@ macOS	mos
 生效
 图文
 防止
-禁用
 办理
 凭几
 倚靠
 倚仗
-仗	wdy
-仗	wdyi
-扙	rdyi
-杖	sdyi
+仗	wgr
+仗	wgry
+#仗	wdy
+#仗	wdyi
+#扙	rdyi
+#杖	sdyi
 长时
 短时
 持有
@@ -1454,7 +1541,6 @@ Jahwan0	jahw
 奢侈
 心智
 字符
-选中
 后退
 珍惜
 难受
@@ -2902,7 +2988,7 @@ take it easy	ties
 条件
 吞吐
 响应
-一起	ggfh
+一起	gfhn
 年级
 硅谷
 黑客
@@ -2973,7 +3059,7 @@ top	top
 以来
 应对
 语言	ygyy	57138
-一直	ggf	57137
+一直	gfhg	57137
 辣	usk	57136
 一直	ggfh
 毒辣
@@ -3361,6 +3447,7 @@ list	list
 😴	aazz	# sleeping face
 👀	aaey	# eyes
 🙏🏻	aafh	# Folded Hands: Light Skin
+🙇🏻‍♂️	aakt	# 
 💪🏻	aagl	#
 ☹️	aanh	# not happy ☹️😒😭😳😱
 😒	aaua	# unamused face  (不愉快)
@@ -3398,8 +3485,8 @@ list	list
 ☣	aabh	# Biohazard 
 ♾	aaif	# Infinity
 ♻	aarc	# Recycling Symbol
-✔	aarr	# Check Mark / right mark
-✖	aaww	# Multiplication Sign /wrong mark
+✔	aarm	# Check Mark / right mark
+✖	aawm	# Multiplication Sign /wrong mark
 🦋	aabf	# Butterfly
 ⭐	aast	# Star
 📚	aabk	# Books
@@ -3419,7 +3506,7 @@ list	list
 🌟	aass
 🔆	aasu
 🌙	aamo	# Crescent Moon
-# ✅ Check Mark Button
+✅	aarr	#  Check Mark Button
 # ☑ Check Box with Check
 # ✔ Check Mark
 ❌	aaxx	# Cross Mark
@@ -3460,6 +3547,8 @@ list	list
 [再见]	aazj
 [拥抱]	aabb
 [拥抱]	aayb
+[红包]	aahb
+[抠鼻]	aakb
 [抱拳]	aabq
 [抱拳]	aazy
 [挖鼻]	aawb
@@ -3602,7 +3691,6 @@ todo	todo
 清楚
 有空
 琢磨
-用例
 音箱
 watch	watc
 Dynalist	dyna
@@ -3987,7 +4075,6 @@ review	revw
 短文
 长文
 质量
-应用
 开通
 高分
 高考
@@ -4014,7 +4101,6 @@ hack	hack
 电池
 圣经
 私人
-私用
 瑜伽
 试试
 计算
@@ -4294,7 +4380,6 @@ gene	gene
 Machine	mach
 Learn	lear
 Machine Learning	male
-常用
 重码
 book	book
 底层
@@ -4395,7 +4480,6 @@ book	book
 随身
 发挥
 安全
-作用
 歼灭
 消灭
 迅速
@@ -4436,7 +4520,6 @@ NO	no	40111
 目的
 好像
 起来
-没用
 扩展
 仓库
 GTD	gtd
@@ -4544,7 +4627,6 @@ Kindle	kind
 软件	lqwt
 号码	kgdc
 或许	akyt
-有用	deet
 历来	degu
 
 技能	rfce
@@ -4727,7 +4809,6 @@ url	url
 心情	nyng
 晚间	jquj
 日记	jjyn
-
 说到底,我们是利用有限的资源,去做无限的事。	shdd
 大腿	ddev
 解释	qeto
@@ -4840,7 +4921,6 @@ url	url
 资源	uqid
 控制	rptg
 还有	dhde
-利用	tjet
 有限	debv
 不可能
 打击	rsgb
@@ -4850,7 +4930,6 @@ url	url
 费力	xjen
 能量	cejg
 可能	skce
-使用	wget
 值得	wftj
 重要	tgsv
 肯定
@@ -5164,7 +5243,8 @@ url	url
 雅	ahwy
 牙	ah	31836
 东	ai	31835
-划	aj	31834
+草	aj	31834
+#划	aj	31834
 或	ak	31833
 苗	al	31832
 贡	am	31831
@@ -5260,8 +5340,8 @@ as	as	31825
 服	eb	31749
 肥	ec	31748
 须	ed	31747
-月	ee	31746
-#朋	ee	31746
+#月	ee	31746
+朋	ee	31746
 肚	ef	31745
 且	eg	31744
 毡	eh	31743
@@ -5277,7 +5357,7 @@ el	el	31739
 胸	eq	31734
 貌	er	31733
 采	es	31732
-#用	et	31731
+毛	et	31731
 #用	et	31731
 胶	eu	31730
 妥	ev	31729
@@ -5359,7 +5439,8 @@ el	el	31739
 眼	hv	31655
 具	hw	31654
 此	hx	31653
-眩	hy	31652
+虔	hy
+#眩	hy	31652
 江	ia	31651
 波	ib	31650
 汉	ic	31649
@@ -5528,7 +5609,7 @@ of	of	31498
 业	oh	31496
 应	oi	31495
 烛	oj	31494
-燥	ok	31493
+#燥	ok	31493
 库	ol	31492
 灿	om	31491
 #断	on	31490
@@ -5611,6 +5692,7 @@ of	of	31498
 提	rj	31420
 扣	rk	31419
 押	rl	31418
+岳	rm	31417
 抽	rm	31417
 所	rn	31416
 扩	ro	31415
@@ -5687,9 +5769,9 @@ of	of	31498
 #~头	ud	31351
 前	ue	31350
 头	ud
-兰	ud
-兰	udf
-兰	uf
+#兰	ud
+#兰	udf
+#兰	uf
 斗	uf	31349
 半	ug	31348
 着	uh	31347
@@ -6362,8 +6444,8 @@ die	die	30806
 胧	edx	30709
 肽	edy	30708
 脬	eeb	30707
-朋	eee	30706
-#月	eee	30706
+#朋	eee	30706
+月	eee	30706
 鹏	eeq	30705
 胁	eew	30704
 肢	efc	30703
@@ -6453,7 +6535,7 @@ die	die	30806
 腹	etj	30620
 胳	etk	30619
 貔	etl	30618
-用	etn	30617
+#用	etn	30617
 彡	ett	30616
 豸	ety	30615
 胼	eua	30614
@@ -7855,7 +7937,7 @@ NULL	nul	29322
 烬	ony	29247
 郯	oob	29246
 剡	ooj	29245
-#~火	ooo	29244
+火	ooo	29244
 糖	oov	29243
 烷	opf	29242
 煊	opg	29241
@@ -8470,7 +8552,8 @@ SAP	sap	28664
 橛	sdu	28646
 棋	sdw	28645
 栊	sdx	28644
-杖	sdy	28643
+杖	sgr	28643
+#杖	sdy	28643
 桴	seb	28642
 see	see	28641
 棚	see	28641
@@ -8499,7 +8582,7 @@ see	see	28641
 醚	sgo	28619
 酡	sgp	28618
 酌	sgq	28617
-酗	sgr	28616
+#酗	sgr	28616
 酊	sgs	28615
 酷	sgt	28614
 枰	sgu	28613
@@ -8599,7 +8682,7 @@ Stable	sta	28533
 覆	stt	28524
 梅	stx	28523
 槎	sua	28522
-兰	uf
+#兰	uf
 栏	suf	28521
 #栏	sud	28521
 樟	suj	28520
@@ -8860,7 +8943,7 @@ Twitter	twi	28313
 #郑	udb	28279
 闳	udc	28278
 疬	ude	28277
-兰	udg	28276
+#兰	udg	28276
 减	udg	28276
 痞	udh	28275
 阉	udj	28274
@@ -8926,7 +9009,8 @@ Twitter	twi	28313
 剖	ukj	28221
 癌	ukk	28220
 总	ukn	28219
-竞	ukq	28218
+况	ukq	28218
+#竞	ukq	28218
 痼	uld	28217
 兽	ulg	28216
 曾	ulj	28215
@@ -9485,6 +9569,7 @@ Web	web	28013
 谩	yjl	27667
 谒	yjq	27666
 课	yjs	27665
+吝	ykg	27664
 误	ykg	27664
 衷	ykh	27663
 襄	ykk	27662
@@ -9859,7 +9944,10 @@ def	def	27449
 吾	gkf	27326
 卅	gkk	27325
 责	gmu	27324
+亚	gog
+god	god	27323
 亚	god	27323
+灭	goy	27322
 灭	goi	27322
 万	gqe	27321
 歹	gqi	27320
@@ -9898,7 +9986,7 @@ def	def	27449
 盼	hwv	27289
 #虎	hwv	27289
 此	hxn	27288
-虔	hyi	27287
+#虔	hyi	27287
 #江	iag	27286
 汇	ian	27285
 洱	ibg	27284
@@ -10257,9 +10345,9 @@ def	def	27449
 扣	rkg	26965
 氚	rkk	26964
 押	rlh	26963
-抽	rmg	26962
-岳	rm
-岳	rmj	26961
+抽	rmh	26962
+#抽	rmg	26962
+#岳	rmj	26961
 氙	rmk	26960
 扎	rnn	26959
 扩	rot	26958
@@ -10399,14 +10487,16 @@ run	run	26945
 疖	ubk	26838
 疤	ucv	26837
 闫	udd	26836
-兰	uff
 #兰	udf	26835
 头	udi	26834
 #关	udu	26833
 状	udy	26832
 痈	uek	26831
 疳	ufd	26830
+兰	ufg	26829
+壮	uf
 壮	ufg	26829
+壮	ufgg
 斗	ufk	26828
 关	ugd	26827
 #闰	ugd	26827
@@ -10428,6 +10518,7 @@ run	run	26945
 疝	umk	26815
 翔	ung	26814
 翊	ung	26813
+UNIX	uni	26812
 闷	uni	26812
 羌	unv	26811
 交	uru	26810
@@ -11314,7 +11405,7 @@ del	del	26006
 #慧	dhdn	25956
 彗	dhdv	25955
 甭	dhej	25954
-在	dhfd	25953
+#在	dhfd	25953
 邳	dhgb	25952
 #丕	dhgd	25951
 歪	dhgh	25950
@@ -11579,16 +11670,14 @@ del	del	26006
 繇	etfi	25692
 遥	etfp	25691
 胜	etgg	25690
-用	et
-毛	et
-#毛	etgn	25689
+毛	etgn	25689
 胙	ethf	25688
 臼	ethg	25687
 腹	etjt	25686
 貉	etkg	25685
 胳	etkg	25684
 貔	etlx	25683
-用	etnh	25682
+#用	etnh	25682
 彡	ettt	25681
 豸	etyt	25680
 胼	euah	25679
@@ -14279,7 +14368,7 @@ put	put	23396
 犯	qtbn	23024
 锈	qtbt	23023
 犸	qtcg	23022
-狁	qtcq	23021
+狁	qtc	23021
 猱	qtcs	23020
 狻	qtct	23019
 猢	qtde	23018
@@ -14802,7 +14891,7 @@ put	put	23396
 榛	sdwt	22507
 棋	sdwy	22506
 栊	sdxy	22505
-杖	sdyy	22504
+#杖	sdyy	22504
 桴	sebg	22503
 橇	seee	22502
 棚	seeg	22501
@@ -14952,6 +15041,7 @@ put	put	23396
 槟	sprw	22360
 柠	spsh	22359
 桉	spvg	22358
+榨	spwt
 榨	spwf	22357
 檫	spwi	22356
 榕	spwk	22355
@@ -15195,7 +15285,7 @@ put	put	23396
 衢	thhs	22120
 徙	thhy	22119
 昝	thjf	22118
-咎	thkf	22117
+#咎	thkf	22117
 鼾	thlf	22116
 齄	thlg	22115
 鼻	thlj	22114
@@ -15558,8 +15648,9 @@ txt	txt	21912
 总	uknu	21768
 兑	ukq
 兑	ukqb	21767
-竞	ukqb	21766
-况	ukqn	21765
+#竞	ukqb	21766
+竞	ukqn	21765
+#况	ukqn	21765
 痼	uldd	21764
 痹	ulgj	21763
 兽	ulgk	21762
@@ -16202,7 +16293,7 @@ txt	txt	21912
 纽	xnhg	21133
 纠	xnhh	21132
 纟	xnng	21131
-母	xnny	21130
+#母	xnny	21130
 缪	xnwe	21129
 缠	xojf	21128
 继	xonn	21127
@@ -16548,7 +16639,7 @@ txt	txt	21912
 茙	aadr	20790
 蘜	aafo	20789
 䒰	aag	20788
-䓉	aahb	20787
+䓉	aah	20787
 菣	aahc	20786
 茝	aahh	20785
 茞	aahh	20784
@@ -18764,7 +18855,7 @@ COMMIT	com	18825
 犮	dcyi	18583
 盋	dcyl	18582
 䳊	dcyo	18581
-䂘	dcyy	18580
+䂘	dcy	18580
 䦈	ddag	18579
 礪	dday	18578
 砈	ddbn	18577
@@ -20183,7 +20274,7 @@ Error	err	17424
 䪺	fcdm	17167
 叆	fcec	17166
 䂲	fced	17165
-攰	fcee	17164
+攰	fce	17164
 埇	fceh	17163
 㲍	fcev	17162
 䨶	fchn	17161
@@ -20243,7 +20334,7 @@ Error	err	17424
 墈	fdwe	17107
 埲	fdwg	17106
 堾	fdwj	17105
-䨢	fdwn	17104
+䨢	fdw	17104
 埉	fdww	17103
 㙋	fdwy	17102
 雮	fetg	17101
@@ -20443,9 +20534,9 @@ Error	err	17424
 趚	fhsk	16908
 䞬	fhtb	16907
 趏	fhtd	16906
-趎	fhtf	16905
-㙤	fhtf	16904
-䞢	fhtf	16903
+趎	fht	16905
+㙤	fht	16904
+䞢	fht	16903
 趃	fhtg	16902
 趫	fhtk	16901
 䞦	fhtk	16900
@@ -22444,7 +22535,7 @@ get	get	16084
 㳻	iajg	14911
 濗	iajh	14910
 㵧	iajn	14909
-澫	iajy	14908
+澫	iaj	14908
 㵄	iakd	14907
 淢	iakg	14906
 漌	iakg	14905
@@ -24839,7 +24930,7 @@ get	get	16084
 嚑	ktgo	12520
 哘	ktgs	12519
 呹	ktgy	12518
-嘷	kthf	12517
+嘷	kth	12517
 嘥	kth	12516
 喒	kthj	12515
 嚊	kthj	12514
@@ -27262,7 +27353,7 @@ my	myy	11088
 熮	onwe	10106
 燿	onwy	10105
 䊮	onwy	10104
-粎	onyy	10103
+粎	ony	10103
 熫	ooao	10102
 爌	ooaw	10101
 䊯	ooaw	10100
@@ -27391,7 +27482,7 @@ my	myy	11088
 炍	orcy	9977
 粄	orcy	9976
 庪	orfc	9975
-䊗	orgg	9974
+䊗	org	9974
 炘	orh	9973
 䉼	orh	9972
 庍	ork	9971
@@ -30132,7 +30223,7 @@ pdf	pdf	9632
 㚇	rbwt	7242
 扱	rbyy	7241
 摻	rcce	7240
-㩹	rccg	7239
+㩹	rcc	7239
 撡	rccn	7238
 㧐	rccy	7237
 撪	rcdl	7236
@@ -30211,7 +30302,8 @@ pdf	pdf	9632
 掑	rdwy	7163
 㧋	rdy	7162
 㧔	rdy	7161
-扙	rdyy	7160
+扙	rgr	7160
+#扙	rdyy	7160
 揑	reag	7159
 捊	rebg	7158
 拹	reee	7157
@@ -31324,7 +31416,7 @@ set	set	6284
 䣼	sgyi	6053
 醕	sgyj	6052
 酼	sgyk	6051
-棑	shdd	6050
+棑	shd	6050
 㯇	shdf	6049
 檅	shdh	6048
 樝	sheg	6047
@@ -32484,7 +32576,7 @@ SSH	ssh	5695
 鷱	thio	4907
 篎	thit	4906
 䈇	thjj	4905
-笘	thkf	4904
+笘	thk	4904
 秥	thkg	4903
 㰶	thkw	4902
 齆	thlc	4901
@@ -33178,7 +33270,7 @@ Tue	tue	4303
 䒂	tuuf	4217
 䒅	tuuh	4216
 艗	tuul	4215
-䲍	tuuo	4214
+䲍	tuu	4214
 䑯	tuut	4213
 艤	tuuy	4212
 䈉	tuvf	4211
@@ -35013,9 +35105,9 @@ Tue	tue	4303
 傳	wgjf	2392
 僡	wgjn	2391
 弇	wgka	2390
-郃	wgkb	2389
-鄧	wgkb	2388
-㿯	wgkb	2387
+郃	wgk	2389
+鄧	wgk	2388
+㿯	wgk	2387
 敆	wgkc	2386
 㪧	wgkc	2385
 龕	wgkd	2384
@@ -36821,7 +36913,7 @@ Tue	tue	4303
 䜙	yjxo	586
 䛰	yjxx	585
 諿	ykbg	584
-誤	ykgd	583
+誤	ykg	583
 㲤	ykge	582
 訓	ykh	581
 訲	ykhh	580
@@ -37387,8 +37479,10 @@ Tue	tue	4303
 又	c	23
 三	d	22
 #大	d	22
-毛	e	21
-#用	e	21
+#毛	e	21
+用	e
+朋	ee	21
+用	ee	21
 #月	e	21
 二	f	20
 #土	f	20
@@ -37418,7 +37512,9 @@ Tue	tue	4303
 女	v	4
 人	w	3
 #~几	w	3
-幺	x	2
+母	x
+母	xx	2
+#幺	x	2
 言	y	1
 
 
@@ -37705,7 +37801,7 @@ yield	yiel
 Copyright	copr
 number	nubr
 hand	hand
-send	sent
+send	send
 chat	chat
 Pixar	pixr
 good	good
@@ -38215,7 +38311,6 @@ add	add
 turn	turn
 logo	logo
 copy	copy
-paste	past
 start	stat
 status	stau
 weekend	ween
@@ -38950,7 +39045,8 @@ sound	soud
 group	grup
 group	grop
 Terminal	term
-Unix	unix
+unix	unix
+
 many	many
 ing	ing
 bin	bin
@@ -39167,3 +39263,23 @@ draft	draft
 avg	avg
 keycount	keco
 shame	sham
+full	ful
+course	cour
+errand	erra
+stand	stad
+standby	stab
+bookflow	bofl
+BTC	btc
+grade	grad
+upgrade	upgr
+annually	annu
+biannually
+semiannually
+final
+complex	copl
+mentor	meto
+organize	orge
+HBO	hbo
+basics	basi
+qiyi.com	qiyi
+zotero	zote
