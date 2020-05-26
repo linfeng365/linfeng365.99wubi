@@ -21,6 +21,67 @@ encoder:
 ...
 
 
+理顺
+其心
+而生
+无所
+挂碍
+大字
+小字
+预览
+清澈
+杠铃
+牛仔
+短裤
+翘臀
+往事
+都会
+不敢
+离线
+下线
+转化
+指标
+高明
+觉察
+畅销
+片段
+我能
+教训
+聚焦
+可走
+无路
+佚名
+庆	ody
+庆祝
+干嘛
+扔掉
+中年
+健全
+和尚
+防水
+申明
+午休
+释迦
+牟尼
+裹挟
+断舍
+叙事
+疗法
+节能
+公号
+豪华
+迷茫
+核查
+饼干
+制订
+集合
+打工
+资格
+高昂
+重启
+失望
+重望
+不负
 自嘲
 破灭
 上边
@@ -132,7 +193,6 @@ encoder:
 僵持
 狡猾
 狡兔
-三窟
 拯救
 成交
 以及
@@ -1212,7 +1272,7 @@ mp4	mp
 悲观
 鹅	trqy
 堕胎
-耶稣
+耶稣	bbq
 基督
 照亮
 点灯
@@ -2385,7 +2445,6 @@ Jahwan0	jahw
 要挟
 困惑
 编写
-重启
 签字
 签名
 成立
@@ -2798,7 +2857,6 @@ shortcut	shct
 节食
 靠谱
 若干
-集合
 反转
 设限
 习得
@@ -3796,6 +3854,7 @@ Mojave 10.14	moja
 扔	rbnt
 仍	wbnt
 秀	tbnt
+扔	rbn
 氖	rbn
 艿	abnt
 屷	mbnt
@@ -4267,8 +4326,8 @@ linfeng82@qq.com	lfyx
 订货	yswx
 订单	ysuj
 材料	sfou
-践行	khtg
-内容	mwpw
+践行
+内容
 一个	ggwh
 一位	ggwu
 那是	ngjg
@@ -5243,8 +5302,8 @@ url	url
 雅	ahwy
 牙	ah	31836
 东	ai	31835
-草	aj	31834
-#划	aj	31834
+#草	aj	31834
+划	aj	31834
 或	ak	31833
 苗	al	31832
 贡	am	31831
@@ -7405,8 +7464,8 @@ Feed	fee
 踪	khp	29765
 跑	khq	29764
 踬	khr	29763
-#跌	kht	29762
-路	kht	29762
+跌	kht	29762
+#路	kht	29762
 #~蹉	khu	29761
 跟	khv	29760
 趴	khw	29759
@@ -8170,7 +8229,8 @@ pub	pub	29135
 鲍	qgq	29022
 鳇	qgr	29021
 鳔	qgs	29020
-鲧	qgt	29019
+稣	qgt	29019
+#鲧	qgt	29019
 鲜	qgu	29018
 鲫	qgv	29017
 鲋	qgw	29016
@@ -8861,6 +8921,8 @@ tag	tag	28485
 籁	tsk	28354
 策	tsm	28353
 篥	tss	28352
+朱	tfy
+朱	tsy	28351
 秫	tsy	28351
 笑	ttd	28350
 筅	ttf	28349
@@ -8943,8 +9005,8 @@ Twitter	twi	28313
 #郑	udb	28279
 闳	udc	28278
 疬	ude	28277
-#兰	udg	28276
-减	udg	28276
+兰	udg	28276
+#减	udg	28276
 痞	udh	28275
 阉	udj	28274
 疣	udn	28273
@@ -9701,8 +9763,9 @@ Web	web	28013
 东	aii	27539
 汞	aiu	27538
 昔	ajf	27537
-划	ajh	27536
-草	ajj	27535
+草	ajh	27536
+#划	ajh	27536
+#草	ajj	27535
 茧	aju	27534
 叵	akd	27533
 苗	alf	27532
@@ -10483,7 +10546,7 @@ run	run	26945
 戕	uay	26842
 闻	ubd	26841
 疲	ubi	26840
-疗	ubk	26839
+#疗	ubk	26839
 疖	ubk	26838
 疤	ucv	26837
 闫	udd	26836
@@ -10493,7 +10556,7 @@ run	run	26945
 状	udy	26832
 痈	uek	26831
 疳	ufd	26830
-兰	ufg	26829
+#兰	ufg	26829
 壮	uf
 壮	ufg	26829
 壮	ufgg
@@ -10620,6 +10683,7 @@ way	way	26762
 仇	wvn	26720
 仇	wvt
 分	wvr	26719
+怂	wwn	26718
 仉	wwn	26718
 #~从	wwy	26717
 仑	wxb	26716
@@ -11303,6 +11367,7 @@ way	way	26762
 矣	ctdu	26054
 牿	ctfk	26053
 牲	ctgg	26052
+牟	ctgk	26051
 牟	ctgj	26051
 犍	cvgp	26050
 皴	cwtb	26049
@@ -13044,7 +13109,7 @@ ing	ingf	24907
 踬	khrm	24336
 跃	khtd	24335
 鹭	kht	24334	#-
-跌	khtg	24333
+#跌	khtg	24333
 踵	kht	24332	#-
 跞	khti	24331
 踟	kht	24330
@@ -14974,7 +15039,7 @@ put	put	23396
 酰	sgtq	22426
 酶	sgtx	22425
 酥	sgty	22424
-枰	sguf	22423
+枰	sgu	22423
 醅	sguk	22422
 醮	sgwo	22421
 酴	sgws	22420
@@ -15295,7 +15360,7 @@ put	put	23396
 延	thnp	22111
 #息	thnu	22110
 #~臬	thsu	22109
-竹	thth	22108
+#竹	thth	22108
 筲	tief	22107
 稍	tieg	22106
 愆	tign	22105
@@ -15989,7 +16054,7 @@ txt	txt	21912
 侄	wgcf	21434
 倒	wgcj	21433
 癸	wgdu	21432
-毹	wgee	21431
+毹	wge	21431
 倩	wgeg	21430
 俞	wgej	21429
 愈	wgen	21428
@@ -16123,6 +16188,7 @@ txt	txt	21912
 凭	wtfw	21301
 侏	wtfy	21300
 件	wtgh	21299
+佚	wtgi
 佚	wtgy	21298
 作	wthf	21297
 俐	wtjh	21296
@@ -20911,7 +20977,7 @@ Error	err	17424
 䲮	fqqo	16531
 䲶	fqqo	16530
 垑	fqqy	16529
-䨚	fqrn	16528
+䨚	fqr	16528
 圽	fqr	16527
 㪴	fquf	16526
 鋆	fquq	16525
@@ -30086,7 +30152,7 @@ pdf	pdf	9632
 鈋	qwxn	7378
 釟	qwy	7377
 鎸	qwyb	7376
-鈴	qwyc	7375
+鈴	qwy	7375
 鎨	qwyf	7374
 錐	qwyg	7373
 鋡	qwyk	7372
@@ -31381,7 +31447,7 @@ set	set	6284
 䣷	sgt	6088
 醝	sgua	6087
 醸	sgue	6086
-酙	sguf	6085
+酙	sgu	6085
 䤃	sguj	6084
 醷	sgun	6083
 梾	sgus	6082
@@ -32526,7 +32592,6 @@ SSH	ssh	5695
 䇘	tgxf	4952
 䘘	tgxs	4951
 䄺	tgxw	4950
-失望	tgy	4949
 䄮	tgy	4949
 㔍	thaj	4948
 郋	thbh	4947
@@ -34965,7 +35030,7 @@ Tue	tue	4303
 頌	wcdm	2532
 㑷	wcex	2531
 㐷	wcgg	2530
-佁	wckg	2529
+佁	wck	2529
 勜	wcne	2528
 鹟	wcn	2527	#-
 伃	wcnh	2526
@@ -37112,7 +37177,7 @@ Tue	tue	4303
 詫	ypta	387
 讅	yptl	386
 稁	yptu	385
-䛪	ypwx	384
+䛪	ypw	384
 䛎	ypwy	383
 詑	ypxn	382
 諙	yqaj	381
@@ -39225,8 +39290,6 @@ baby	baby
 SSL	ssl
 SSL	ssll
 copyright	cori
-toC	toc
-toB	toB
 bar	bar
 toolkit	toki
 via	via
@@ -39283,3 +39346,13 @@ HBO	hbo
 basics	basi
 qiyi.com	qiyi
 zotero	zote
+keso	keso
+talk	talk
+agree	agre
+wrong	wron
+minimize	mize
+GPU	gpu
+include	incl
+folder	fold
+speed	spee
+odyssey	odys
