@@ -21,6 +21,34 @@ encoder:
 ...
 
 
+打破
+留意
+认清
+叫鸡
+还没
+抄送
+知会
+自负
+煎熬
+逾矩
+电量
+担忧
+与你
+同在
+救助
+比例
+银弹
+年轻
+相信
+小书
+欧元
+浅层
+过节
+大节
+小节
+革新
+通勤
+网恋
 理顺
 其心
 而生
@@ -2414,7 +2442,6 @@ Jahwan0	jahw
 绝对
 相对
 衍生
-想念
 范例
 小子
 复盘
@@ -4599,7 +4626,6 @@ GTD	gtd
 保持
 健康
 自信
-相信
 管理
 利和
 适应
@@ -9059,6 +9085,7 @@ Twitter	twi	28313
 瘠	uiw	28233
 鄣	ujb	28232
 彰	uje	28231
+音	ujg	28230
 疸	ujg	28230
 瘟	ujl	28229
 意	ujn	28228
@@ -10030,6 +10057,7 @@ god	god	27323
 虏	he
 虏	hee	27306
 肯	hef	27305
+步	hht
 步	hhr	27304
 卡	hhu	27303
 卜	hhy	27302
@@ -15262,7 +15290,7 @@ put	put	23396
 敌	tdty	22207
 辞	tduh	22206
 簸	tdwb	22205
-矬	tdwf	22204
+矬	tdw	22204
 箕	tdwu	22203
 雉	tdwy	22202
 矧	tdxh	22201
@@ -16562,7 +16590,7 @@ txt	txt	21912
 劾	ynte	20932
 肇	yntg	20931
 綮	ynti	20930
-刻	ynt	20929	#-
+刻	ynt	20929
 谧	yntl	20928
 颏	yntm	20927
 亥	yntw	20926
@@ -18955,6 +18983,7 @@ COMMIT	com	18825
 硤	ddw	18549	#-
 䃆	ddw	18548
 厐	ddxy	18547
+厌	ddy	18546
 夶	ddy	18546
 㹜	ddy	18545
 鬕	dea	18544
@@ -21834,9 +21863,9 @@ get	get	16084
 贅	gqtm	15676
 䫨	gqtm	15675
 㥿	gqtn	15674
-驁	gqto	15673
-鰲	gqto	15672
-鷔	gqto	15671
+驁	gqt	15673
+鰲	gqt	15672
+鷔	gqt	15671
 㱡	gqtq	15670
 䵅	gqtq	15669
 摮	gqtr	15668
@@ -22911,7 +22940,7 @@ get	get	16084
 濾	ihln	14601
 滷	ihlo	14600
 湞	ihmy	14599
-濎	ihnn	14598
+濎	ihn	14598
 濬	ihph	14597
 覍	ihqb	14596
 涀	ihqn	14595
@@ -31502,7 +31531,7 @@ set	set	6284
 檙	shnn	6033
 梘	shqn	6032
 㯉	shtf	6031
-相信	shw	6031
+想念	shw	6031
 椃	shw	6030
 椇	shw	6029	#-
 橴	shxi	6028
@@ -32354,7 +32383,7 @@ SSH	ssh	5695
 簝	tdui	5187
 矰	tduj	5186
 䂏	tdvk	5185
-簊	tdwf	5184
+簊	tdw	5184
 箺	tdwj	5183
 䉇	tdwj	5182
 谸	tdwk	5181
@@ -39356,3 +39385,11 @@ include	incl
 folder	fold
 speed	spee
 odyssey	odys
+schemes	sche
+fuzzy	fuzz
+accuracy	accu
+meat	meat
+before	befo
+BGM	bgm
+shut down	shdo
+shut	shut
