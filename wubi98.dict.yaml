@@ -21,6 +21,68 @@ encoder:
 ...
 
 
+措施
+熔断
+翻翻
+堆栈
+豆列
+能否
+安定
+见识
+不可
+剃刀
+而非
+不变
+分心
+睡前
+通识
+牛津
+叨逼
+唠叨
+呈现
+活得
+意志
+窗口	pwtk
+并进
+学龄
+并进
+齐头
+自恋
+委屈
+拖拽
+暗中
+形势
+董事
+正好
+外在
+短t恤	tdtn憩
+t恤	tnt
+专心
+亏心
+穿越
+配额
+份额
+主播
+出乎意料
+出乎
+意料
+蔡加尼克	aend	#n 蔡加尼克效应
+让熟悉的事物变得陌生,让陌生的事物变得熟悉	ytbt
+让熟悉的事物变得陌生,让陌生的事物变得熟悉	sxms
+陌生
+生疏
+既定
+既成
+既然
+区块链
+区块
+草民
+这点
+访客
+抗议
+字节
+跳动
+陷阱
 打破
 留意
 认清
@@ -1267,7 +1329,6 @@ mp4	mp
 追随
 捋捋
 光荣
-亏心
 漏洞
 地理
 平板
@@ -2517,6 +2578,7 @@ Jahwan0	jahw
 骇浪
 骇人
 听闻
+驴	cgyn
 骇	cgyn
 刻苦
 咳	kynt
@@ -2864,7 +2926,6 @@ shortcut	shct
 回忆
 电信	jnwy	57141
 了	bnh	57140
-很	tv	57140
 解压
 纪念
 只要
@@ -3230,11 +3291,10 @@ first	firt
 家伙
 讨厌
 偏见
-too young,too naive	tytn
-too young,too simple	tyts
+too young,too naive	tytn	#p
+too young,too simple	tyts	#p
 to	to
 童	ujfd
-志平
 cheyenne	chey
 #http://amazon.cn/	amco
 人际
@@ -3247,6 +3307,7 @@ cheyenne	chey
 投资
 企业
 桔子
+杆子
 机构
 新鲜
 看看
@@ -3613,6 +3674,8 @@ list	list
 憨笑
 玫瑰
 咖啡
+[撇嘴]	aapz
+[委屈]	aawq
 [嘿哈]	aaah
 [捂脸]	aawl
 [天啊]	aata
@@ -5406,8 +5469,8 @@ as	as	31825
 砂	di	31767
 百	dj	31766
 右	dk	31765
-#面	dl	31764	#面
-奋	dl	31764
+面	dl	31764
+#奋	dl	31764
 而	dm	31763
 成	dn	31762
 矿	do	31761
@@ -5462,7 +5525,8 @@ el	el	31739
 吉	fk	31715
 雷	fl	31714
 南	fm	31713
-志	fn	31712
+起	fn
+#志	fn	31712
 赤	fo	31711
 过	fp	31710
 无	fq	31709
@@ -5714,6 +5778,8 @@ of	of	31498
 害	pd	31476
 农	pe	31475
 守	pf	31474
+
+#定	pg	31473
 家	pg	31473
 寂	ph	31472
 宵	pi	31471
@@ -5843,7 +5909,6 @@ of	of	31498
 条	ts	31361
 #秩	tt	31360
 冬	tu	31359
-委	tv	31358
 答	tw	31357
 每	tx	31356
 入	ty	31355
@@ -5893,7 +5958,9 @@ of	of	31498
 如	vk	31320
 姻	vl	31319
 姗	vm	31318
-恳	vn	31317
+刀	vn	31317
+恳	vny	31317
+#恳	vn	31317
 灵	vo	31316
 退	vp	31315
 婚	vq	31314
@@ -6161,6 +6228,8 @@ art	art	31073
 莠	atb	31064
 医	atd	31063
 芊	atf	31062
+尧	atg	31061
+董	atgj	31061
 董	atg	31061
 蓰	ath	31060
 莉	atj	31059
@@ -6656,6 +6725,7 @@ die	die	30806
 载	fal	30585
 Family	fam	30584
 贲	fam	30584
+越	fan	30583
 堞	fan	30583
 栽	fas	30582
 塔	faw	30581
@@ -6709,7 +6779,7 @@ Feed	fee
 起	fhn	30535
 墟	fho	30534
 趋	fhq	30533
-赵	fhr	30532
+#赵	fhr	30532
 趱	fht	30531
 超	fhv	30530
 真	fhw	30529
@@ -6744,7 +6814,8 @@ Feed	fee
 卖	fnu	30501
 块	fnw	30500
 坭	fnx	30499
-专	fny	30498
+志	fny	30498
+#专	fny	30498
 郝	fob	30497
 赫	fof	30496
 塘	fov	30495
@@ -6758,7 +6829,8 @@ Feed	fee
 坻	fqa	30487
 顽	fqd	30486
 鼋	fqk	30485
-雹	fqn	30484
+雹	fqnn
+#雹	fqn	30484
 远	fqp	30483
 均	fqu	30482
 坎	fqw	30481
@@ -8161,6 +8233,7 @@ pub	pub	29135
 襁	pux	29114
 褊	puy	29113
 案	pvs	29112
+穿	pwa	29111
 窍	pwa	29111
 空	pwa	29110
 突	pwd	29109
@@ -8977,7 +9050,8 @@ tag	tag	28485
 乘	tux	28328
 舟	tuy	28327
 #航	tuy	28327
-律	tvg	28326
+委	tvg	28326
+#律	tvg	28326
 箫	tvh	28325
 笤	tvk	28324
 簋	tvl	28323
@@ -9060,7 +9134,8 @@ Twitter	twi	28313
 闰	ugg	28254
 豢	ugg	28254
 症	ugh	28253
-养	ugj	28252
+判	ugj
+#养	ugj	28252
 痦	ugk	28251
 盖	ugl	28250
 病	ugm	28249
@@ -9654,6 +9729,7 @@ Web	web	28013
 就	yid	27671
 诮	yie	27670
 谠	yip	27669
+齐	yjh	27668
 齑	yjh	27668
 谩	yjl	27667
 谒	yjq	27666
@@ -9907,7 +9983,7 @@ def	def	27449
 百	djf	27438
 右	dkf	27437
 夼	dkj	27436
-奋	dlf	27435
+#奋	dlf	27435
 砗	dlh	27434
 厍	dlk	27433
 页	dmu	27432
@@ -9974,6 +10050,8 @@ def	def	27449
 圭	ff
 封	fff	27378
 #圭	fff	27378
+赶	ffgg
+赶	ffg	27377
 坩	ffg	27377
 寺	ffu	27376
 十	fg	27375
@@ -9998,7 +10076,7 @@ def	def	27449
 圮	fnn	27360
 声	fnt	27359
 #声	fnr	27359
-志	fnu	27358
+#志	fnu	27358
 圹	fot	27357
 赤	fou	27356
 过	fpi	27355
@@ -10198,6 +10276,8 @@ god	god	27323
 呆	ksu	27181
 哺	ksy	27180
 咩	kuh	27179
+叨	kvnt
+叨	kvn	27178
 叨	kvt	27178
 哏	kvy	27177
 叽	kwn	27176
@@ -10372,6 +10452,7 @@ god	god	27323
 句	qkd	27022
 名	qkf	27021
 钟	qkh	27020
+钏	qkt	27020
 钏	qkh	27020
 甸	qld	27019
 钿	qlg	27018
@@ -10565,6 +10646,8 @@ run	run	26945
 秉	tvd	26851
 委	tvf	26850
 很	tvy	26849
+#委	tv 	26849
+很	tv	26849
 秃	twb	26848
 每	txu	26847
 入	tyi	26846
@@ -11878,28 +11961,57 @@ del	del	26006
 塥	fgkh	25581
 垭	fgog	25580
 坪	fguf	25579
-越	fhan	25578
-趣	fhbc	25577
+# 走旁 fh 改为 f。
+越	fan	25578
+趣	fbc	25577
 霏	fhdd	25576
-趄	fheg	25575
+趄	feg	25575
 #矗	fhfh	25574
-赶	fhfk	25573
+赶	ffg	25573
 直	fhg	25572
-趔	fhg	25572
-赴	fhhi	25571
-趟	fhik	25570
+趔	fgq	25572
+赴	fhi	25571
+趟	fimk
+趟	fim	25570
 坫	fhkg	25569
 盐	fhlf	25568
-赳	fhnh	25567
+赳	fnhh	25567
 垆	fhnt	25566
-起	fhnv	25565
+起	fnv	25565
+
 墟	fhog	25564
-趋	fhqv	25563
-赵	fhri	25562
-趱	fhtm	25561
-趑	fhuw	25560
-超	fhvk	25559
-趁	fhwe	25558
+趋	fqv	25563
+赵	fry	25562
+趱	ftm	25561
+趑	fuw	25560
+超	fvk	25559
+趁	fwe	25558
+
+# 走旁 fh 改为 f。
+#越	fhan	25578
+#趣	fhbc	25577
+#霏	fhdd	25576
+#趄	fheg	25575
+#矗	fhfh	25574
+#赶	fhfk	25573
+#直	fhg	25572
+#趔	fhg	25572
+#赴	fhhi	25571
+#趟	fhik	25570
+#坫	fhkg	25569
+#盐	fhlf	25568
+#赳	fhnh	25567
+#垆	fhnt	25566
+#起	fhnv	25565
+#墟	fhog	25564
+#趋	fhqv	25563
+#赵	fhri	25562
+#趱	fhtm	25561
+#趑	fhuw	25560
+#超	fhvk	25559
+#趁	fhwe	25558
+
+#
 颠	fhwm	25557
 真	fhwu	25556
 霪	fief	25555
@@ -11962,6 +12074,7 @@ del	del	26006
 謦	fnwy	25500
 块	fnwy	25499
 坭	fnxn	25498
+专	fnyy	25497
 专	fnyi	25497
 赧	fobc	25496
 郝	fobh	25495
@@ -12360,6 +12473,7 @@ del	del	26006
 眨	htpy	25106
 瞳	hujf	25105
 睇	huxt	25104
+龄	hwbw
 龄	hwbc	25103
 龌	hwbf	25102
 龃	hwbg	25101
@@ -15646,6 +15760,7 @@ txt	txt	21912
 疣	udny	21861
 闼	udpi	21860
 #送	udpi	21859
+凑	udwt
 凑	udwd	21858
 疽	uegd	21857
 瘦	uehc	21856
@@ -15679,7 +15794,7 @@ txt	txt	21912
 症	ughd	21828
 眷	ughf	21827
 判	ugjh	21826
-养	ugjj	21825
+#养	ugjj	21825
 痦	ugkd	21824
 痘	ugku	21823
 盖	uglf	21822
@@ -16100,9 +16215,10 @@ txt	txt	21912
 盒	wgkl	21416
 颌	wgkm	21415
 翕	wgkn	21414
-拿	wgr	21412
+#拿	wgr	21412
 拿	wgkr	21412
-使	wgkr	21413
+使	wgrk
+#使	wgkr	21413
 登	wgku	21411
 凳	wgkw	21410
 歙	wgkw	21409
@@ -16645,7 +16761,7 @@ txt	txt	21912
 谏	yslg	20877
 #施	ytbn	20876
 诱	ytbn	20876
-诱	ytbt	20875
+#诱	ytbt	20875
 话	ytdg	20874
 旖	ytdk	20873
 旗	ytdw	20872
@@ -17762,7 +17878,7 @@ accout	acou	20712
 蘍	atge	19763
 苼	atgf	19762
 菙	atgf	19761
-䒜	atgj	19760
+䒜	atg	19760
 蕪	atgo	19759
 薫	atgo	19758
 苵	atgu	19757
@@ -19304,6 +19420,7 @@ Dec	dec	18531
 䂩	dldy	18231
 礋	dlff	18230
 㕓	dlff	18229
+奋	dlg	18228
 䦉	dlg	18228
 碨	dlge	18227
 硨	dlh	18226
@@ -20668,6 +20785,7 @@ Error	err	17424
 䞼	fhxe	16869
 䞞	fhxj	16868
 䟇	fhxw	16867
+赴	fhy	16866
 圤	fhy	16866
 㱐	fhyi	16865
 䨰	fiaf	16864
@@ -20881,7 +20999,7 @@ Error	err	17424
 㯏	fnws	16656
 䅽	fnwt	16655
 㲇	fnwu	16654
-㘮	fnyy	16653
+㘮	fny	16653
 䞑	foag	16652
 墌	foao	16651
 壙	foaw	16650
@@ -20997,7 +21115,8 @@ Error	err	17424
 垗	fqiy	16540
 刓	fqjh	16539
 坸	fqkg	16538
-垉	fqnn	16537
+元	fqn	16537
+垉	fqn	16537
 塢	fqoy	16536
 鳱	fqoy	16535
 䲧	fqoy	16534
@@ -24479,6 +24598,7 @@ get	get	16084
 啨	kgeg	13064
 啞	kgfg	13063
 噁	kgfn	13062
+呈	kgg	13061
 㕵	kgg	13061
 㕶	kgg	13060
 噖	kggn	13059
@@ -28333,7 +28453,8 @@ pdf	pdf	9632
 㝧	pvww	9225	#为了调整次序
 䇀	pwab	9224
 㲁	pwac	9223
-窢	pwag	9222
+空	pwag
+窢	pwa	9222
 䆠	pwa	9221
 䆰	pwak	9220
 䆾	pwal	9219
@@ -28985,7 +29106,7 @@ pdf	pdf	9632
 鈙	qhcy	8573
 䀏	qhd	8572
 䤵	qhd	8571
-鐬	qhdh	8570
+鐬	qhd	8570
 錹	qheg	8569
 鉬	qhg	8568
 䤠	qhg	8567
@@ -33715,7 +33836,8 @@ Tue	tue	4303
 療	udui	3873
 瘞	udwf	3872
 㿓	udwh	3871
-䦮	udwj	3870
+养	udwj	3870
+䦮	udw	3870
 瘎	udwn	3869
 瘱	udwn	3868
 凘	udwr	3867
@@ -34370,8 +34492,8 @@ Tue	tue	4303
 鄁	uxeb	3221
 㘳	uxff	3220
 丠	uxgf	3219
-弚	uxhj	3218
-䶏	uxhj	3217
+弚	uxh	3218
+䶏	uxh	3217
 㽼	uxhk	3216
 鵜	uxho	3215
 辮	uxiu	3214
@@ -35230,9 +35352,9 @@ Tue	tue	4303
 邆	wgkp	2362
 䢔	wgkp	2361
 覴	wgk	2360
-搻	wgkr	2359
-龤	wgkr	2358
-㧱	wgkr	2357
+搻	wgk	2359
+龤	wgk	2358
+㧱	wgk	2357
 斂	wgkt	2356
 龢	wgkt	2355
 㪉	wgkt	2354
@@ -37287,7 +37409,7 @@ Tue	tue	4303
 䗐	ytbj	306
 䞄	ytbm	305
 遊	ytbp	304
-誘	ytbt	303
+誘	ytb	303
 旇	ytby	302
 話	ytdg	301
 譑	ytdk	300
@@ -37691,10 +37813,10 @@ tips	tips
 uniqlo	unql
 hold	hold
 done	done
-DONE as good!	bedn
-ARCHIVED be wiki.	bewi
-达成/归档/交付ed	beed
-;-) 归档/收录/提交ed	beed
+`DONE as good!`	bedn	#p
+`ARCHIVED be wiki.`	bewi
+`达成/归档/交付ed.`	beed
+#;-) 归档/收录/提交ed	beed
 archived	arch
 inbox	inbx
 today	tody
@@ -37969,7 +38091,7 @@ now	now
 new	new
 dig	dig
 tell	tell
-Off	off
+off	off
 Got	got
 summer	 sume
 Kid	kid
@@ -38328,6 +38450,7 @@ price	pric
 pricing	prii
 fire	fire
 fox	fox
+Netscape	nesc
 Firefox	fifo
 browser	brse
 brow	brow
@@ -39003,7 +39126,7 @@ onmouseover	omov
 onmouseout	omou
 onmousedown	omdo
 onmouseup	omup
-onclick	onck
+onclick	oncl
 anchor	anch
 cookie	coki
 domain	domn
@@ -39243,7 +39366,7 @@ connect	conc
 host	host
 NASA	nasa
 Flutter flte
-Electron	elet
+electron	elet
 mobile	mobl
 FCC	fcc
 receive	rece
@@ -39393,3 +39516,17 @@ before	befo
 BGM	bgm
 shut down	shdo
 shut	shut
+drive	driv
+reach	reah
+think about think	tat	#p
+less is more	limo	#p
+Multi-window	muwi
+multi	mult
+click	clik
+reference	refe
+hyper	hype
+hypertext	hyte
+DevOps	deop
+atom	atom
+habit	habi
+nudge	nudg
