@@ -21,6 +21,23 @@ encoder:
 ...
 
 
+即时
+仪式
+全面
+养成
+转折
+突破
+负荷
+东部
+西部
+展开
+茁壮
+茁壮成长
+吸收
+摘要
+寂寞
+增熵
+降熵
 仅供参考
 台湾
 戏剧
@@ -130,7 +147,7 @@ t恤	tnt
 知会
 自负
 煎熬
-逾矩
+逾矩	wgt
 电量
 担忧
 与你
@@ -183,7 +200,6 @@ t恤	tnt
 庆祝
 干嘛
 扔掉
-中年
 健全
 和尚
 防水
@@ -976,7 +992,6 @@ http://www.chaiwubi.com/bmcx/?wz=	wb
 宁静
 夜晚
 路	kh
-跳舞
 亢	ywn
 亢	yw
 亢奋
@@ -4193,6 +4208,7 @@ review	revw
 感观
 人们
 自在
+处在
 空闲
 事物
 安静
@@ -4455,7 +4471,6 @@ linfeng82@qq.com	lfyx
 订货	yswx
 订单	ysuj
 材料	sfou
-践行
 内容
 一个	ggwh
 一位	ggwu
@@ -7601,8 +7616,8 @@ Feed	fee
 踪	khp	29765
 跑	khq	29764
 踬	khr	29763
-跌	kht	29762
-#路	kht	29762
+#跌	kht	29762
+路	kht	29762
 #~蹉	khu	29761
 跟	khv	29760
 趴	khw	29759
@@ -8245,9 +8260,8 @@ org	org	29230
 #额	ptk	29138
 客	ptk	29137
 褡	pua	29136
-pub	pub	29135
+被	pub	29135
 裙子	pub	29135
-#被	pub	29135
 裰	puc	29134
 #褥	pud	29133
 实	pud	29132
@@ -13291,7 +13305,10 @@ ing	ingf	24907
 踬	khrm	24336
 跃	khtd	24335
 鹭	kht	24334	#-
-#跌	khtg	24333
+跌	khtg	24333
+跳舞
+中年
+践行
 踵	kht	24332	#-
 跞	khti	24331
 踟	kht	24330
@@ -15223,7 +15240,7 @@ put	put	23396
 酶	sgtx	22425
 酥	sgty	22424
 枰	sgu	22423
-醅	sguk	22422
+醅	sgu	22422
 醮	sgwo	22421
 酴	sgws	22420
 酚	sgwv	22419
@@ -29296,7 +29313,7 @@ pdf	pdf	9632
 鎅	qlwj	8425
 鏍	qlxi	8424
 鑼	qlxy	8423
-錪	qmaw	8422
+錪	qma	8422
 錌	qmdf	8421
 鍴	qmdj	8420
 鉠	qmdy	8419
@@ -32784,7 +32801,9 @@ SSH	ssh	5695
 䇘	tgxf	4952
 䘘	tgxs	4951
 䄺	tgxw	4950
+失	tgy	4949
 䄮	tgy	4949
+䄮	tfw
 㔍	thaj	4948
 郋	thbh	4947
 篹	thdb	4946
@@ -38951,7 +38970,7 @@ head	head
 body	body
 javascript	jasc
 alert	alrt
-navigator	naga
+navigator	navg
 language	lanu
 HTML	htm
 document.getElementById	dgbd
@@ -39358,7 +39377,7 @@ format	foma
 differ	dife
 different	dift
 difference	difn
-Navigation	navg
+Navigation	navt
 pulse	puls
 lower	lowe
 normal	norl
@@ -39596,4 +39615,6 @@ hemlock	heml
 silent	sile
 could	coul
 novel	novl
-
+hamilton	hamt
+modern	modr
+king	king
