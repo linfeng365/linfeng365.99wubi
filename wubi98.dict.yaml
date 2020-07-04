@@ -21,6 +21,40 @@ encoder:
 ...
 
 
+成名
+劝导
+同事
+汉密尔顿
+金钟
+死磕
+二战
+零和
+多赢
+好吃
+创世
+流泪
+星星
+外表
+情欲
+高涨
+这篇
+传说
+显现
+涌入
+贪嗔痴
+灵敏
+提炼
+伤痛
+还原
+旅程
+等到
+简洁
+感知
+收缩
+静坐
+清空
+难度
+节制
 即时
 仪式
 全面
@@ -260,10 +294,8 @@ t恤	tnt
 真棒
 真好
 极具
-迷人	opww
 成就
 卓越
-艺人	anww
 王道
 专家
 磕头
@@ -323,7 +355,6 @@ t恤	tnt
 浮生
 取巧
 双份
-诗人
 期刊
 遵守
 豪庭
@@ -340,7 +371,6 @@ t恤	tnt
 拯救
 成交
 以及
-再起
 东山
 创始
 否决
@@ -462,7 +492,6 @@ windy	winy
 复活
 战略
 战术
-商人
 目前
 人员
 储备
@@ -977,7 +1006,6 @@ http://www.chaiwubi.com/bmcx/?wz=	wb
 细胞
 番薯
 缓和
-为人
 和善
 合并
 中断
@@ -1299,8 +1327,8 @@ dangdang	dang
 施主
 爱神
 期末
-情人	ngww
-人情	wwnge
+情人	ngw
+人情	wwng
 面包
 心猿
 意马
@@ -1317,7 +1345,6 @@ dangdang	dang
 右边
 左边
 年轻
-因人
 而异
 后勇
 知耻
@@ -1368,7 +1395,6 @@ mp4	mp
 杠杆
 随想
 规模
-夫人	fwww
 征服
 河豚
 豚	ege
@@ -1377,7 +1403,7 @@ mp4	mp
 蓝牙
 固	ld
 对应
-富人	pgkw
+富人	pgww
 追随
 捋捋
 光荣
@@ -1460,7 +1486,6 @@ mp4	mp
 苛求
 展望
 杰出
-华人
 bt 	bt
 玉米
 达芬奇	dads
@@ -1875,7 +1900,6 @@ Jahwan0	jahw
 掠影
 浮光
 破釜
-沉舟
 建构
 楼阁
 空中
@@ -1990,7 +2014,6 @@ Jahwan0	jahw
 示好
 保守
 得罪
-罪人
 大约
 节日
 七夕
@@ -2087,7 +2110,6 @@ Jahwan0	jahw
 谆谆
 循循
 善诱
-诲人	ytww
 不倦
 因材
 施教
@@ -2190,7 +2212,7 @@ Jahwan0	jahw
 背包
 黑道
 家族
-别人	keww
+别人	kew
 观看
 参加
 参与
@@ -2302,7 +2324,6 @@ Jahwan0	jahw
 制止
 小姐
 屏蔽
-个人	whww
 动员
 机核
 待下
@@ -2625,10 +2646,9 @@ Jahwan0	jahw
 联通
 天翼
 备忘
-害人
 惊涛
 骇浪
-骇人
+骇人	cgww
 听闻
 驴	cgyn
 骇	cgyn
@@ -3402,7 +3422,7 @@ cheyenne	chey
 网络
 搜寻
 传统
-工人	aaww	
+工人	aaw
 除了	bwbb
 赋值
 住	wyg	56291
@@ -3470,7 +3490,6 @@ MWeb	mweb
 坡	fby	56250
 诠释
 多元
-令人
 改良
 缺点
 驶驭
@@ -3726,6 +3745,7 @@ list	list
 憨笑
 玫瑰
 咖啡
+[呲牙][愉快][拥抱][爱心][强][微笑]	aavg
 [撇嘴]	aapz
 [委屈]	aawq
 [嘿哈]	aaah
@@ -4422,7 +4442,6 @@ commit	comt
 同样
 一样	ggsu
 恋爱
-高人
 挤进
 进出
 进口
@@ -4522,7 +4541,6 @@ linfeng82@qq.com	lfyx
 自	th
 #~去	fc	40126
 作	wth
-值	wf
 键	qvg
 键名	qvqk
 键值	qvwf
@@ -4746,7 +4764,7 @@ GTD	gtd
 管理
 利和
 适应
-还能
+还能	dhpc
 不知所措	dtrr
 措手不及	rrdb
 手足无措	rkfr
@@ -4966,7 +4984,7 @@ url	url
 今世	wyan
 洗澡	itik
 广告	oytf
-猎人
+猎人	qtww
 电视	jnpy
 大脑	ddey
 认知	ywtd
@@ -5045,13 +5063,11 @@ url	url
 流氓	iyyn
 单词	ujyn
 呵	kskg
-
 看见	rhmq
 成长	dnta
 急猝	qvqt
-大人	ddw
-男人	leww
-女人	vvww
+男人
+女人
 几条	wtts
 反应	rcoi
 早饭	jhqn
@@ -5450,7 +5466,8 @@ url	url
 或	ak	31833
 苗	al	31832
 贡	am	31831
-艺	an	31830
+世	an	31830
+#艺	an	31830
 蘑	ao	31829
 芝	ap	31828
 匹	aq	31827
@@ -5518,6 +5535,7 @@ as	as	31825
 #厌	dd	31772
 #历	de	31771
 夺	df	31770
+感	dg	31769
 三	dg	31769
 #~还	dh	31768
 砂	di	31767
@@ -5829,6 +5847,7 @@ of	of	31498
 广	oy	31479
 赛	pa	31478
 字	pb	31477
+害人
 害	pd	31476
 农	pe	31475
 守	pf	31474
@@ -6032,7 +6051,8 @@ of	of	31498
 公	wc	31303
 估	wd	31302
 佣	we	31301
-#什	wf	31300
+#值	wf
+什	wf	31300
 全	wg	31299
 个	wh	31298
 偿	wi	31297
@@ -6088,7 +6108,7 @@ of	of	31498
 让	yh	31248
 就	yi	31247
 齐	yj
-刘	yj	31246
+#刘	yj	31246
 训	yk	31245
 亩	yl	31244
 市	ymh	31243
@@ -6228,7 +6248,10 @@ alt	alt	31126
 蔬	anh	31115
 薜	ank	31114
 贳	anm	31113
-蕊	ann	31112
+艺	ann	31112
+巨	ann	31112
+#蕊	ann	31112
+艺人	anw	31111
 蓼	anw	31111
 忒	any	31110
 蔗	aoa	31109
@@ -6503,6 +6526,7 @@ DATABASE	dat	30865
 厣	ddl	30852
 硕	ddm	30851
 魇	ddr	30850
+大人	ddw	30849
 厮	ddw	30849
 郁	deb	30848
 #髦	dee	30847
@@ -6927,6 +6951,7 @@ Feed	fee
 逵	fwf	30444
 堠	fwn	30443
 垛	fws	30442
+夫人	fww	30441
 赍	fww	30441
 #~堆	fwy	30440
 墩	fyb	30439
@@ -7294,6 +7319,7 @@ Feed	fee
 沈	ipq	30083
 滨	ipr	30082
 泞	ips	30081
+沉舟	ipt	30080
 喾	ipt	30080
 滓	ipu	30079
 沉	ipw	30078
@@ -7335,7 +7361,7 @@ Feed	fee
 潘	ito	30044
 泛	itp	30043
 鳖	itq	30042
-涤	its	30041
+#涤	its	30041
 海	itx	30040
 溯	iub	30039
 滚	iuc	30038
@@ -7745,6 +7771,7 @@ Feed	fee
 恩	ldn	29637
 畸	lds	29636
 畴	ldt	29635
+因人	ldw	29634
 辏	ldw	29634
 嬲	lev	29633
 罢	lfc	29632
@@ -8152,6 +8179,7 @@ NULL	nul	29322
 糖	oov	29243
 烷	opf	29242
 煊	opg	29241
+迷人	opw	29240
 熔	opw	29240
 底	oqa	29239
 燃	oqd	29238
@@ -9418,7 +9446,7 @@ war	war	28034
 伛	war	28034
 侥	wat	28033
 供	waw	28032
-戗	wba	28031
+#戗	wba	28031
 创	wbj	28030
 颂	wcd	28029
 俑	wce	28028
@@ -9469,6 +9497,7 @@ Web	web	28013
 侦	whm	27984
 候	whn	27983
 修	wht	27982
+个	whw	27981
 俱	whw	27981
 俏	wie	27980
 倘	wim	27979
@@ -9584,6 +9613,7 @@ Web	web	28013
 集	wys	27869
 傍	wyu	27868
 食	wyv	27867
+令人	wyw	27866
 伉	wyw	27866
 雠	wyy	27865
 绒	xad	27864
@@ -9762,6 +9792,7 @@ Web	web	28013
 #赢	yem	27691
 谣	yet	27690
 嬴	yev	27689
+为人	yew	27688
 谀	yew	27688
 哀	yey	27687
 为	yey	27687
@@ -9783,6 +9814,7 @@ Web	web	28013
 就	yid	27671
 诮	yie	27670
 谠	yip	27669
+#刘	yjh	27668
 齐	yjh	27668
 齑	yjh	27668
 谩	yjl	27667
@@ -9798,6 +9830,7 @@ Web	web	28013
 谡	ylw	27658
 调	ymf	27657
 高	ymk	27656
+高人	ymw	27655
 讷	ymw	27655
 邙	ynb	27654
 戾	ynd	27653
@@ -9869,7 +9902,8 @@ Web	web	28013
 谰	yus	27588
 谚	yut	27587
 谦	yuv	27586
-谥	yuw	27585
+商人	yuw	27585
+#谥	yuw	27585
 郎	yvb	27584
 朗	yve	27583
 诏	yvk	27582
@@ -9931,7 +9965,9 @@ Web	web	28013
 贡	amu	27530
 艺	anb	27529
 芑	anb	27528
+艺	ang	27527
 巨	ang	27527
+巨	annn
 #巨	and	27527
 芯	anu	27526
 世	anv	27525
@@ -10834,6 +10870,7 @@ way	way	26762
 伙	woy	26733
 伯	wrg	26732
 风	wri	26731
+父	wry
 父	wru	26730
 仃	wsh	26729
 朵	wsy	26728
@@ -11146,7 +11183,8 @@ way	way	26762
 蔬	anhk	26436
 薜	anku	26435
 贳	anmu	26434
-蕊	annn	26433
+蕊	anny
+#蕊	annn	26433
 荬	anud	26432
 蓼	anwe	26431
 忒	anyi	26430
@@ -13085,7 +13123,7 @@ ing	ingf	24907
 螅	jthn	24554
 蜒	jthp	24553
 蜊	jtjh	24552
-蝮	jtjt	24551
+蝮	jtj	24551
 晌	jtmk	24550
 虼	jtnn	24549
 蟠	jtol	24548
@@ -16958,7 +16996,7 @@ txt	txt	21912
 䔜	abmf	20740
 㧭	abrj	20739
 蔯	absj	20738
-蕯	abtg	20737
+蕯	abt	20737
 蓀	abti	20736
 䕖	abtp	20735
 䔹	abue	20734
@@ -21951,7 +21989,7 @@ get	get	16084
 㤪	gqbn	15766
 㱟	gqby	15765
 䬸	gqcv	15764
-麺	gqdf	15763
+麺	gqd	15763
 㱠	gqdg	15762
 㱹	gqdh	15761
 㱦	gqdk	15760
@@ -29170,7 +29208,7 @@ pdf	pdf	9632
 鉬	qhg	8568
 䤠	qhg	8567
 钀	qhgd	8566
-鐻	qhge	8565
+鐻	qhg	8565
 钁	qhhc	8564
 䦆	qhhc	8563
 䀤	qhhf	8562
@@ -37271,8 +37309,8 @@ Tue	tue	4303
 誷	ymun	506
 讗	ymwk	505
 䐡	ymw	504	#~
-訥	ymwy	503
-䜅	ymwy	502
+訥	ymw	503
+䜅	ymw	502
 肈	ynag	501
 䁉	ynah	500
 䋯	ynai	499
@@ -37531,6 +37569,7 @@ Tue	tue	4303
 旍	ytwc	248
 旝	ytwj	247
 譗	ytwk	246
+诲人	ytw	245
 斻	ytw	245	#-
 䛢	ytw	244	#-
 㫍	ytwt	243
@@ -39618,3 +39657,7 @@ novel	novl
 hamilton	hamt
 modern	modr
 king	king
+holiday	hoda
+our	our
+tea	tea
+it's 	its
