@@ -21,6 +21,25 @@ encoder:
 ...
 
 
+
+风景
+拟合
+本来
+终极
+恩惠
+和解
+战斗
+西安
+心动
+选题
+止痛
+酸痛
+失手	tgr
+三思而行
+而行
+三思
+毅志
+起诉
 成名
 劝导
 同事
@@ -3758,7 +3777,7 @@ list	list
 [Wow]	aawo
 [Noprob]	aanp
 [社会社会]	aash
-[汗]	aahh
+[汗]	aaha
 [Emm]	aaqc
 [强]	aaq
 [强]	aanb
@@ -3773,7 +3792,6 @@ list	list
 [抱拳]	aazy
 [挖鼻]	aawb
 [疑问]	aawh
-[奸笑]	aajx
 [难过]	aang
 [快哭了]	aaku
 [流泪]	aall
@@ -3794,6 +3812,9 @@ list	list
 [OK]	ok
 #[偷笑]	wwtt
 [偷笑]	aatx
+[坏笑]	aahx
+[奸笑]	aajx
+[冷汗]	aalh
 #[呲牙]	khah
 [呲牙]	aacy
 #[微笑]	tmtt
@@ -4248,7 +4269,7 @@ review	revw
 上瘾
 排除
 寄语
-感悟	dgnk
+感悟
 营销
 推销
 抵制
@@ -4265,7 +4286,7 @@ review	revw
 莓	atx
 清单
 革命
-西方
+西方	sgy
 东方
 北方
 南方
@@ -4289,8 +4310,9 @@ review	revw
 打扫
 一款	ggff
 天性
-一体	ggwg
+一体
 三体
+三体	dws
 就像
 紧密
 书会
@@ -4823,7 +4845,7 @@ Kindle	kind
 记录	ynvi
 英语	amyg
 重新	tgus
-实践	pukh
+实践
 白天	rrgd
 养成	ugdn
 消化	iewx
@@ -5738,6 +5760,7 @@ is	is	31633
 呆	ks	31583
 吃	kt	31582
 咬	ku	31581
+跟	kv	31580
 啸	kv	31580
 只	kw	31579
 哟	kx	31578
@@ -7559,7 +7582,7 @@ Feed	fee
 噶	kaj	29846
 喵	kal	29845
 咂	kam	29844
-呓	kan	29843
+#呓	kan	29843
 唠	kap	29842
 哎	kar	29841
 哓	kat	29840
@@ -7578,6 +7601,7 @@ Feed	fee
 唆	kcw	29827
 呃	kdb	29826
 呖	kde	29825
+跨	kdf	29824
 喹	kdf	29824
 嘎	kdh	29823
 喱	kdj	29822
@@ -7628,8 +7652,8 @@ Feed	fee
 跨	khd	29777
 啃	khe	29776
 跬	khf	29775
-践	khg	29774
-趾	khh	29773
+#践	khg	29774
+趾	khg	29773
 中学	khip	29772
 踏	khi	29772
 踢	khj	29771
@@ -7643,9 +7667,10 @@ Feed	fee
 跑	khq	29764
 踬	khr	29763
 #跌	kht	29762
-路	kht	29762
+路	ktk	29762
+#路	kht	29762
 #~蹉	khu	29761
-跟	khv	29760
+#跟	khv	29760
 趴	khw	29759
 嘴	khx	29758
 啵	kib	29757
@@ -7678,6 +7703,7 @@ Feed	fee
 勋	kme	29730
 啁	kmf	29729
 吊	kmh	29728
+跚	kmm	29727
 嘤	kmm	29727
 哕	kmq	29726
 呐	kmw	29725
@@ -7718,7 +7744,9 @@ Feed	fee
 呵呵	ksk	29690
 噤	kss	29689
 噬	kta	29688
-唾	ktg	29687
+跌	ktg
+跌	ktgi
+#唾	ktg	29687
 咱	kth	29686
 咯	ktk	29685
 响	ktm	29684
@@ -8118,7 +8146,8 @@ NULL	nul	29322
 迟	nyp	29302
 恼	nyr	29301
 尽	nyu	29300
-翠	nyw	29299
+以	nyw	29299
+#翠	nyw	29299
 度	oac	29298
 廑	oak	29297
 席	oam	29296
@@ -8674,6 +8703,7 @@ QRCode	qrc	28941
 拨	rnt	28763
 摒	rnu	28762
 抉	rnw	28761
+拟	rxw
 拟	rny	28760
 摭	roa	28759
 掂	roh	28758
@@ -8828,7 +8858,7 @@ see	see	28641
 枰	sgu	28613
 酚	sgw	28612
 酯	sgx	28611
-酬	sgy	28610
+#酬	sgy	28610
 椒	shi	28609
 棹	shj	28608
 桢	shm	28607
@@ -8993,6 +9023,7 @@ tag	tag	28485
 笾	tep	28458
 #徭	tet	28457
 缺	tfb	28456
+缶	tfb	28456
 丢	tfc	28455
 歃	tfe	28454
 德	tfl	28453
@@ -9143,7 +9174,8 @@ tag	tag	28485
 役	twc	28318
 颓	twd	28317
 符	twf	28316
-徐	twg	28315
+签	twg	28315
+#徐	twg	28315
 筱	twh	28314
 Twitter	twi	28313
 黍	twi	28313
@@ -10136,6 +10168,8 @@ def	def	27449
 地	fbn	27383
 #坡	fby	27382
 #去	fcu	27381
+支	fcyy
+云	fcy
 支	fcuu	27380
 云	fcu	27379	#-
 圭	ff
@@ -10370,6 +10404,7 @@ god	god	27323
 叨	kvnt
 叨	kvn	27178
 叨	kvt	27178
+跟	kvy	27177
 哏	kvy	27177
 叽	kwn	27176
 只	kwu	27175
@@ -13280,107 +13315,212 @@ ing	ingf	24907
 嗉	kgxi	24398
 咦	kgxw	24397
 咦	kgx
-躇	khaj	24396
-距	khan	24395
-跷	khaq	24394
-蹀	khas	24393
-蹒	khaw	24392
-躏	khay	24391
-蹑	khbc	24390
-跛	khby	24389
-趿	khby	24388
-踊	khce	24387
-跆	khck	24386
-蹂	khcs	24385
-啡	khdd	24384
-踌	khdf	24383
-蹰	khdf	24382
-跖	khdg	24381
-跨	khdn	24380
-蹶	khd	24379
-跋	khdy	24378
-蹊	khed	24377
-蹈	khee	24376
-啃	kheg	24375
-跏	khek	24374
-踩	khes	24373
-跬	khff	24372
-趼	khg	24371	#-
-践	khga	24370
+
+# 躇	khaj	24396
+# 距	khan	24395
+# 跷	khaq	24394
+# 蹀	khas	24393
+# 蹒	khaw	24392
+# 躏	khay	24391
+# 蹑	khbc	24390
+# 跛	khby	24389
+# 趿	khby	24388
+# 踊	khce	24387
+# 跆	khck	24386
+# 蹂	khcs	24385
+# 啡	khdd	24384
+# 踌	khdf	24383
+# 蹰	khdf	24382
+# 跖	khdg	24381
+# 跨	khdn	24380
+# 蹶	khd	24379
+# 跋	khdy	24378
+# 蹊	khed	24377
+# 蹈	khee	24376
+# 啃	kheg	24375
+# 跏	khek	24374
+# 踩	khes	24373
+# 跬	khff	24372
+# 趼	khg	24371	#-
+# 践	khga	24370
+# 噱	khge	24369
+# 贵	khgm	24368
+# 遗	khgp	24367
+# 遣	khgp	24366
+# 趺	khgy	24365
+# 趾	khhg	24364
+# 踔	khhj	24363
+# 咔	khhy	24362
+# 踏	khij	24361
+# 蹋	khjn	24360
+# 踢	khjr	24359
+# 踝	khjs	24358
+# 躁	khks	24357
+# #~盅	khlf	24356
+# 躅	khlj	24355
+# 蹦	khme	24354
+# 跚	khmg	24353
+# 踹	khmj	24352
+# 踞	khn	24351
+# 跽	khnn	24350
+# 忠	khnu	24349
+# 踱	khoc	24348
+# 躔	khof	24347
+# 蹼	khog	24346
+# 嘘	khog	24345
+# 踮	khok	24344
+# 蹿	khph	24343
+# 踪	khpi	24342
+# 跎	khpx	24341
+# 跪	khqb	24340
+# 跳	khqi	24339
+# 跑	khqn	24338
+# 趵	khqy	24337
+# 踬	khrm	24336
+# 跃	khtd	24335
+# 鹭	kht	24334	#-
+# #跌	khtg	24333
+# 跳舞
+# 中年
+# 践行
+# 踵	kht	24332	#-
+# 跞	khti	24331
+# 踟	kht	24330
+# 路	khtk	24329
+# 蹯	khtl	24328
+# 躜	khtm	24327
+# 跹	khtp	24326
+# 跣	khtq	24325
+# 踽	khty	24324
+# 蹉	khua	24323
+# 踯	khub	24322
+# 蹲	khuf	24321
+# 蹭	khuj	24320
+# 踣	khuk	24319
+# 跤	khur	24318
+# 躐	khvn	24317
+# 踺	khvp	24316
+# 跟	khvy	24315
+# 跄	khwb	24314
+# 啮	khwb	24313
+# 跗	khwf	24312
+# 唬	khwn	24311
+# 跺	khws	24310
+# 蹬	khwu	24309
+# 趴	khwy	24308
+# 嘴	khxe	24307
+# 跸	khxf	24306
+# 呲	khxn	24305
+# 蹁	khya	24304
+# 躞	khyc	24303
+# 蹄	khyh	24302
+# 跻	khyj	24301
+# 踉	khyv	24300
+# 蹴	khy	24299	#-
+## 以下 kh 改为 k
+躇	kaj	24396
+距	kan	24395
+跷	kaq	24394
+蹀	kas	24393
+蹒	kaw	24392
+躏	kay	24391
+蹑	kbc	24390
+跛	kby	24389
+趿	kby	24388
+踊	kce	24387
+跆	kck	24386
+蹂	kcs	24385
+啡	kdd	24384
+踌	kdf	24383
+蹰	kdf	24382
+跖	kdg	24381
+跨	kdn	24380
+蹶	kd	24379
+跋	kdy	24378
+蹊	ked	24377
+蹈	kee	24376
+#啃	keg	24375
+跏	kek	24374
+踩	kes	24373
+跬	kff	24372
+趼	kg	24371	#-
+践	kga	24370
 噱	khge	24369
 贵	khgm	24368
 遗	khgp	24367
 遣	khgp	24366
-趺	khgy	24365
-趾	khhg	24364
-踔	khhj	24363
-咔	khhy	24362
-踏	khij	24361
-蹋	khjn	24360
-踢	khjr	24359
-踝	khjs	24358
-躁	khks	24357
-#~盅	khlf	24356
-躅	khlj	24355
-蹦	khme	24354
-跚	khmg	24353
-踹	khmj	24352
-踞	khn	24351
-跽	khnn	24350
-忠	khnu	24349
-踱	khoc	24348
-躔	khof	24347
-蹼	khog	24346
-嘘	khog	24345
-踮	khok	24344
-蹿	khph	24343
-踪	khpi	24342
-跎	khpx	24341
-跪	khqb	24340
-跳	khqi	24339
-跑	khqn	24338
-趵	khqy	24337
-踬	khrm	24336
-跃	khtd	24335
-鹭	kht	24334	#-
-跌	khtg	24333
+趺	kgy	24365
+趾	khgg	24364
+踔	khj	24363
+咔	khy	24362
+踏	kij	24361
+蹋	kjn	24360
+踢	kjqr	24359
+踝	kjs	24358
+躁	kks	24357
+#~盅	klf	24356
+躅	klj	24355
+蹦	kme	24354
+跚	kmmg	24353
+踹	kmj	24352
+踞	kn	24351
+跽	knn	24350
+忠	knu	24349
+踱	koc	24348
+躔	kof	24347
+蹼	kog	24346
+嘘	kog	24345
+踮	kok	24344
+蹿	kph	24343
+踪	kpi	24342
+跎	kpx	24341
+跪	kqb	24340
+跳	kqi	24339
+跑	kqn	24338
+趵	kqy	24337
+踬	krm	24336
+跃	ktd	24335
+咯	ktkg	24334
+鹭	ktkg	24334	#-
+#跌	ktg	24333
 跳舞
 中年
 践行
-踵	kht	24332	#-
-跞	khti	24331
-踟	kht	24330
-路	khtk	24329
-蹯	khtl	24328
-躜	khtm	24327
-跹	khtp	24326
-跣	khtq	24325
-踽	khty	24324
-蹉	khua	24323
-踯	khub	24322
-蹲	khuf	24321
-蹭	khuj	24320
-踣	khuk	24319
-跤	khur	24318
-躐	khvn	24317
-踺	khvp	24316
-跟	khvy	24315
-跄	khwb	24314
-啮	khwb	24313
-跗	khwf	24312
-唬	khwn	24311
-跺	khws	24310
-蹬	khwu	24309
-趴	khwy	24308
-嘴	khxe	24307
-跸	khxf	24306
-呲	khxn	24305
-蹁	khya	24304
-躞	khyc	24303
-蹄	khyh	24302
-跻	khyj	24301
-踉	khyv	24300
-蹴	khy	24299	#-
+踵	kt	24332	#-
+跞	kti	24331
+踟	kt	24330
+路	ktk	24329
+蹯	ktl	24328
+躜	ktm	24327
+跹	ktp	24326
+跣	ktq	24325
+踽	kty	24324
+蹉	kua	24323
+踯	kub	24322
+蹲	kuf	24321
+蹭	kuj	24320
+踣	kuk	24319
+跤	kur	24318
+躐	kvn	24317
+踺	kvp	24316
+跟	kvy	24315
+跄	kwb	24314
+啮	kwb	24313
+跗	kwf	24312
+唬	kwn	24311
+跺	kws	24310
+蹬	kwu	24309
+趴	kwt	24308
+嘴	kxe	24307
+跸	kxf	24306
+呲	kxn	24305
+蹁	kya	24304
+躞	kyc	24303
+蹄	kyh	24302
+跻	kyj	24301
+踉	kyv	24300
+蹴	ky	24299	#-
+# 以上 kh 改为 k
 啵	kiby	24298
 哨	kieg	24297
 咣	kigq	24296
@@ -13479,7 +13619,7 @@ ing	ingf	24907
 咋	kthf	24203
 咱	kthg	24202
 川	kthh	24201
-咯	ktkg	24200
+#咯	ktkg	24200
 噢	ktmd	24199
 响	ktmk	24198
 呜	ktng	24197
@@ -14014,10 +14154,11 @@ ing	ingf	24907
 恼	nyrb	23670
 尽	nyuu	23669
 悴	nywf	23668
+翠	nywh
 翠	nywf	23667
-以	cwi
-以	cw
-#以	nywy	23666
+#以	cwi
+#以	cw
+以	nywy	23666
 度	oaci	23665
 廑	oakg	23664
 席	oamh	23663
@@ -16791,7 +16932,7 @@ txt	txt	21912
 扈	ynkc	20941
 启	ynkd	20940
 赢	ynky
-扁	ynma	20939
+#扁	ynma	20939
 扃	ynmk	20938
 翩	ynmn	20937
 遍	ynmp	20936
@@ -24611,7 +24752,8 @@ get	get	16084
 啀	kdff	13148
 嗕	kdff	13147
 㖠	kdfi	13146
-咵	kdfn	13145
+跨	kdfn
+咵	kdf	13145
 㖅	kdgg	13144
 喴	kdgv	13143
 囓	kdhb	13142
@@ -25040,7 +25182,8 @@ get	get	16084
 氉	kkke	12721
 嘽	kkk	12720
 劋	kkkj	12719
-㗊	kkkk	12718 #(kkkk)
+足	kkkk
+㗊	kkk	12718 #(kkkk)
 喦	kkkm	12717
 嵒	kkkm	12716
 㗁	kkkn	12715
@@ -33681,8 +33824,8 @@ Tue	tue	4303
 㣛	twgk	4120
 籲	twgm	4119
 箯	twgr	4118
-稌	twgs	4117
-筡	twgs	4116
+稌	twg	4117
+筡	twg	4116
 籢	twgt	4115
 簽	twgw	4114
 籨	twgw	4113
@@ -39620,6 +39763,7 @@ shut	shut
 drive	driv
 reach	reah
 think about think	tat	#p
+less is more	limo	#p
 less is more	limo	#p
 Multi-window	muwi
 multi	mult
