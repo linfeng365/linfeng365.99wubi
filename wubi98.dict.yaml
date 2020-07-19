@@ -21,7 +21,63 @@ encoder:
 ...
 
 
-
+惩罚
+猴子	qtb
+道歉
+温柔
+敢想
+敢做
+变好
+变差
+有的
+扩张
+引起
+剂量
+守护
+诚实
+绚烂
+打架
+受制
+叠加
+对手
+包养
+作息
+俯卧撑
+俯卧
+羞耻
+坐姿
+同性
+异性
+放空
+优秀
+早起
+几本
+沙龙
+安抚
+修炼
+摩擦
+怪人
+飞机
+网飞
+专栏
+随笔
+取舍
+存钱
+挑战
+家务
+打转
+典型
+认知资源
+认知资源	ywid
+单维
+勾搭
+市区
+客串
+历程
+离职
+想像
+绳子
+掠夺
 风景
 拟合
 本来
@@ -602,6 +658,8 @@ windy	winy
 过少
 融资
 估值
+感情
+感悟	dgn
 研发	dgn
 周密
 细致
@@ -2746,7 +2804,6 @@ Jahwan0	jahw
 拍照
 文学
 疯狂
-运气
 动手
 周期
 背后
@@ -2837,7 +2894,7 @@ Jahwan0	jahw
 综合
 波斯
 信使
-聚会
+聚会	bcw
 来回
 回家
 回来
@@ -3263,7 +3320,6 @@ tomorrow	tomr
 登录
 登陆
 边际
-边	ep
 简历
 经理
 没兴趣 -> 不想了解	mxq
@@ -4269,7 +4325,6 @@ review	revw
 上瘾
 排除
 寄语
-感悟
 营销
 推销
 抵制
@@ -4433,7 +4488,6 @@ commit	comt
 大师
 烦燥
 头痛
-感情
 的了
 最好
 空间
@@ -4728,7 +4782,6 @@ book	book
 迅速
 自由
 打造
-刻意
 房间
 觉得
 热量
@@ -5252,7 +5305,6 @@ url	url
 危害	qdpd
 维基	xwdw
 来源	guid
-第一	txgg
 第一次	tguq
 开始	gavc
 结束	xfsk
@@ -5547,7 +5599,7 @@ as	as	31825
 牺	cs	31781
 矣	ct	31780
 艰	cv	31779
-#~难	cw	31778
+#难	cw	31778
 牝	cx	31777
 叉	cy	31776
 左	da	31775
@@ -5578,12 +5630,13 @@ as	as	31825
 其	dw	31753
 龙	dx	31752
 太	dy	31751
-肛	ea	31750
+毁	ea
+#肛	ea	31750
 服	eb	31749
 肥	ec	31748
 须	ed	31747
 #月	ee	31746
-朋	ee	31746
+#朋	ee	31746
 肚	ef	31745
 且	eg	31744
 毡	eh	31743
@@ -5595,6 +5648,8 @@ el	el	31739
 觅	em	31738
 力	en	31737
 脏	eo	31736
+爱	ep	31735
+边	ept
 #边	ep	31735
 胸	eq	31734
 貌	er	31733
@@ -5689,7 +5744,8 @@ el	el	31739
 汉	ic	31649
 尖	id	31648
 肖	ie	31647
-汁	if	31646
+汗	if
+#汁	if	31646
 光	ig	31645
 小	ih	31644
 水	ii	31643
@@ -6837,7 +6893,8 @@ Family	fam	30584
 盍	fcl	30576
 翅	fcn	30575
 运	fcp	30574
-魂	fcr	30573
+运气	fcr
+#魂	fcr	30573
 埃	fct	30572
 雳	fde	30571
 震	fdf	30570
@@ -7142,7 +7199,7 @@ Feed	fee
 睫	hgv	30279
 频	hhd	30278
 止	hhg	30277
-#~目	hhh	30276
+目	hhh	30276
 丨	hhl	30275
 矍	hhw	30274
 眦	hhx	30273
@@ -8015,7 +8072,7 @@ Method	met
 怪	ncf	29428
 怿	ncg	29427
 怡	nck	29426
-悛	ncw	29425
+#悛	ncw	29425
 惰	nda	29424
 恹	ndd	29423
 怀	ndh	29422
@@ -8116,6 +8173,7 @@ Nov	nov	29354
 恤	ntl	29331
 懊	ntm	29330
 屦	nto	29329
+n't	ntt	29328
 履	ntt	29328
 悔	ntx	29327
 屏	nua	29326
@@ -8127,6 +8185,7 @@ NULL	nul	29322
 羼	nuu	29321
 慊	nuv	29320
 悌	nux	29319
+飞	nuy	29318
 悯	nuy	29318
 慨	nva	29317
 怊	nvk	29316
@@ -8327,6 +8386,7 @@ org	org	29230
 袜	pug	29129
 补	puh	29128
 裆	pui	29127
+实践	puk	29126
 裎	puk	29126
 裢	pul	29125
 袖	pum	29124
@@ -8953,6 +9013,8 @@ Stable	sta	28533
 梅	stx	28523
 槎	sua	28522
 #兰	uf
+栏	sud
+栏	sudg
 栏	suf	28521
 #栏	sud	28521
 樟	suj	28520
@@ -9034,7 +9096,7 @@ tag	tag	28485
 乖	tfu	28448
 笺	tga	28447
 箐	tge	28446
-失去	tgf	2845
+失去	tgf	28445
 竽	tgf	28445
 征	tgh	28444
 重	tgj	28443
@@ -9283,7 +9345,8 @@ Twitter	twi	28313
 部	ukb	28224
 瓿	ukg	28223
 冲	ukh	28222
-剖	ukj	28221
+总是	ukj	28221
+#剖	ukj	28221
 癌	ukk	28220
 总	ukn	28219
 况	ukq	28218
@@ -9485,6 +9548,7 @@ war	war	28034
 瓮	wcg	28027
 翁	wcn	28026
 俟	wct	28025
+似	wcw	28024
 俊	wcw	28024
 佐	wda	28023
 侑	wde	28022
@@ -9512,6 +9576,7 @@ Web	web	28013
 佞	wfv	28001
 倒	wgc	28000
 癸	wgd	27999
+倩	wge	27998
 愈	wge	27998
 剑	wgi	27997
 便	wgj	27996
@@ -9707,7 +9772,7 @@ Web	web	28013
 缉	xkb	27808
 绢	xke	27807
 缋	xkh	27806
-犟	xkj	27805
+#犟	xkj	27805
 强	xkj	27804
 缲	xkk	27803
 织	xkw	27802
@@ -9874,6 +9939,7 @@ Web	web	28013
 #遍	ynm	27648
 氓	ynn	27647
 刻	ynt	27646
+刻意	ynu	27645
 戽	ynu	27645
 雇	ynw	27644
 房	yny	27643
@@ -10154,7 +10220,7 @@ def	def	27449
 力	ent	27397
 甩	env	27396
 脒	eoy	27395
-边	epe	27394
+#边	epe	27394
 采	esu	27393
 脯	esy	27392
 妥	evf	27391
@@ -10231,6 +10297,7 @@ def	def	27449
 豕	gei	27332
 表	geu	27331
 于	gfk	27330
+正	ghgh
 正	ghd	27329
 下	ghi	27328
 丌	gjk	27327
@@ -10294,7 +10361,7 @@ god	god	27323
 尘	iff	27276
 尘	ifg	27275
 泔	ifg	27275
-汗	ifh	27274
+#汗	ifh	27274
 汁	ifh	27273
 潜	igg
 汪	ig	27272
@@ -10636,7 +10703,7 @@ god	god	27323
 扯	rhg	26970
 扑	rh
 爪	rhy
-#扑	rhy	26969
+扑	rhy	26969
 泉	riu	26968
 刈	rjh	26967
 氘	rjk	26966
@@ -10671,7 +10738,8 @@ run	run	26945
 兵	rwu	26943
 扒	rwy	26942
 拇	rxy	26941
-斥	ryi	26940
+掠	ryi
+#斥	ryi	26940
 乓	ryu	26939
 #杠	sag	26938
 李	sbf	26937
@@ -12039,6 +12107,7 @@ del	del	26006
 #~盍	fclf	25627
 翅	fcnd	25626
 运	fcpi	25625
+魂	fcrq
 魂	fcrc	25624
 埃	fctd	25623
 雳	fder	25622
@@ -12202,7 +12271,7 @@ del	del	26006
 块	fnwy	25499
 坭	fnxn	25498
 专	fnyy	25497
-专	fnyi	25497
+#专	fnyi	25497
 赧	fobc	25496
 郝	fobh	25495
 赭	fofj	25494
@@ -14157,7 +14226,7 @@ ing	ingf	24907
 翠	nywh
 翠	nywf	23667
 #以	cwi
-#以	cw
+以	cw
 以	nywy	23666
 度	oaci	23665
 廑	oakg	23664
@@ -14417,7 +14486,7 @@ ing	ingf	24907
 褐	pujn	23413
 裼	pujr	23412
 裸	pujs	23411
-裎	pukg	23410
+#裎	pukg	23410
 裢	pulp	23409
 袖	pumg	23408
 衲	pumw	23407
@@ -14975,6 +15044,7 @@ put	put	23396
 捞	rape	22862
 抠	rary	22861
 挠	ratq	22860
+搭	rawg
 搭	rawk	22859
 搽	raws	22858
 拱	rawy	22857
@@ -18921,8 +18991,8 @@ BEGIN	beg	19386
 䳱	cnho	18963
 遹	cnhp	18962
 䥐	cnhq	18961
-楘	cnhs	18960
-㮗	cnhs	18959
+楘	cnh	18960
+㮗	cnh	18959
 敄	cnht	18958
 䜼	cnhu	18957
 㜈	cnhv	18956
@@ -19368,7 +19438,8 @@ Dec	dec	18531
 鬊	dedj	18520
 䰅	dedm	18519
 髮	dedy	18518
-鬅	deee	18517
+有用	dee	18517
+鬅	dee	18517
 奟	deef	18516
 䯶	deeg	18515
 鬚	deem	18514
@@ -19433,7 +19504,7 @@ Dec	dec	18531
 髼	deth	18455
 䰌	deth	18454
 鬁	det	18453
-䯻	detk	18452
+䯻	det	18452
 䰔	detl	18451
 䰖	detm	18450
 䃣	deto	18449
@@ -23005,7 +23076,7 @@ get	get	16084
 㳩	iamy	14893
 㲺	ian	14892
 洰	iang	14891
-泧	iann	14890
+泧	ian	14890
 瀳	iaoo	14889
 㳤	iaoy	14888
 濛	iape	14887
@@ -23374,7 +23445,7 @@ get	get	16084
 巣	ijsu	14524
 淉	ijsy	14523
 湦	ijtg	14522
-㵆	ijtk	14521
+㵆	ijt	14521
 灦	ijxm	14520
 濕	ijxo	14519
 㶞	ijye	14518
@@ -27379,7 +27450,7 @@ my	myy	11088
 屫	nutk	10535
 翣	nuvf	10534
 懻	nuxw	10533
-憫	nuyy	10532
+憫	nuy	10532
 憳	nvaf	10531
 怓	nvcy	10530
 㦎	nvfg	10529
@@ -27590,7 +27661,7 @@ my	myy	11088
 糥	odmj	10324
 煩	odmy	10323
 頪	odmy	10322
-庬	odny	10321
+庬	odn	10321
 烣	odoy	10320
 㷧	odri	10319
 㢊	odsk	10318
@@ -31441,6 +31512,7 @@ pdf	pdf	9632
 捽	rywf	6482
 撁	ryxg	6481
 擁	ryxy	6480
+斥	ryy	6479
 抆	ryy	6479
 欌	saah	6478
 櫙	saak	6477
@@ -32945,7 +33017,7 @@ SSH	ssh	5695
 橆	tgls	4989
 䄼	tglw	4988
 䇧	tglw	4987
-甒	tgly	4986
+甒	tgl	4986
 製	tgme	4985
 穂	tgmn	4984
 䱥	tgmo	4983
@@ -33886,11 +33958,11 @@ Tue	tue	4303
 竼	twyu	4058
 篒	twyv	4057
 敏感
-第三	txdg
-第二	txf
 第一	txg
-第二	txfg
+第二	txf
 第三	txd	4056
+第四	txl
+第五
 龜	txd	4056
 龜	gui	#+
 㣧	txen	4055
@@ -34509,7 +34581,7 @@ Tue	tue	4303
 栥	uqws	3444
 楶	uqws	3443
 秶	uqwt	3442
-餈	uqwv	3441
+餈	uqw	3441
 㿰	urby	3440
 㽹	urci	3439
 㽿	urcy	3438
@@ -35451,7 +35523,7 @@ Tue	tue	4303
 伾	wdhg	2504
 仹	wdhh	2503
 傶	wdhi	2502
-俖	wdhk	2501
+俖	wdh	2501
 伓	wdhy	2500
 凮	wdjd	2499
 㐛	wdkn	2498
@@ -35544,7 +35616,7 @@ Tue	tue	4303
 䳫	wgdo	2411
 兪	wgeb	2410
 鄃	wgeb	2409
-㓱	wgej	2408
+㓱	wge	2408
 儬	wgeq	2407
 覦	wgeq	2406
 歈	wgew	2405
@@ -35580,9 +35652,9 @@ Tue	tue	4303
 㓣	wgkj	2376
 㔁	wgkj	2375
 樖	wgkk	2374
-偪	wgkl	2373
-畣	wgkl	2372
-盫	wgkl	2371
+偪	wgk	2373
+畣	wgk	2372
+盫	wgk	2371
 頜	wgkm	2370
 顩	wgkm	2369
 龥	wgkm	2368
@@ -36703,7 +36775,7 @@ Tue	tue	4303
 繢	xkhm	1254
 繾	xkhp	1253
 勥	xkje	1252
-䋲	xkjn	1251
+䋲	xkj	1251
 謽	xkjy	1250
 彈	xkkf	1249
 繟	xkkf	1248
@@ -37349,7 +37421,7 @@ Tue	tue	4303
 斎	yjiu	609
 齋	yjiu	608
 亣	yjj	607
-誯	yjjg	606
+誯	yjj	606
 剤	yjjh	605
 劑	yjjh	604
 䘇	yjjj	603
@@ -37940,15 +38012,17 @@ Tue	tue	4303
 三	d	22
 #大	d	22
 #毛	e	21
+爱	e
 用	e
-朋	ee	21
+#朋	ee	21
 用	ee	21
 #月	e	21
 二	f	20
 #土	f	20
 一	g	19
 #王	g	19
-目	h	18
+止	h	18
+#目	h	18
 #不	i	17
 水	i	17
 日	j	16
@@ -38445,7 +38519,7 @@ software	sowa
 money	mony
 support	supp
 cost	cost
-kernel	kern
+kernel	kerl
 min	min
 the	the
 sea	sea
@@ -38650,8 +38724,6 @@ TikTok	tikt
 galaxy	galy
 does	does
 matter	matt
-n't	nott
-doesn't	dont
 make	make
 sense	sens
 year	year
@@ -39422,7 +39494,6 @@ AlphaGo	algo
 network	newo
 COVID-19	cov
 MongoDB	mgdb
-Xnip	xnip
 mobi	mobi
 Elon Musk	elmu
 feed	feed
@@ -39805,3 +39876,16 @@ holiday	hoda
 our	our
 tea	tea
 it's 	its
+don't	dont
+doesn't	dost
+don't mark me think.	dmmt
+bear	bear
+anxiety	anxt
+worry	worr
+what why will how	wwww
+emotion	emot
+sexual	sexu
+sex	sex
+Nope	nope
+progress	pror
+pain	pain
