@@ -21,6 +21,24 @@ encoder:
 ...
 
 
+抱团
+与人
+小家
+志怪
+一场	gfnr
+一块	gfnw
+低俗
+叉腰
+梳毛
+虚伪
+形容
+万一	gqgg
+户口
+资产
+绝望
+虚荣
+至死
+不渝
 细心
 阈值
 检测
@@ -2210,7 +2228,7 @@ Jahwan0	jahw
 想吃
 最小
 最大
-依	wyeu
+
 依法
 保佑
 人类	wwod
@@ -3417,7 +3435,6 @@ https://www.douban.com/search?source=suggest&q=	db
 态度
 所谓
 操	rkkk
-傍晚	wyuj
 傍	wyup
 待补
 建筑
@@ -3482,7 +3499,6 @@ take it easy	ties
 条件
 吞吐
 响应
-一起
 年级
 硅谷
 黑客
@@ -3505,9 +3521,7 @@ shortcuts	shcu	#英文
 平衡
 伴侣
 秋天
-#依	wyeu
-#伪	wye
-依	wye
+
 morrow	morr
 tomorrow	tomr
 偷懒
@@ -4800,7 +4814,6 @@ note_linfeng@icloud.com	nolf
 必要	ntsv
 错误	qayk
 答错	twqa
-一场
 一次
 流行	iytg
 奖金	uqqq
@@ -5883,7 +5896,8 @@ el	el	31739
 赤	fo	31711
 过	fp	31710
 无	fq	31709
-垢	fr	31708
+赵	fr	31708
+#垢	fr	31708
 某	fs	31707
 才	ft	31706
 增	fu	31705
@@ -7281,6 +7295,7 @@ Feed	fee
 瑶	get	30408
 珐	gfc	30407
 盂	gfl	30406
+一起	gfn	30405
 玮	gfn	30405
 迂	gfp	30404
 玩	gfq	30403
@@ -8761,6 +8776,7 @@ org	org	29230
 锯	qnd	28979
 馁	qne	28978
 饽	qnf	28977
+钱	qg
 乌	qg
 #乌	qng	28976
 #~饯	qng	28976
@@ -9920,8 +9936,10 @@ Web	web	28013
 仳	wxx	27880
 隽	wyb	27879
 令	wyc	27878
+伪	wye	27877
 #依	wye	27877
 储	wyf	27876
+傍晚	wyj	27875
 侪	wyj	27875
 售	wyk	27874
 今	wyn	27873
@@ -15180,7 +15198,8 @@ put	put	23396
 狞	qtps	22965
 獬	qtqg	22964
 狰	qtqh	22963
-狗	qtqk	22962
+狗	qtq
+#狗	qtqk	22962
 狍	qtqn	22961
 锇	qtry	22960
 狐	qtry	22959
@@ -16943,8 +16962,9 @@ txt	txt	21912
 翎	wycn	21240
 令	wycu	21239
 瓴	wycy	21238
-伪	wyey	21237
-#依	wyey	21236
+#伪	wyey	21237
+依	wyet
+依	wyey	21236
 隼	wyfj	21235
 储	wyfj	21234
 住	wygg	21233
@@ -22118,7 +22138,7 @@ Error	err	17424
 璦	gept	16094
 靘	geqc	16093
 䴖	geqg	16092
-豞	geqk	16091
+豞	geq	16091
 鶄	geqo	16090
 䝈	gerb	16089
 豨	gerh	16088
@@ -22469,7 +22489,7 @@ get	get	16084
 殌	gqga	15746
 尫	gqgd	15745
 豗	gqg	15744
-殭	gqgg	15743
+殭	gqg	15743
 㱴	gqgm	15742
 㱙	gqgn	15741
 㱛	gqgq	15740
@@ -24231,8 +24251,8 @@ get	get	16084
 塗	iwgf	13988
 㽏	iwgf	13987
 洤	iwgg	13986
-澮	iwgj	13985
-鼡	iwgj	13984
+澮	iwg	13985
+鼡	iwg	13984
 潝	iwgn	13983
 㵯	iwgo	13982
 洬	iwgq	13981
@@ -30488,6 +30508,7 @@ pdf	pdf	9632
 㺇	qtad	7754
 獴	qtae	7753
 㺃	qtak	7752
+猫	qta	7751
 㺝	qta	7751 #(qtal)
 狘	qtan	7750
 獦	qtan	7749
@@ -40165,3 +40186,4 @@ summer	sumr
 sum	sum
 john	john
 lewis	lewi
+good night	goni
