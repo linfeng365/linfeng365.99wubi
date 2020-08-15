@@ -21,6 +21,74 @@ encoder:
 ...
 
 
+
+梳理
+寓言
+啤酒
+滋养
+题材
+走在
+前头
+聆听
+神童
+挫折
+免疫
+思念
+月亮
+潦草
+雄心
+壮志
+攻击
+享乐
+键程
+已知
+顾客
+较多
+较少
+相反
+举重
+若轻
+死机
+投机
+杠铃
+适当
+反义
+受益
+好吧
+别的
+这天
+孜孜
+懒惰
+断供
+寻求
+兜风
+在线
+表面
+为何
+何时
+双赢
+昆明
+严肃
+固件
+转发
+方程
+自命
+忽略
+自大
+贵宾
+耗能
+侵蚀
+漂流
+矛盾
+几件
+名著
+过后
+耐克
+乔丹
+逆	ugbp
+协商
+违逆
+舞蹈
 抱团
 与人
 小家
@@ -1074,6 +1142,7 @@ shimo.im	simo
 平常
 简介
 言论
+议论
 会话
 外部
 深夜
@@ -3615,7 +3684,8 @@ http://linfeng365.com/blog/resume.html	lfbl
 https://book.douban.com/people/linfeng365/all	mybk
 https://douban.com/people/linfeng365/	mydb
 http://	http
-google
+google	goog
+google	gogl
 baidu.com baid
 over	over
 .com	comm
@@ -3898,6 +3968,8 @@ timelog	timl
 唯唯诺诺
 畏缩胆怯
 行动
+生动
+失去
 其他
 避免
 道德
@@ -3934,6 +4006,7 @@ list	list
 🦁	aali	# lion face
 🎤	aami	# mic
 🍰	aack	# cake
+🎂	aabd	# 
 😊	aas	# smiling face with squinting eyes 
 ☺️	aazl
 😄	aahp	# happy 😊😄😃😉😘😍😎😂😁
@@ -4016,6 +4089,9 @@ list	list
 ⭕	aaoo	# Hollow Red Circle
 ⚠️	aajg
 ‼️	aagt
+🐶	aaww
+🍌	aacj
+《》	aabm
 # ⛅ Sun Behind Cloud
 # ⛈ Cloud with Lightning and Rain
 # 🌤 Sun Behind Small Cloud
@@ -4195,7 +4271,6 @@ window	wind
 失败
 html	html
 专业
-google	goog
 流传
 残酷
 markdown	mard
@@ -5607,9 +5682,9 @@ url	url
 马斯克(Elon Musk)	cddq
 
 # 公司名
-微软 (Microsoft)	tmlq
+微软	tmlq
 苹果	agjs
-谷歌 (Google)	wwsk
+谷歌	wwsk
 特斯拉	cdru
 
 阿里巴巴	bjcc
@@ -6132,7 +6207,7 @@ of	of	31498
 #燥	ok	31493
 库	ol	31492
 灿	om	31491
-#断	on	31490
+断	on	31490
 炎	oo	31489
 迷	op	31488
 底	oq	31487
@@ -7221,7 +7296,8 @@ Feed	fee
 坎	fqw	30481
 坂	frc	30480
 垢	frg	30479
-埤	frt	30478
+二手	frt	30478
+#埤	frt	30478
 坼	fry	30477
 耢	fsa	30476
 耔	fsb	30475
@@ -7949,7 +8025,9 @@ Feed	fee
 #蹦	khm	29768
 忠	khn	29767
 嘘	kho	29766
-踪	khp	29765
+#踪	kpf
+踪	kpfi
+#踪	khp	29765
 跑	khq	29764
 踬	khr	29763
 #跌	kht	29762
@@ -9334,7 +9412,8 @@ tag	tag	28485
 箐	tge	28446
 失去	tgf	28445
 竽	tgf	28445
-征	tgh	28444
+牛	tgh	28444
+#征	tgh	28444
 重	tgj	28443
 舞	tgl	28442
 制	tgm	28441
@@ -9830,7 +9909,7 @@ Web	web	28013
 侦	whm	27984
 候	whn	27983
 修	wht	27982
-个	whw	27981
+#个	whw	27981
 俱	whw	27981
 俏	wie	27980
 倘	wim	27979
@@ -9898,7 +9977,7 @@ Web	web	28013
 侨	wtd	27917
 伤	wte	27916
 任	wtf	27915
-人生	wtg	27914
+#人生	wtg	27914
 件	wtg	27914
 俐	wtj	27913
 傻	wtl	27912
@@ -9917,6 +9996,7 @@ Web	web	28013
 盆	wvl	27899
 贫	wvm	27898
 侵	wvp	27897
+仇	wvt	27896
 伊	wvt	27896
 仞	wvy	27895
 耸	wwb	27894
@@ -11131,7 +11211,8 @@ run	run	26945
 #丫	uhk	26823
 冰	uiy	26822
 间	ujd	26821
-音	ujf	26820
+单	ujf	26820
+#音	ujf	26820
 闽	uji	26819
 章	ujj	26818
 问	ukd	26817
@@ -11195,6 +11276,7 @@ way	way	26762
 伐	way	26762
 仓	wbn	26761
 仔	wbb	26760
+仔	wbg	26759
 佴	wbg	26759
 他	wbn	26758
 仍	wbt	26757
@@ -11235,13 +11317,13 @@ way	way	26762
 亻	wth	#-
 #凡	wtn
 #几	wtn	26725
-八	wt
-#八	wty	26724
+件	wt
+#八	wt
+八	wty	26724
 位	wug	26723
 佯	wuh	26722
 们	wun	26721
 仇	wvn	26720
-仇	wvt
 分	wvr	26719
 怂	wwn	26718
 仉	wwn	26718
@@ -13799,7 +13881,7 @@ ing	ingf	24907
 嘘	kog	24345
 踮	kok	24344
 蹿	kph	24343
-踪	kpi	24342
+踪	kpf	24342
 跎	kpx	24341
 跪	kqb	24340
 跳	kqi	24339
@@ -14078,7 +14160,7 @@ ing	ingf	24907
 #田	llll	24072
 辋	lmun	24071
 辗	lnae	24070
-罹	lnwy	24069
+#罹	lnwy	24069
 辚	loqg	24068
 辘	loxx	24067
 辖	lpdk	24066
@@ -15551,7 +15633,7 @@ put	put	23396
 抖	rufh	22618
 拌	rugh	22617
 掸	rujf	22616
-撞	rujf	22615
+#撞	rujf	22615
 揞	rujg	22614
 掊	rukg	22613
 皎	rury	22612
@@ -16043,7 +16125,7 @@ put	put	23396
 算	thaj	22135
 段	thdc
 篡	thdc	22133
-徘	thdd	22132
+徘	thd	22132
 纂	thdi	22131
 臭	thdu	22130
 乍	thff	22129
@@ -17177,7 +17259,7 @@ txt	txt	21912
 诎	ybmh	21029
 烹	ybou	21028
 鹑	ybqg	21027
-憝	ybtn	21026
+憝	ybt	21026
 敦	ybty	21025
 塾	ybvf	21024
 熟	ybvo	21023
@@ -17449,7 +17531,7 @@ txt	txt	21912
 匶	aawe	20762
 荗	aawu	20761
 蒆	aawv	20760
-莁	aaww	20759
+莁	aaw	20759
 茿	aawy	20758
 芅	aayu	20757
 藂	abci	20756
@@ -24024,8 +24106,8 @@ get	get	16084
 溎	isff	14214
 㵱	isff	14213
 渿	isfi	14212
-泍	isgg	14211
-㳹	isgg	14210
+泍	isg	14211
+㳹	isg	14210
 涷	isjg	14209
 溂	iskj	14208
 滒	iskk	14207
@@ -31039,8 +31121,8 @@ pdf	pdf	9632
 㼖	rcyj	7225
 瓟	rcyn	7224
 㼉	rcyq	7223
-㼎	rcyr	7222
-㼒	rcyr	7221
+㼎	rcy	7222
+㼒	rcy	7221
 㼓	rcyw	7220
 扠	rcyy	7219
 瓝	rcyy	7218
@@ -33068,7 +33150,7 @@ SSH	ssh	5695
 稬	tdmd	5207
 舑	tdmf	5206
 䑙	tdmf	5205
-䅡	tdmy	5204
+䅡	tdm	5204
 筬	tdnb	5203
 舏	tdnh	5202
 嵆	tdnm	5201
@@ -34371,7 +34453,7 @@ Tue	tue	4303
 㽾	ubmk	3924
 痾	ubsk	3923
 愬	ubtn	3922
-遡	ubtp	3921
+遡	ubt	3921
 屰	ubtr	3920
 欮	ubtw	3919
 癊	ubwc	3918
@@ -36398,7 +36480,7 @@ Tue	tue	4303
 餞	wvaa	1905
 饃	wvad	1904
 䭊	wvad	1903
-饛	wvae	1902
+饛	wva	1902
 䭦	wvaf	1901
 饉	wvag	1900
 弅	wvaj	1899
@@ -40187,3 +40269,5 @@ sum	sum
 john	john
 lewis	lewi
 good night	goni
+hhkb	hhkb
+bluray	blur
