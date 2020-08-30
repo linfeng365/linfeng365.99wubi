@@ -21,8 +21,33 @@ encoder:
 ...
 
 
-
-
+大雨
+机智
+禅师
+愉悦
+铁血
+自小
+抹茶
+地产
+匹配
+完毕
+巨高
+气温
+狭窄
+管管
+领袖
+洱海
+灿烂
+给点
+闭目
+养神
+季节
+分子
+分母
+肤浅
+见解
+贫乏
+浅薄
 泼辣
 大全
 围城
@@ -5105,6 +5130,7 @@ book	book
 自动
 Rime	rime
 常识
+学识
 除夕
 要	sv	40113
 标签
@@ -8113,7 +8139,7 @@ Feed	fee
 嚓	kpw	29707
 鸣	kqg	29706
 唤	kqm	29705
-咆	kqn	29704
+#咆	kqn	29704
 哆	kqq	29703
 吻	kqr	29702
 啕	kqt	29701
@@ -8769,6 +8795,7 @@ org	org	29230
 祧	pyq	29083
 祈	pyr	29082
 祚	pyt	29081
+禅	pyu	29080
 祥	pyu	29080
 禄	pyv	29079
 禳	pyy	29078
@@ -14077,7 +14104,7 @@ ing	ingf	24907
 啥	kwfk	24176
 咐	kwfy	24175
 喻	kwgj	24174
-哈哈	kwgk	24173
+哈	kwgk	24173
 噔	kwgu	24172
 喉	kwnd	24171
 嗲	kwrq	24170
@@ -30829,7 +30856,7 @@ pdf	pdf	9632
 狢	qttk	7538
 獢	qttk	7537
 㹾	qttk	7536
-㺕	qttl	7535
+㺕	qtt	7535
 犵	qttn	7534
 狿	qttp	7533
 㹶	qttp	7532
@@ -36652,7 +36679,7 @@ Tue	tue	4303
 饡	wyvm	1755
 䬣	wvtn	1754
 䭒	wvtn	1753
-䭔	wvtp	1752
+䭔	wvt	1752
 餰	wvts	1751
 餧	wvtv	1750
 攽	wvty	1749
@@ -40296,3 +40323,4 @@ bluray	blur
 susan	susa
 IBM	ibm
 susan	susn
+game	game
