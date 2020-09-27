@@ -21,6 +21,9 @@ encoder:
 ...
 
 
+
+老人
+冗长
 奇幻
 蜂巢
 绕行
@@ -2701,7 +2704,6 @@ Jahwan0	jahw
 景观
 欢乐
 欢喜
-原谅
 生存
 美丽
 自制
@@ -15869,7 +15871,7 @@ put	put	23396
 醪	sgne	22444
 醑	sgne	22443
 朽	sgnn	22442
-配	sgnn	22441
+#配	sgnn	22441
 桠	sgog	22440
 醭	sgog	22439
 醣	sgok	22438
@@ -20309,6 +20311,7 @@ Dec	dec	18531
 磤	drvc	18058
 礫	drxs	18057
 礉	dryt	18056
+原谅	dry	18055
 䂨	dry	18055
 䃌	dsfg	18054
 磦	dsfi	18053
@@ -40333,3 +40336,4 @@ susan	susa
 IBM	ibm
 susan	susn
 game	game
+bluetooth	blto
