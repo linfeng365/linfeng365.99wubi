@@ -21,8 +21,36 @@ encoder:
 ...
 
 
-
-
+寂静
+大意
+鼓包
+团体
+讲话
+瞎改
+传输
+客厅
+舞会
+又是	cjg
+移除
+定向
+重定向
+告白
+吊针
+国情
+想象力
+续订
+可恶
+可恨
+摩托
+日语
+feishu	feis
+星辰
+恐慌
+永生
+长寿
+美食
+波动
+困倦
 宝典
 增持
 减持
@@ -132,6 +160,7 @@ encoder:
 潦草
 雄心
 壮志
+斗志
 攻击
 享乐
 键程
@@ -1640,7 +1669,6 @@ http://www.chaiwubi.com/bmcx/?wz=	wb
 武汉
 改名
 智商
-自修	thw
 性爱
 不妥
 外境
@@ -3780,7 +3808,6 @@ google	goog
 google	gogl
 baidu.com baid
 over	over
-.com	comm
 v2ex.com	vtco
 v2ex.com	vtex
 amazon.cn	amco
@@ -9769,8 +9796,8 @@ Twitter	twi	28313
 曾	ulj	28215
 阃	uls	28214
 瘰	ulx	28213
-羰	umd	28212
-端	umd	28211
+端	umd	28212
+羰	umd	28211
 凋	umf	28210
 瘿	umm	28209
 癜	una	28208
@@ -11188,6 +11215,7 @@ run	run	26945
 酉	sgd	26925
 枉	sgg	26924
 丁	sgh	26923
+朴素	shg	26922
 相	shg	26922
 朴	shy	26921
 杳	sjf	26920
@@ -17456,7 +17484,7 @@ txt	txt	21912
 扇	ynnu	20933
 #忘	ynnu	20933
 劾	ynte	20932
-肇	yntg	20931
+肇	ynt	20931
 綮	ynti	20930
 刻	ynt	20929
 谧	yntl	20928
@@ -21643,9 +21671,9 @@ Error	err	17424
 欯	fkqw	16771
 㙅	fksy	16770
 皷	fkub	16769
-敼	fkuc	16768
-鼔	fkuc	16767
-䵽	fkuc	16766
+敼	fku	16768
+鼔	fku	16767
+䵽	fku	16766
 鼚	fkue	16765
 壴	fkuf	16764
 尌	fkuf	16763
@@ -23718,7 +23746,7 @@ get	get	16084
 溒	ifke	14703
 㵙	ifkk	14702
 㳳	ifkq	14701
-㵢	iflg	14700
+#㵢	iflg	14700
 瀆	iflm	14699
 湳	ifmf	14698
 濤	ifnf	14697
@@ -28861,7 +28889,7 @@ pdf	pdf	9632
 㝍	pgng	9582
 寳	pgqm	9581
 寚	pgtb	9580
-寶	pgtm	9579
+寶	pgt	9579
 䴐	pgto	9578
 寁	pgvh	9577
 寊	phmu	9576
@@ -33601,6 +33629,7 @@ SSH	ssh	5695
 㣠	thtu	4866
 辠	thuj	4865
 箎	thwb	4864
+自修	thw	4863
 臮	thw	4863	#-
 篊	tiaw	4862
 笵	tibb	4861
@@ -38813,7 +38842,7 @@ iPhone	iphe
 iPad	ipad
 git	gitt
 MVP	mvpp
-github	gith
+Github	gith
 Issue issu
 # 以上为倒序添加
 # 以下为正序添加
@@ -40254,6 +40283,7 @@ fanfou.com	fanf
 count	cout
 OSX	osx
 baidu	badu
+baidu	baid
 draft	draft
 avg	avg
 keycount	keco
@@ -40379,4 +40409,9 @@ susan	susn
 game	game
 bluetooth	blto
 boy	boy
-
+fleet	flet
+fleet	flee
+gmail	gml
+Figma	figm
+#⌘	comm
+chip	chip
