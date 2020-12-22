@@ -21,6 +21,27 @@ encoder:
 ...
 
 
+
+汤圆
+公允
+大好
+涨停
+能源
+萌芽
+提取
+暴露
+走开
+内存
+谋略
+少女	itv
+拿取
+劣迹
+冬季
+幸运
+设想
+说教
+摆放
+巨人	anww
 寂静
 大意
 鼓包
@@ -169,7 +190,8 @@ feishu	feis
 较多
 较少
 相反
-举重
+举行
+举重	igt
 若轻
 死机
 投机
@@ -829,7 +851,7 @@ t恤	tnt
 作用
 没用
 有用
-使用
+使用	wgee
 利用
 母语
 眩晕
@@ -5958,8 +5980,8 @@ url	url
 匹	aq	31827
 区	ar	31826
 AS	ass
-as	as	31825
 莆	as	31825
+as	as	31825
 攻	at	31824
 蒋	au	31823
 切	av	31822
@@ -6077,9 +6099,10 @@ el	el	31739
 云	fc	31723
 城	fd	31722
 协	fe	31721
-干	ff	31720
-寺	ffy
+#干	ff	31720
+赶	ffy
 寺	ff	31720
+土	fff
 #~十	fg	31719
 直	fh	31718
 走	fh	31718
@@ -6161,7 +6184,7 @@ el	el	31739
 肖	ie	31647
 汗	if
 #汁	if	31646
-光	ig	31645
+#光	ig	31645
 小	ih	31644
 水	ii	31643
 浊	ij	31642
@@ -7088,7 +7111,7 @@ die	die	30806
 碘	dma	30797
 碳	dmd	30796
 耐	dmf	30795	#(碉改耐)
-硐	dmg	30794
+#硐	dmg	30794
 布	dmh	30793
 而	dmj	30792
 厕	dmj	30792
@@ -7856,7 +7879,8 @@ Feed	fee
 弊	ita	30056
 沲	itb	30055
 活	itd	30054
-劣	ite	30053
+劣	iet	30053
+#劣	ite	30053
 滗	ite	30053
 洗	itf	30052
 洚	itg	30051
@@ -10492,6 +10516,7 @@ Web	web	28013
 苷	aff	27548
 芏	aff	27547
 革	afj	27546
+革	akhg
 匡	agd	27545
 匡	ag	27545
 #~七	agn	27544
@@ -10585,6 +10610,7 @@ Web	web	28013
 马	cgd	27466
 台	ckf	27465
 厶	cny	27464
+允	cqn
 允	cqb	27463
 牺	csg	27462
 牧	cty	27461
@@ -10689,10 +10715,11 @@ def	def	27449
 支	fcuu	27380
 云	fcu	27379	#-
 圭	ff
-封	fff	27378
+#封	fff	27378
 #圭	fff	27378
 赶	ffgg
-赶	ffg	27377
+#赶	ffg	27377
+圭	ffg	27377
 坩	ffg	27377
 寺	ffu	27376
 十	fg	27375
@@ -11370,7 +11397,8 @@ UNIX	uni	26812
 奶	vbt	26794
 奴	vcy	26793
 姑	vdg	26792
-垦	vff	26791
+娃	vff
+垦	vfg	26791
 奸	vfh	26790
 寻	vfu	26789
 妹	vfy	26788
@@ -12610,7 +12638,7 @@ del	del	26006
 墙	ffuk	25592
 垤	fgcf	25591
 圩	fgfh	25590
-#干	fggh	25589
+干	fggh	25589
 未	fggy	25588
 士	fghg	25587
 #甘	fghg	25586
@@ -13282,7 +13310,7 @@ del	del	26006
 小	ihty	24963
 濉	ihwy	24962
 消	iieg	24961
-水	iiii	24960
+#水	iiii	24960
 淼	iiiu	24959
 淌	iimk	24958
 裟	iite	24957
@@ -13510,7 +13538,7 @@ ing	ingf	24907
 沸	ixjh	24738
 涨	ixty	24737
 溺	ixuu	24736
-潍	ixwy	24735
+潍	ixw	24735
 淳	iybg	24734
 流	iyck	24733
 鎏	iycq	24732
@@ -15616,7 +15644,7 @@ put	put	23396
 抄	ritt	22761
 撇	rity	22760
 挡	rivg	22759
-撮	rjbc	22758
+#撮	rjbc	22758
 捏	rjfg	22757
 捍	rjfh	22756
 担	rjgg	22755
@@ -16750,8 +16778,8 @@ txt	txt	21912
 疯	uwri	21657
 飒	uwry	21656
 #痤	uwwf	21655
-羚	uwyc	21653
 冷	uwyc	21654
+羚	uwy	21653
 准	uwyg	21652
 邶	uxbh	21651
 背	uxef	21650
@@ -21368,8 +21396,9 @@ Error	err	17424
 雲	ffcu	17071
 壖	ffdj	17070
 劸	ffet	17069
-亖	fff	17068
-雸	fff	17067
+土	fff	17068
+亖	fff
+雸	fff
 墵	fffc	17066
 垚	fff	17065 #(ffff)
 堼	fff	17064 #(ffff)
@@ -23865,7 +23894,7 @@ get	get	16084
 㵜	iiff	14584
 洸	iigq	14583
 㴣	iigw	14582
-㵘	iii	14581 #(iiii)
+㵘	iiii	14581 #(iiii)
 尛	iiiu	14580
 渁	iii	14579	#-
 㴇	iii	14578	#-
@@ -24517,7 +24546,7 @@ get	get	16084
 㵒	ixjm	13933
 漒	ixkj	13932
 㳽	ixti	13931
-濰	ixwy	13930
+濰	ixw	13930
 沘	ixxn	13929
 湝	ixxr	13928
 漷	iybb	13927
@@ -34266,7 +34295,7 @@ Tue	tue	4303
 筊	turu	4234
 籣	tusl	4233
 㭧	tusu	4232
-䑨	tutb	4231
+䑨	tut	4231
 䒀	tutf	4230
 簅	tutg	4229
 舽	tutg	4228
@@ -35274,10 +35303,10 @@ Tue	tue	4303
 癈	uwxc	3237
 㓆	uwxn	3236
 閄	uwy	3235
-竛	uwyc	3234
-閝	uwyc	3233
-㕠	uwyc	3232
-㾉	uwyc	3231
+竛	uwy	3234
+閝	uwy	3233
+㕠	uwy	3232
+㾉	uwy	3231
 痽	uwyd	3230
 閵	uwyd	3229
 凖	uwyf	3228
@@ -38502,10 +38531,10 @@ Tue	tue	4303
 三	d	22
 #大	d	22
 #毛	e	21
-爱	e
+#爱	e
 用	e
 #朋	ee	21
-用	ee	21
+月	ee	21
 #月	e	21
 二	f	20
 #土	f	20
@@ -40415,3 +40444,9 @@ gmail	gml
 Figma	figm
 #⌘	comm
 chip	chip
+Elon	elon
+Musk	musk
+apple.com	appc
+telegram	tele
+Taio	taio
+dmg	dmg
