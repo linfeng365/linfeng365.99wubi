@@ -23,6 +23,138 @@ encoder:
 
 
 
+
+
+拜登
+绝境
+慕强
+口吃
+结巴
+痛快
+调料
+情色
+辜负
+迷惑
+拖动
+悬崖
+补丁
+专项
+堡垒
+样本
+涟漪
+辉瑞
+教授
+很少
+暴怒
+风向
+严峻
+澳大利亚
+憎恨
+怨恨
+挫败
+无赖
+当量
+打怪
+双休
+夜间
+批准
+总和
+棉条
+自碍
+自障
+自阻
+自贬
+正反馈
+感想
+喜好
+仆人
+国企
+学士
+学位
+维权
+卖力
+出卖
+起飞
+面积
+心诀
+遍历
+切片
+undefined
+运算符
+双目
+单目
+单引号
+双引号
+字符串
+登陆
+好用
+标识符
+标识
+再说
+泡泡
+对我
+氛围
+透支
+赶紧
+费曼
+补贴
+笔试
+李白
+剧烈
+细微
+愧疚
+内疚
+税务
+福特
+缴纳
+警告
+替换
+尾注
+脚注
+文献
+挖矿
+加密
+导致
+受损
+写入
+违背
+流窜
+串流
+委员
+奇葩
+敲门
+怪物
+苦难
+挽回
+弥补
+天国
+回信
+安逸
+高速
+从来
+审美
+澳洲
+移民
+种子
+之夜
+之计
+缓兵
+缓行
+缓刑
+缓冲
+缓存
+缓缓
+暂缓
+特价
+狂野
+服侍
+报复
+多疑
+猜忌
+亲近
+迎合
+公正
+公平
 模拟
 传销
 间谍
@@ -3831,8 +3963,7 @@ shortcut	shct
 多读
 多写
 回忆
-电信	jnwy	57141
-了	bnh	57140
+电信
 解压
 纪念
 只要
@@ -4978,6 +5109,7 @@ review	revw
 程序
 对待
 情绪
+情结
 权力
 等	tff	40318
 荣耀
@@ -5289,7 +5421,6 @@ commit	comt
 恋爱
 挤进
 进出
-进口
 先进
 进度
 进去
@@ -5341,16 +5472,15 @@ note_linfeng@icloud.com	nolf
 内容
 一个
 一位
-那是	ngjg
-这是	ypjg
-这时	ypjf
-这里	ypjd	#重码
-这里	ypj
-天气	gdrt
-备份	tlww
-性格	ntst
-组成	xedn
-思想	lnsh
+那是
+这是
+这时
+这里
+天气
+备份
+性格
+组成
+思想
 有关
 价格
 人格	wst
@@ -5522,8 +5652,6 @@ book	book
 忘	ynn	40035
 这	yp	40034
 身	tmd	40033
-焱	ooo	40032
-炎	oo	40031
 优化
 发现
 改变
@@ -5718,7 +5846,7 @@ Kindle	kind
 记得	yntj
 方向	yytm
 上班	hhgy
-作业	wtoh
+作业
 Workflowy	wkfy
 Workflowy	wkfl
 好看	vbrh
@@ -6213,43 +6341,41 @@ url	url
 草垛寻针	afvq 
 
 # 计算机相关 
-命令	wgwy
-文件	yywt
-文件夹	ywgu
-#计算机	ytsw
-电脑	jney
-键盘	qvtu
-鼠标	ensf
-手机	rtsw
-显示	jofi
-显示器	jfkk
+命令
+文件
+文件夹
+计算机	yts
+电脑
+键盘
+鼠标
+手机
+显示
+显示器
 
 
-
-
-加油	ekim
-复制	tjtg	40009
-粘贴	ohmh	40010
-复制粘贴	ttom	40011
-就是	yijg
+加油
+复制
+粘贴
+复制粘贴
+就是
 还是	dhpj
-扭曲	rnma
+扭曲
 扭	rnfg
-确实	dqpu
-它们	pxwu
-他们	wbwu
-你们	wqwu
-她们	vbwu
-我们	trwu
+确实
+它们
+他们
+你们
+她们
+我们
 我们	qtwu	40008 #习惯
 我	qtah	40006 #习惯
 我	tahg	40005
 玩具	gfhw	40004
-东西	aisg
-以前	cwue
-以为	cwye
-可以	skcw
-所以	rncw
+东西
+以前
+以为
+可以
+所以
 #戔	aa
 #工	aa
 式	aa
@@ -6257,6 +6383,7 @@ url	url
 #人	ww
 
 
+了	bnh	40012
 也	bnh	40012
 我们	trwq	40003
 拜拜	rgrg	40002
@@ -6437,7 +6564,7 @@ el	el	31739
 #寺	ff	31720
 土	fff
 #~十	fg	31719
-直	fh	31718
+#直	fh	31718
 走	fh	31718
 示	fi	31717
 刊	fj	31716
@@ -6548,6 +6675,7 @@ is	is	31633
 晨	jd	31623
 明	je	31622
 时	jf	31621
+里	jf	31621
 #~量	jg	31620
 冒	jh	31619
 #早	jh	31619
@@ -6683,13 +6811,15 @@ my	my	31529
 of	of	31498
 #庄	of	31498
 精	og	31497
-业	oh	31496
+#业	oh	31496
+粘	oh
 应	oi	31495
 烛	oj	31494
 #燥	ok	31493
 库	ol	31492
 灿	om	31491
 断	on	31490
+火	oo	31489
 炎	oo	31489
 迷	op	31488
 底	oq	31487
@@ -6936,7 +7066,8 @@ of	of	31498
 级	xb	31279
 弘	xc	31278
 顷	xd	31277
-组	xe	31276
+缓	xe	31276
+#组	xe	31276
 结	xf	31275
 线	xg	31274
 引	xh	31273
@@ -8863,6 +8994,7 @@ Method	met
 展	nae	29443
 惬	nag	29442
 懵	nal	29441
+NaN	nan	29440
 屉	nan	29440
 怄	nar	29439
 懂	nat	29438
@@ -9013,7 +9145,7 @@ NULL	nul	29322
 迟	nyp	29302
 恼	nyr	29301
 尽	nyu	29300
-以	nyw	29299
+#以	nyw	29299
 #翠	nyw	29299
 度	oac	29298
 廑	oak	29297
@@ -9046,9 +9178,10 @@ NULL	nul	29322
 焐	ogk	29271
 炳	ogm	29270
 廒	ogq	29269
-业	ohh	29268
+#业	ohh	29268
 焯	ohj	29267
 店	ohk	29266
+粘	ohk
 黻	oid	29265
 应	oig	29264
 黼	ois	29263
@@ -9072,6 +9205,9 @@ NULL	nul	29322
 郯	oob	29246
 剡	ooj	29245
 火	ooo	29244
+焱	ooo	29244
+燚	ooo	29244
+业	ooo	29244
 糖	oov	29243
 烷	opf	29242
 煊	opg	29241
@@ -9229,8 +9365,9 @@ org	org	29230
 窳	pwr	29099
 窗	pwt	29098
 究	pwv	29097
-宿命	pww	29096
-#容	pww	29096
+
+#宿命	pww	29096
+容	pww	29096
 穹	pwx	29095
 鹤	pwy	29094
 祁	pyb	29093
@@ -11097,6 +11234,7 @@ def	def	27449
 示	fiu	27370
 刊	fjh	27369
 亓	fjj	27368
+进口	fjkk
 井	fjk	27367
 吉	fkf	27366
 圳	fkh	27365
@@ -11247,6 +11385,7 @@ god	god	27323
 里	jfd	27241
 里	jfg	27240
 蚶	jfg	27240
+旱	jfh	27239
 旰	jfh	27239
 旱	jf
 旱	jfj	27238
@@ -11758,7 +11897,9 @@ UNIX	uni	26812
 闪	uwi	26801
 北	uxn	26800
 冫	uyga	26799
+凉	uyi	26798
 闵	uyi	26798
+闵	uyy
 好	vbg	26797
 即	vbh	26796
 她	vbn	26795
@@ -11824,7 +11965,7 @@ way	way	26762
 企	wh	26741
 企	whf	26741
 个	whj	26740
-仆	wh	26739
+仆	why	26739
 氽	wiu	26738
 介	wjj	26737
 佃	wlg	26736
@@ -12564,7 +12705,8 @@ way	way	26762
 碜	dcde	26027
 码	dcgg	26026
 雄	dcwy	26025
-大	dddd	26024
+大大	dddd
+#大	dddd	26024
 靥	dddf	26023
 磊	dddf	26022
 飙	dddr	26021
@@ -14681,7 +14823,7 @@ ing	ingf	24907
 辊	ljxx	24077
 辑	lkbg	24076
 圆	lkmi	24075
-轵	lkwy	24074
+#轵	lkwy	24074
 圜	llge	24073
 皿	llll
 #田	llll	24072
@@ -15094,7 +15236,8 @@ ing	ingf	24907
 翠	nywf	23667
 #以	cwi
 以	cw
-以	nywy	23666
+以	nyw
+#以	nywy	23666
 度	oaci	23665
 廑	oakg	23664
 席	oamh	23663
@@ -15137,7 +15280,7 @@ ing	ingf	24907
 糟	ogmj	23628
 炳	ogmw	23627
 廒	ogqt	23626
-业	ohhg	23625
+#业	ohhg	23625
 焯	ohjh	23624
 店	ohkd	23623
 粘	ohkg	23622
@@ -17052,6 +17195,8 @@ txt	txt	21912
 癜	unac	21753
 阚	unbt	21752
 瘕	unhc	21751
+羞	unf
+羞	unfg
 羞	unhg	21750
 爿	unht	21749
 癖	unku	21748
@@ -19530,8 +19675,8 @@ BEGIN	beg	19386
 耼	bmfg	19300
 䎻	bmfk	19299
 䧓	bmfk	19298
-㞊	bmfn	19297
-䄐	bmfn	19296
+㞊	bmf	19297
+䄐	bmf	19296
 䳳	bmfo	19295
 㱁	bmfw	19294
 隑	bmg	19293
@@ -21150,7 +21295,7 @@ Dec	dec	18531
 豻	efh	17694
 䐈	efhg	17693
 䐜	efhw	17692
-䏡	efiy	17691
+䏡	efi	17691
 䐍	efku	17690
 䏝	efny	17689
 䏯	efny	17688
@@ -22091,6 +22236,7 @@ Error	err	17424
 鼜	fkuj	16758
 䶁	fkuj	16757
 嚭	fkuk	16756
+囍	fkfk
 囍	fkuk	16755
 鼛	fkuk	16754
 䵿	fkuk	16753
@@ -24199,7 +24345,7 @@ get	get	16084
 汙	igf	14657
 盓	igfl	14656
 潖	iggc	14655
-濽	iggm	14654
+濽	igg
 濏	iggt	14653
 泟	ighg	14652
 漹	igho	14651
@@ -24571,7 +24717,7 @@ get	get	16084
 㴼	ipwj	14285
 滘	ipw	14284
 㵠	ipwm	14283
-㴱	ipwu	14282
+㴱	ipw	14282
 泬	ipwy	14281
 溛	ipwy	14280
 㴶	ipwy	14279
@@ -26404,7 +26550,7 @@ ktv	ktv	12499
 噚	kvaf	12462
 嘅	kvaq	12461
 㗲	kvfg	12460
-嘯	kvfj	12459
+嘯	kvf	12459
 㖊	kvfy	12458
 㖀	kvgh	12457
 嚍	kvhl	12456
@@ -26722,7 +26868,7 @@ ktv	ktv	12499
 迴	lkpd	12144
 軦	lkqn	12143
 毄	lkwc	12142
-軹	lkwy	12141
+軹	lkw	12141
 䍛	lldf	12140
 畕	llf	12139
 圛	llff	12138
@@ -27014,6 +27160,7 @@ ktv	ktv	12499
 購	mamf	11853
 岠	mang	11852
 㞽	mann	11851
+man	man	11850
 㤟	man	11850
 䢗	mapd	11849
 㠓	mape	11848
@@ -27220,7 +27367,7 @@ method	metd
 㟑	mfpb	11648
 岏	mfqn	11647
 貦	mfqn	11646
-崁	mfqw	11645
+崁	mfq	11645
 㞿	mfru	11644
 賭	mft	11643
 財	mftt	11642
@@ -28176,6 +28323,7 @@ my	myy	11088
 怭	nntt	10698
 憀	nnwe	10697
 㥡	nnxs	10696
+忌	nny	10695
 㤈	nny	10695
 懭	noaw	10694
 憦	nooe	10693
@@ -28641,7 +28789,7 @@ my	myy	11088
 㸍	ohga	10233
 㷾	ohge	10232
 爠	ohhy	10231
-炶	ohkg	10230
+炶	ohk	10230
 㢚	ohle	10229
 廬	ohll	10228
 爐	ohll	10227
@@ -28765,7 +28913,7 @@ my	myy	11088
 慶	onnt	10109
 㷷	onnw	10108
 熤	onug	10107
-熮	onwe	10106
+熮	onw	10106
 燿	onwy	10105
 䊮	onwy	10104
 粎	ony	10103
@@ -28785,7 +28933,7 @@ my	myy	11088
 㥕	oonu	10089
 㲭	oooe	10088
 飊	oooj	10087
-燚	oooo	10086
+#燚	oooo	10086
 燊	ooos	10085
 爃	ooos	10084
 歘	ooow	10083
@@ -28840,6 +28988,7 @@ my	myy	11088
 熝	ooxx	10034
 麊	ooxx	10033
 䊌	ooxx	10032
+炎	ooy	10031
 炏	ooy	10031
 顲	ooym	10030
 爎	opdi	10029
@@ -29508,7 +29657,7 @@ pdf	pdf	9632
 䙖	pume	9370
 衻	pumf	9369
 袡	pumf	9368
-䘜	pumh	9367
+䘜	pum	9367
 褍	pumj	9366
 裯	pumk	9365
 䙤	pump	9364
@@ -32174,7 +32323,7 @@ pdf	pdf	9632
 气	rrr	6712
 白	rrr	6712
 皛	rrr	6712
-皨	rrrf	6711
+皨	rrr	6711
 掱	rrr	6710
 㩫	rrrm	6709
 㸚	rrrr	6708 #(rrrr)
@@ -33334,7 +33483,7 @@ SSH	ssh	5695
 㮞	suqk	5561
 栨	suqw	5560
 橂	susd	5559
-楢	susg	5558
+楢	sus	5558
 欄	susl	5557
 櫬	susq	5556
 㯗	susy	5555
@@ -35397,6 +35546,8 @@ Tue	tue	4303
 㿇	unrd	3525
 閟	unte	3524
 竮	unua	3523
+辨	unu
+㦚	unu
 㦚	unuh	3522
 㽶	unv	3521
 疦	unwi	3520
@@ -36631,6 +36782,7 @@ Tue	tue	4303
 侇	wgxw	2298
 伕	wgy	2297
 凪	whd	2296
+企	whg	2295
 仩	whg	2295
 倶	whgw	2294
 䥚	whhq	2293
@@ -37097,7 +37249,7 @@ Tue	tue	4303
 餛	wvjx	1833
 蝕	wvjy	1832
 䭂	wvkc	1831
-䬼	wvke	1830
+䬼	wvk	1830
 佋	wvk	1829
 侞	wvk	1828
 饋	wvkm	1827
@@ -37245,7 +37397,7 @@ Tue	tue	4303
 㒆	wwgn	1685
 㑉	wwgq	1684
 俆	wwgs	1683
-僜	wwgu	1682
+僜	wwg	1682
 倹	wwgw	1681
 儉	wwgw	1680
 睂	wwhh	1679
@@ -38406,8 +38558,8 @@ Tue	tue	4303
 訕	ymh	526
 髜	ymka	525
 鄗	ymkb	524
-毃	ymkc	523
-䯩	ymkc	522
+毃	ymk	523
+䯩	ymk	522
 䯨	ymkd	521
 髝	ymke	520
 㙜	ymkf	519
@@ -38943,7 +39095,10 @@ Tue	tue	4303
 #田	l	14
 山	m	13
 己	n	12
+业	o	11
 火	o	11
+火	oooo
+
 之	p	10
 金	q	9
 白	r	8
@@ -39027,6 +39182,7 @@ iTimeLog	itim
 eng	eng
 chs	chs
 console	coso
+console.log	colo
 JS	js
 JavaScript	js
 Python	py
@@ -39506,6 +39662,7 @@ apple	aple
 ID	idd
 id	id
 null	null
+nil	nil
 Syria	syra
 artist	atst
 simultaneous	sita	# 同时的
@@ -39757,7 +39914,6 @@ during	duri
 experience	expc
 mentee	ment
 men	men
-man	man
 skill	skil
 add	add
 turn	turn
@@ -40141,7 +40297,7 @@ script	scpt
 head	head
 body	body
 javascript	jasc
-alert	alrt
+alert	alet
 navigator	navg
 language	lanu
 HTML	htm
@@ -40680,7 +40836,6 @@ toolkit	toki
 via	via
 cpu	cpu
 DirectX	dirx
-alert	ale
 pic	pic
 San Jose	sanj
 San Jose	sajo
@@ -40906,3 +41061,25 @@ stay	stay
 Lidar	lida
 radar	rada
 SpaceX	spax
+USB	usb
+Chia	chia
+mirror	mirr
+document	docm
+write	wrie
+function	funt
+catch	cath
+burn out	buou
+isNaN	isna
+if else	ifel
+bmi	bmi
+length	lenh
+Rip	rip
+platform	plaf
+photoshop	phsh
+Xcode	xco
+Stack Overflow	stov
+rage	rage
+very hard	vrha
+very hard	veha
+robot	robo
+.net	dnet
