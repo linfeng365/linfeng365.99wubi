@@ -22,6 +22,65 @@ encoder:
 
 
 
+获益
+哈雷
+彗星
+预估
+有成
+奇迹
+湮灭
+功利
+铁锤
+捶打
+禁忌
+多巴胺
+催产素
+血清素
+内啡肽
+枯燥
+浮盈
+浮亏
+零碎
+处境
+客观
+杀手
+碰瓷
+高能
+低能
+大了
+呼唤
+爷爷	wrw
+戴套
+缩小
+走走
+杂牌
+凑和
+痕迹
+印迹
+侮辱
+羞辱
+欺负
+发散
+构图
+同类
+缺少
+谈心
+尼采
+禁欲
+道德
+崇拜
+恶魔
+一个	gwh
+顽抗
+负隅
+火箭
+滥交
+乱交
+手写
+镜像
+脑脊
+出圈
+极乐
 微分
 微积分
 丛林
@@ -105,7 +164,6 @@ encoder:
 心诀
 遍历
 切片
-undefined
 运算符
 双目
 单目
@@ -3717,6 +3775,7 @@ Jahwan0	jahw
 拍照
 文学
 疯狂
+运气
 动手
 周期
 背后
@@ -4803,6 +4862,8 @@ list	list
 [玫瑰]	aamg
 #[咖啡]	kekh
 [咖啡]	aakf
+[啤酒]	aabe
+🍉	aaxg
 🐸	aafr	#frog
 一星	gjt
 四星	ljt
@@ -5490,6 +5551,7 @@ note_linfeng@icloud.com	nolf
 发生
 发行
 超级	fhxb
+超级
 无敌	fqt
 订货	yswx
 订单	ysuj
@@ -6269,9 +6331,9 @@ url	url
 拼音	ruuj
 练习	xanu
 
-图书	ltnn
-茶叶	awkf
-咖啡	kekh
+图书
+茶叶
+
 
 相关
 感觉	dgip
@@ -6946,7 +7008,8 @@ of	of	31498
 #模	sa	31404
 李	sb	31403
 权	sc	31402
-顶	sd	31401
+枯	sd
+#顶	sd	31401
 杉	se	31400
 票	sf	31399
 #标	sf	31399
@@ -8156,7 +8219,7 @@ Feed	fee
 丨	hhl	30275
 矍	hhw	30274
 眦	hhx	30273
-督	hic	30272
+#督	hic	30272
 叔	hic	30271
 瞠	hip	30270
 步	hit	30269
@@ -9344,7 +9407,7 @@ org	org	29230
 牢	ptg	29139
 #额	ptk	29138
 客	ptk	29137
-褡	pua	29136
+#褡	pua	29136
 被	pub	29135
 被子
 袜子
@@ -9572,7 +9635,8 @@ QRCode	qrc	28941
 锋	qtd	28927
 狙	qte	28926
 猿	qtf	28925
-铁	qtg	28924
+狂	qtg	28924
+#铁	qtg	28924
 锻	qth	28923
 独	qtj	28922
 铬	qtk	28921
@@ -11159,6 +11223,7 @@ def	def	27449
 #有	def	27449 
 胡	deg	27448
 夯	der	27447
+历	den
 历	det	27446
 髟	det	27446
 矸	dfh	27445
@@ -14538,6 +14603,7 @@ ing	ingf	24907
 踊	kce	24387
 跆	kck	24386
 蹂	kcs	24385
+啡	khdh	24384
 啡	kdd	24384
 踌	kdf	24383
 蹰	kdf	24382
@@ -15946,9 +16012,10 @@ put	put	23396
 铢	qtfy	23000
 狭	qtgd	22999
 猜	qtge	22998
+锤	qtgg
 锤	qtgf	22997
 锺	qtgf	22996
-狂	qtgg	22995
+#狂	qtgg	22995
 钅	qtgn	22994
 逛	qtgp	22993
 铁	qtgy	22992
@@ -16314,7 +16381,8 @@ put	put	23396
 皓	rtfk	22638
 攒	rtfm	22637
 挺	rtfp	22636
-捶	rtgf	22635
+捶	rtgg
+#捶	rtgf	22635
 手	rtgh	22634
 气	rtgn	22633
 丘	rthg	22632
@@ -21113,7 +21181,7 @@ Dec	dec	18531
 惎	dwnu	17906
 㤗	dwnu	17905
 歁	dwnw	17904
-贗	dwqm	17903
+贗	dwq	17903
 鴈	dwqo	17902
 䳢	dwqo	17901
 蟴	dwrj	17900
@@ -21484,6 +21552,7 @@ Dec	dec	18531
 貑	enhc	17535
 䏔	enhg	17534
 䑀	enku	17533
+甩	enn	17532
 劜	enn	17532
 肊	enn	17531
 䏱	ennk	17530
@@ -22702,7 +22771,7 @@ Error	err	17424
 㘺	fway	16324
 塕	fwcn	16323
 坄	fwcy	16322
-垘	fwdy	16321
+垘	fwd	16321
 㙯	fwfc	16320
 勎	fwfe	16319
 勢	fwfe	16318
@@ -26029,7 +26098,7 @@ get	get	16084
 䠒	khde	13008
 䠑	khdf	13007
 跍	khdg	13006
-噦	khdh	13005
+噦	khd	13005
 蹽	khdi	13004
 䠞	khdi	13003
 踳	khdj	13002
@@ -26734,7 +26803,7 @@ ktv	ktv	12499
 轑	ldui	12308
 輳	ldwd	12307
 䡳	ldwr	12306
-轃	ldwt	12305
+轃	ldw	12305
 㽠	ldww	12304
 軑	ldy	12303
 轪	ldy	12302
@@ -31397,7 +31466,7 @@ pdf	pdf	9632
 㹴	qtgr	7663
 獓	qtgt	7662
 㹫	qtgw	7661
-鉄	qtgy	7660
+鉄	qtg	7660
 㺣	qtha	7659
 玃	qthc	7658
 鍛	qthc	7657
@@ -32968,7 +33037,7 @@ set	set	6284
 栵	sgqj	6102
 䣱	sgqk	6101
 杤	sgqt	6100
-醜	sgrc	6099
+醜	sgr	6099
 䣴	sgrq	6098
 䤕	sgrs	6097
 醥	sgsi	6096
@@ -33406,7 +33475,7 @@ SSH	ssh	5695
 㯃	sswi	5666
 檒	sswj	5665
 棽	sswn	5664
-棶	ssww	5663
+棶	ssw	5663
 㭪	ssy	5662
 枡	stah	5661
 杔	stan	5660
@@ -34151,9 +34220,9 @@ SSH	ssh	5695
 牐	thge	4934
 㲏	thge	4933
 㸢	thge	4932
-牔	thgf	4931
-㸡	thgf	4930
-㸣	thgf	4929
+牔	thg	4931
+㸡	thg	4930
+㸣	thg	4929
 牉	thgg	4928
 牗	thgh	4927
 㸠	thgi	4926
@@ -38049,7 +38118,7 @@ Tue	tue	4303
 絬	xtdg	1064
 綘	xtdh	1063
 繑	xtdk	1062
-穎	xtdm	1061
+穎	xtd	1061
 縫	xtdp	1060
 欵	xtdw	1059
 矤	xtdy	1058
@@ -39224,6 +39293,7 @@ job	jobb
 Sally	saly
 io	io
 content	 cont
+content	 cont
 where	wher
 when	when
 how	howw
@@ -40390,7 +40460,6 @@ global	glbl
 process	prce
 browser	brws
 defined	defi
-undefined	undf
 undefined	unde
 size	size
 sample	sapl
@@ -40566,6 +40635,7 @@ height	heih
 align	ali
 img	img
 scroll	scro
+scroll	scrl
 scrolling	scli
 JSON	jso
 eval	eval
@@ -41113,3 +41183,8 @@ very hard	vrha
 very hard	veha
 robot	robo
 .net	dnet
+OCR	ocr
+DMCA	dmca
+all in	alli
+pua	pua
+trade	trad
